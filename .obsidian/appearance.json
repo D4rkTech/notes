@@ -1,0 +1,11 @@
+{
+  "textFontFamily": "Roboto,Inter",
+  "baseFontSize": 16,
+  "theme": "obsidian",
+  "baseFontSizeAction": false,
+  "translucency": false,
+  "accentColor": "#4051a5",
+  "cssTheme": "Obsidian Nord",
+  "nativeMenus": false,
+  "showViewHeader": true
+}

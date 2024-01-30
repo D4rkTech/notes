@@ -1,0 +1,250 @@
+{
+    "categories": [
+        {
+            "name": "Ruby Route (Skytils)",
+            "waypoints": [
+                {
+                    "name": "04",
+                    "x": 220,
+                    "y": 59,
+                    "z": 396,
+                    "enabled": true,
+                    "addedAt": 1671666921344
+                },
+                {
+                    "name": "18",
+                    "x": 235,
+                    "y": 44,
+                    "z": 390,
+                    "enabled": true,
+                    "addedAt": 1671667475097
+                },
+                {
+                    "name": "23",
+                    "x": 228,
+                    "y": 34,
+                    "z": 413,
+                    "enabled": true,
+                    "addedAt": 1671667575655
+                },
+                {
+                    "name": "03",
+                    "x": 214,
+                    "y": 62,
+                    "z": 400,
+                    "enabled": true,
+                    "addedAt": 1671666903847
+                },
+                {
+                    "name": "19",
+                    "x": 237,
+                    "y": 43,
+                    "z": 400,
+                    "enabled": true,
+                    "addedAt": 1671667495156
+                },
+                {
+                    "name": "11",
+                    "x": 205,
+                    "y": 62,
+                    "z": 377,
+                    "enabled": true,
+                    "addedAt": 1671667137845
+                },
+                {
+                    "name": "22",
+                    "x": 219,
+                    "y": 39,
+                    "z": 415,
+                    "enabled": true,
+                    "addedAt": 1671667557946
+                },
+                {
+                    "name": "08",
+                    "x": 211,
+                    "y": 58,
+                    "z": 394,
+                    "enabled": true,
+                    "addedAt": 1671667067747
+                },
+                {
+                    "name": "25",
+                    "x": 230,
+                    "y": 46,
+                    "z": 416,
+                    "enabled": true,
+                    "addedAt": 1671667619154
+                },
+                {
+                    "name": "01",
+                    "x": 206,
+                    "y": 59,
+                    "z": 416,
+                    "enabled": true,
+                    "addedAt": 1671666844943
+                },
+                {
+                    "name": "21",
+                    "x": 221,
+                    "y": 40,
+                    "z": 409,
+                    "enabled": true,
+                    "addedAt": 1671667545392
+                },
+                {
+                    "name": "17",
+                    "x": 236,
+                    "y": 38,
+                    "z": 391,
+                    "enabled": true,
+                    "addedAt": 1671667456496
+                },
+                {
+                    "name": "02",
+                    "x": 207,
+                    "y": 60,
+                    "z": 408,
+                    "enabled": true,
+                    "addedAt": 1671666887594
+                },
+                {
+                    "name": "14",
+                    "x": 220,
+                    "y": 33,
+                    "z": 380,
+                    "enabled": true,
+                    "addedAt": 1671667263656
+                },
+                {
+                    "name": "30",
+                    "x": 222,
+                    "y": 50,
+                    "z": 407,
+                    "enabled": true,
+                    "addedAt": 1671667763847
+                },
+                {
+                    "name": "16",
+                    "x": 235,
+                    "y": 32,
+                    "z": 391,
+                    "enabled": true,
+                    "addedAt": 1671667433048
+                },
+                {
+                    "name": "15",
+                    "x": 229,
+                    "y": 33,
+                    "z": 392,
+                    "enabled": true,
+                    "addedAt": 1671667251396
+                },
+                {
+                    "name": "24",
+                    "x": 231,
+                    "y": 40,
+                    "z": 412,
+                    "enabled": true,
+                    "addedAt": 1671667601303
+                },
+                {
+                    "name": "09",
+                    "x": 209,
+                    "y": 62,
+                    "z": 395,
+                    "enabled": true,
+                    "addedAt": 1671667096399
+                },
+                {
+                    "name": "20",
+                    "x": 233,
+                    "y": 39,
+                    "z": 402,
+                    "enabled": true,
+                    "addedAt": 1671667511497
+                },
+                {
+                    "name": "28",
+                    "x": 233,
+                    "y": 54,
+                    "z": 408,
+                    "enabled": true,
+                    "addedAt": 1671667704345
+                },
+                {
+                    "name": "13",
+                    "x": 215,
+                    "y": 46,
+                    "z": 373,
+                    "enabled": true,
+                    "addedAt": 1671667201655
+                },
+                {
+                    "name": "10",
+                    "x": 204,
+                    "y": 62,
+                    "z": 386,
+                    "enabled": true,
+                    "addedAt": 1671667120495
+                },
+                {
+                    "name": "29",
+                    "x": 227,
+                    "y": 51,
+                    "z": 406,
+                    "enabled": true,
+                    "addedAt": 1671667739493
+                },
+                {
+                    "name": "12",
+                    "x": 210,
+                    "y": 57,
+                    "z": 381,
+                    "enabled": true,
+                    "addedAt": 1671667167743
+                },
+                {
+                    "name": "06",
+                    "x": 218,
+                    "y": 56,
+                    "z": 392,
+                    "enabled": true,
+                    "addedAt": 1671667023696
+                },
+                {
+                    "name": "26",
+                    "x": 225,
+                    "y": 59,
+                    "z": 415,
+                    "enabled": true,
+                    "addedAt": 1671667646547
+                },
+                {
+                    "name": "07",
+                    "x": 209,
+                    "y": 53,
+                    "z": 394,
+                    "enabled": true,
+                    "addedAt": 1671667040197
+                },
+                {
+                    "name": "27",
+                    "x": 229,
+                    "y": 60,
+                    "z": 413,
+                    "enabled": true,
+                    "addedAt": 1671667674896
+                },
+                {
+                    "name": "05",
+                    "x": 226,
+                    "y": 61,
+                    "z": 393,
+                    "enabled": true,
+                    "addedAt": 1671667002397
+                }
+            ],
+            "island": "crystal_hollows"
+        }
+    ]
+}

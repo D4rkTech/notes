@@ -1,0 +1,23 @@
+{
+  "legacyEditor": false,
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "userIgnoreFilters": [
+    "Excalidraw/"
+  ],
+  "trashOption": "none",
+  "fileSortOrder": "byModifiedTime",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./Attachments",
+  "tabSize": 2,
+  "spellcheckLanguages": null,
+  "spellcheck": true,
+  "vimMode": false
+}
