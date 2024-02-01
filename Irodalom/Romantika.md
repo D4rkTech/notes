@@ -1282,7 +1282,7 @@ Január 29. TZ (Arany, Jókai), Gyakorló feladatsor visszahozni
 	- Epilogus 1-2. versszak
 ### Madách Imre (1823 - 1864)
 #### Élete
-Alsósztregován született és halt meg
+Alsósztregován született
 Váci piarista gimnáziumban tanult - filozófia
 Pesti egyetemen jogot tanult
 Lónyai Etelka - Lantvirágok (első és egyetlen verseskötete) (1840)
@@ -1328,7 +1328,7 @@ Keretes szerkezet:
 Csak a történeti színekben fedezhető fel
 Hegeli dialektika → hegeli triáda
 - Minden történeti szín elején Ádám lelkesedik egy eszméért (tézis)
-- Ez az eszme az ellentétébe (antitézis)
+- Ez az eszme az ellentétébe (antitézis) csap át
 - Éva jelenti a megoldást (szintézis)
 - A következő szín eszméje a megoldás
 ![[Romantika 2024-01-25 12.30.47.excalidraw]]

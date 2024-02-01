@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infók.md",
+                "file": "Irodalom/Romantika.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infók.md",
+                "file": "Irodalom/Romantika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infók.md"
+                "file": "Irodalom/Romantika.md"
               }
             }
           },
@@ -132,8 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,9 +146,10 @@
   },
   "active": "52e0af0ddde086e4",
   "lastOpenFiles": [
-    "Matek TZ.md",
     "Történelem/Reformkor és szabadságharc/Forradalom és szabadságharc (1848-1849).md",
+    "Történelem/Reformkor és szabadságharc/A reformkor kibontakozása.md",
     "Infók.md",
+    "Matek TZ.md",
     "Irodalom/Arany János, Jókai Mór TZ.md",
     "Biológia (Nagy Attila edition)/Embertan/A vegetatív szabályozás.md",
     "Biológia (Nagy Attila edition)/Embertan/Szomatikus reflexek, érző és mozgató működés.md",
@@ -171,7 +171,6 @@
     "Irodalom/TZ.md",
     "Biológia (Nagy Attila edition)/Embertan/Attachments/Érzékszerveink működése és felépítése 2024-01-26 11.14.56.excalidraw.md",
     "Irodalom/Attachments/Romantika 2024-01-25 12.30.47.excalidraw.md",
-    "Történelem/Reformkor és szabadságharc/A reformkor kibontakozása.md",
     "Történelem/Reformkor és szabadságharc/A reformok elindítói.md",
     "Untitled.canvas",
     "Történelem/Reformkor és szabadságharc",
