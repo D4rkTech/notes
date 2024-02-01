@@ -14,7 +14,6 @@ A pesti radikálisok még aznap úgy döntöttek a Pilvax kávéházban, hogy el
 
 ---
 PPT!!
----
 ### A szabadságharc hadjáratai
 #### A felvidéki (téli) hadjárat
 <mark class="hltr-orange">1849 Január-Február</mark>
@@ -92,3 +91,45 @@ Buda ostroma
 #### A nyári hadjárat
 170 ezer osztrák + 200 ezer orosz ↔ 130 ezer honvéd
 Az orosz intervenció eldöntötte a szabadságharc sorsát
+Két katonai terv: <mark class="hltr-green">szegedi</mark> vagy <mark class="hltr-green">komáromi</mark> koncentrációs terv
+(<mark class="hltr-green">Komárom</mark> bevehetetlen erődnek számít, nehezebben egyesülnek az ellenséges csapatok)
+(<mark class="hltr-green">Szegedről</mark> könnyebb <mark class="hltr-green">Törökországba</mark> menekülni, időnyerés a külföldi támogatásra)
+<mark class="hltr-cyan">Kossuth</mark> <mark class="hltr-green">Szeged</mark> mellett döntött
+<mark class="hltr-cyan">Görgey</mark> elfogadja a <mark class="hltr-green">szegedi</mark> tervet, de nem ért vele egyet
+<mark class="hltr-orange">1849 Július 2</mark> második <mark class="hltr-green">komáromi</mark> csata
+- <mark class="hltr-cyan">Görgey</mark> személyesen vezet lovasrohamot
+- <mark class="hltr-cyan">Haynau</mark> kétszeres túlerejét visszaverte
+- <mark class="hltr-orange">1849 Július 13</mark> Súlyos sebesüléssekkel indul <mark class="hltr-green">Szegedre</mark> 30 ezer emberrel
+- <mark class="hltr-green">Komáromban</mark> <mark class="hltr-cyan">Klapka</mark> tábornok elbarikádozza magát ugyan ennyi emberrel
+<mark class="hltr-cyan">Kossuth</mark> újból <mark class="hltr-cyan">Deminskit</mark> nevezi ki főparancsnoknak
+A fővezér <mark class="hltr-green">Szegedre</mark> vitte a fősereget, nyomában <mark class="hltr-cyan">Haynau</mark>
+Ide költözött az országgyűlés és a kormány <mark class="hltr-green">Debrecenből</mark>
+<mark class="hltr-orange">1849 Július 28</mark> nemzetiségi határozat - nem jelent autonómiát, csupán széleskörű nyelvhasználatot biztosít
+<mark class="hltr-orange">1849 Július 31</mark> <mark class="hltr-green">segesvári</mark> csata (<mark class="hltr-cyan">Petőfi</mark> itt halhatott meg)
+<mark class="hltr-green">Szeged</mark> lakossága egy hónapig dolgozott feleslegesen
+Utóvédjét utolérték <mark class="hltr-green">Szőregen</mark>
+...
+<mark class="hltr-orange">1849 Augusztus 9</mark> <mark class="hltr-cyan">Görgey</mark> a felvidéken keresztül jutott el <mark class="hltr-green">Aradra</mark>
+A fővezér <mark class="hltr-cyan">Dembinski</mark> <mark class="hltr-green">Arad</mark> helyett az ellenség kezén lévő <mark class="hltr-green">Temesvárra</mark> ment
+<mark class="hltr-cyan">Dembinskit</mark> a <mark class="hltr-green">temesvári</mark> csata közben leváltották (<mark class="hltr-cyan">Bem apó</mark>)
+A csatát ettől függetlenül elvesztettük
+<mark class="hltr-cyan">Görgey</mark> nem vállalta a további harcot
+<mark class="hltr-cyan">Kossuth</mark> lemondott
+A hatalmat <mark class="hltr-cyan">Görgeyre</mark> bízta
+Így meg tudta szervezni az oroszokkal a fegyverletételt
+<mark class="hltr-orange">1849 Augusztus 13</mark> <mark class="hltr-green">világosi</mark> fegyverletétel
+Az oroszok előtt fegyverletétel üzenet volt <mark class="hltr-green">Ausztriának</mark>, hogy nem ők győztek le minket
+Ezzel megalázták a dinasztiát, vérig sértették <mark class="hltr-cyan">Haynaut</mark>
+A szabadságharc ezzel hivatalosan véget ért
+Miért az oroszok előtt tettük le a fegyvert?
+- <mark class="hltr-cyan">Haynau</mark> út közben is akasztott katonákat és civileket, tőle nem lehet kíméletet várni
+- <mark class="hltr-cyan">Miklós</mark> cár és <mark class="hltr-cyan">Paszkevics herceg</mark> a magyarokkal való méltányos bánásmódra kérte a császárt
+- (Az oroszok eddig is kegyesen fogadták a küldötteket)
+<mark class="hltr-cyan">Kossuth</mark> és <mark class="hltr-cyan">Szemere</mark> elhagyják az országot (A <mark class="hltr-green">Török Birodalomba</mark> menekülnek)
+#### Görgey áruló mítosza
+<mark class="hltr-cyan">Kossuth</mark> <mark class="hltr-green">vidini</mark> levelében <mark class="hltr-cyan">Görgeyt</mark> nevezte meg a szabadságharc bukásának okozójaként
+Kell egy bűnbak (ha az ország árulás miatt veszített, akkor van még értelme egy újabb forradalomnak)
+<mark class="hltr-cyan">Görgey</mark> egy életen át viselte a bélyeget a naiv közvélemény miatt
+
+
+Február 8 Dolgozat - Széchenyi / Wesselényi-től
