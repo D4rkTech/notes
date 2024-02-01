@@ -1321,7 +1321,19 @@ Keretes szerkezet:
 	- 2. szín - A paradicsomban
 	- 3. szín - Pálmás vidék a paradicsomon kívül (kiűzetés)
 - 4-14. szín - történeti színek / álomszínek
-	- 4. szín
+	- 4-6. szín - ókor
+		- 4. szín - Egyiptom
+		- 5. szín - Athén
+		- 6. szín - Róma
+	- 7. szín - Konstantinápoly - középkor
+	- 8. szín - Prága I. - középkor alkonya
+	- 9. szín - Párizs - "álom az álomban"
+	- 10. szín - Prága II. - középkor alkonya
+	- 11. szín - London - Madách jelene
+	- 12-14. szín - Madách jövőképe
+		- 12. szín - falanszter
+		- 13. szín - űr
+		- 14. szín - eszkimó
 - 15. szín - biblikus szín / keretszín
 	- 15. szín - Pálmás vidék a paradicsomon kívül (3. szín folytatása)
 ##### Filozófiai háttere
