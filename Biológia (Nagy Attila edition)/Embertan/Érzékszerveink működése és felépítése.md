@@ -30,7 +30,7 @@ Közelre jól lát
 Távolra rosszul
 Fénysugarak a retina előtt találkoznak
 Javítása: szórólencsével )( 
-##### Távollátás
+##### Távollátás (+)
 Közelre rosszul lát
 Távolra rosszul
 Fénysugarak a retina mögött találkoznának
@@ -53,3 +53,41 @@ Receptor (ingerületté alakít) → látóideg (II. agyideg) → átkeresztező
 #### Egyéb látással kapcsolatos betegségek
 ##### Kancsalság
 Végtelenbe meredő szemek szöget zárnak be → egy szem látást okoz
+##### Szürkehályog
+A lencsefüggesztő rostok időskorban veszítenek a rugalmasságukból, egy részük akár ki is csapódhat → üvegtest zavaros lesz
+Megoldás: műtét
+##### Zöldhályog
+Túl sok csarnokvíz termelése → megnövekszik a nyomás → retina idegsejtjei pusztulnak, akár a látóideg is elhalhat → vakság
+Megoldás: nincs
+### Hallás, egyensúlyozás
+#### Hallás folyamata
+Hanginger éri a fület
+Ingerület keletkezik a csigában lévő receptorsejtekben
+Ingerület szállítódik a halló és egyensúlyozó idegben
+... kiegészíteni PPT-ből a classroomból!
+#### Fül részei
+#### Békésy György-féle halláselmélet
+#### Egyensúlyozás
+### Szaglás, ízlelés, bőrérzékelés
+#### Ízlelés
+Szerve: nyelv
+Benne ízlelőszemölcsök (körül árkoltak, levél vagy fonal alakúak)
+Ezeket ízlelőbimbók, azokat ízérző receptorsejtek alkotják
+##### Folyamat
+Ízinger éri a nyelvet
+Ingerület keletkezik
+PPT!
+##### Ízek
+Édes
+Sós
+Savanyú
+Keserű
+(Umami)
+#### Szaglás
+Szerve: orr
+##### Folyamata
+Szaginger éri az orrot
+Ingerület keletkezik a szaglóhám receptorsejtjeiben
+PPT!
+#### Bőrérzékelés
+PPT!
