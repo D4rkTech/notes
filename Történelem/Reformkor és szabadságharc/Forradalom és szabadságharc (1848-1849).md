@@ -128,8 +128,25 @@ Miért az oroszok előtt tettük le a fegyvert?
 <mark class="hltr-cyan">Kossuth</mark> és <mark class="hltr-cyan">Szemere</mark> elhagyják az országot (A <mark class="hltr-green">Török Birodalomba</mark> menekülnek)
 #### Görgey áruló mítosza
 <mark class="hltr-cyan">Kossuth</mark> <mark class="hltr-green">vidini</mark> levelében <mark class="hltr-cyan">Görgeyt</mark> nevezte meg a szabadságharc bukásának okozójaként
-Kell egy bűnbak (ha az ország árulás miatt veszített, akkor van még értelme egy újabb forradalomnak)
+Oka: kell egy bűnbak (ha az ország árulás miatt veszített, akkor van még értelme egy újabb forradalomnak)
 <mark class="hltr-cyan">Görgey</mark> egy életen át viselte a bélyeget a naiv közvélemény miatt
-
+<mark class="hltr-orange">1884</mark> több száz honvéd tiszt írta alá azt a memorandumot, hogy nem tekintik <mark class="hltr-cyan">Görgeyt</mark> árulónak
+### A megtorlás és az aradi vértanúk kivégzése
+<mark class="hltr-orange">1849 Október 6</mark> (3. <mark class="hltr-green">bécsi</mark> forradalom és <mark class="hltr-cyan">Latour</mark> halálának évfordulója)
+#### Lőpor és golyó általi halált halt vértanúk
+<mark class="hltr-cyan">gróf Dessewffy Arisztid</mark>
+<mark class="hltr-cyan">Lázár Vilmos</mark>
+<mark class="hltr-cyan">Kiss Ernő</mark>
+<mark class="hltr-cyan">Schweidel József</mark>
+#### Akasztott vértanúink
+<mark class="hltr-cyan">Aulich Lajos</mark>
+<mark class="hltr-cyan">Damjanich János</mark>
+<mark class="hltr-cyan">Knézich Károly</mark>
+<mark class="hltr-cyan">Láhner György</mark>
+<mark class="hltr-cyan">gróf Leiningen-Westerburg Károly</mark>
+<mark class="hltr-cyan">Nagysándor József</mark>
+<mark class="hltr-cyan">Poeltenberg Ernő</mark>
+<mark class="hltr-cyan">Török Ignác</mark>
+<mark class="hltr-cyan">gróf Vécsey Károly</mark>
 
 Február 8 Dolgozat - Széchenyi / Wesselényi-től
