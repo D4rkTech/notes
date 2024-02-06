@@ -150,3 +150,17 @@ Oka: kell egy bűnbak (ha az ország árulás miatt veszített, akkor van még �
 <mark class="hltr-cyan">gróf Vécsey Károly</mark>
 
 Február 8 Dolgozat - Széchenyi / Wesselényi-től
+- utolsó rendi országgyűlésig (reformkor) a füzetből
+- onnantól a feltöltöttek
+- széchenyi reformprogramja (konzervatív, dinasztiával viszonya, gazdasági tevékenységei)
+- kossuth, wesselény (liberális, politikai és gazdasági reformok)
+- pesti forradalom
+- áprilisi törvények
+- hadjáratok
+- dátumok: 1848 március 15, áprilisi 11 (törvények), szeptember 29 - pákozdi csata, december vége - ogy költözése, hadjáratok, egyéb csaták nem kellenek napra pontosan
+- Tételmondat: Habsburg birodalom része
+- reformkor: 1830 - hitel-től
+- május 21 - Buda visszafoglalása
+- 1849 augusztus 13 - világosi fegyverletétel
+- 49 október 6 - aradi vértanúk
+- hosszú esszé (Széchenyi, Kossuth, szabadságharc egy hadjárata)
