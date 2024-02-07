@@ -6,14 +6,128 @@ Részleges közteherviselés: a vármegyei háziadót a nemesek is fizetik, de a
 <mark class="hltr-orange">1848</mark> tavasán forradalmi megmozdulások jellemzőek egész <mark class="hltr-green">Európában</mark>, aminek híre gyorsan terjedt (népek tavasza)
 <mark class="hltr-orange">Március 3.</mark> <mark class="hltr-green">Párizsi</mark> forradalom hírére az alsótábla elfogadja <mark class="hltr-cyan">Kossuth</mark> felirati javaslatát (kötelező örökváltság, közteherviselés, felelős kormány, alkotmány az örökös tartományoknak)
 Felsőtábla húzza az időt
-<mark class="hltr-orange">Március 13.</mark> <mark class="hltr-green">bécsi</mark> forradalom (<mark class="hltr-cyan">Metternich</mark> bukésa)
+<mark class="hltr-orange">Március 13.</mark> <mark class="hltr-green">bécsi</mark> forradalom (<mark class="hltr-cyan">Metternich</mark> bukása)
 <mark class="hltr-orange">Március 14.</mark> a felsőtábla is elfogadja a javaslatot
 <mark class="hltr-orange">Március 15.</mark> küldöttség viszi <mark class="hltr-green">Bécsbe</mark> a felirati javaslatot
 <mark class="hltr-cyan">Kossuth</mark> <mark class="hltr-cyan">Batthyány</mark> miniszterelnöki kinevezését is el akarja érni
 A pesti radikálisok még aznap úgy döntöttek a Pilvax kávéházban, hogy előrehozzák a tömegdemonstrációt <mark class="hltr-orange">március 15-re</mark> nem várnak az eredetileg tervezett <mark class="hltr-orange">19-éig</mark>
-
----
-PPT!!
+<mark class="hltr-cyan">Irinyi József</mark> megfogalmazza a 12 pontot, <mark class="hltr-cyan">Petőfi</mark> a Nemzeti dalt
+Széchenyinek a <mark class="hltr-green">Bécsbe</mark> menő hajón eszébe jut, hogy a nádor jogkör teljes visszaállítását is követeljük, így hazatérve <mark class="hltr-cyan">István nádor</mark> királyi helytartóként kinevezheti <mark class="hltr-cyan">Batthyányt</mark>, ha a <mark class="hltr-cyan">Habsburgok</mark> erre nem hajlandóak
+Márciusi ifjaknak két problémája van: kinn esik az eső, és nem tudják honnan szerezzenek tömeget
+Megoldás: szólni kell az ezer egyetemistának, az már tömeg
+Onnan a Landerer és Heckenast nyomdához mennek kinyomtatni a Nemzeti dalt és a 12 pontot
+Ezután hazamennek ebédelni, délutánra tömeggyűlést szerveznek a Nemzeti Múzeum elé (hátha addig eláll az eső)
+A városházán csatlakoznak a liberálisok is, a <mark class="hltr-green">szegedi</mark> <mark class="hltr-cyan">Klauzál Gábor</mark> és <mark class="hltr-cyan">Nyári Pál</mark>
+A városi tanács is melléjük áll <mark class="hltr-cyan">Rottenbiller Lipót</mark> polgármester vezetésével, akit megválasztanak a közcsendi bizottmány elnökének
+A hajóhídon átmennek <mark class="hltr-green">Budára</mark> a Helytartótanácsoz, ahol kiszabadítják <mark class="hltr-cyan">Táncsics Mihályt</mark> (ezzel teljesítve a 11. pontot)
+A katonaság itt megállíthatta volna a tömeget, de nem léptek közbe
+Este a Nemzeti Színházban <mark class="hltr-cyan">Katona József</mark> Bánk bánjával ünneplik a vértelen, dicsőséges forradalmat
+Az előadást nem lehet folytatni a fegyelmezetlen nézők miatt
+<mark class="hltr-cyan">Jókai</mark> a színpadra lép, kokárdával illeti <mark class="hltr-cyan">Laborfalvy Róza</mark> színésznő, akit később feleségül vett
+### A forradalom jelentősége
+Tömegbázist teremtett a polgári átalakulásnak
+Katalizátor szerepet játszott a forradalom alakulásában, felgyorsította a politikai eseményeket
+Nyomást gyakorolt <mark class="hltr-green">Bécsre</mark>, engedményekre kényszerítette őket
+<mark class="hltr-cyan">V. Ferdinánd</mark> szentesíti a felirati javaslatot, de <mark class="hltr-cyan">Batthyányt</mark> nem nevezte ki miniszterelnöknek
+Ezért <mark class="hltr-cyan">Habsburg István</mark> nádor rábeszéli a királyt, hogy tegye királyi helytartóvá (ő gyakorolhatja <mark class="hltr-green">Magyarországon</mark> az uralkodói jogokat)
+<mark class="hltr-cyan">István</mark> nádor az átalakulások híve, segíti a forradalmat
+Kinevezi <mark class="hltr-cyan">Batthyányt</mark> miniszterelnöknek (teljesen törvényes, legális lépés)
+Megalakul az első független magyar kormány, a <mark class="hltr-cyan">Batthyány</mark> kormány
+A kormányban minden politikai irányzat képviseltetve van → nagykoalíciós kormány (többségük liberális)
+### A Batthyány-kormány
+<mark class="hltr-cyan">Batthyány Lajos</mark> - miniszterelnök
+<mark class="hltr-cyan">Szemere Bertalan</mark> - belügy
+<mark class="hltr-cyan">Esterházy Pál</mark> - király személye körüli
+<mark class="hltr-cyan">Klauzál Gábor</mark> - földművelés, ipar és kereskedelem
+<mark class="hltr-cyan">Kossuth Lajos</mark> - pénzügy
+<mark class="hltr-cyan">Mészáros Lázár</mark> - honvédelem
+<mark class="hltr-cyan">Széchenyi István</mark> - közmunka és közlekedés
+<mark class="hltr-cyan">Eötvös István</mark> - vallás és közoktatás
+<mark class="hltr-cyan">Deák Ferenc</mark> - igazságügy
+### Áprilisi törvények
+<mark class="hltr-orange">1848 Április 11</mark> az uralkodó szentesíti a törvényeket
+31 cikkely
+Államforma: alkotmányos monarchia / királyság
+Politikai átalakítás, társadalmi modernizáció - lerakta egy modern, polgári <mark class="hltr-green">Magyarország</mark> alapjait
+Rendi kiváltságok felszámolása
+#### Feudális állam jogintézményeit lebontó törvények
+Közteherviselés
+Ősiség eltörlése
+Jobbágyi szolgálatok (robot, úriszék, tized) eltörlése
+Úrbéres telkeik az övék lettek - a jobbágyság 80%-a földhöz jutott (birtokosok kártalanítása későbbre halasztva)
+A közös használatú területek felosztásából adódó viták rendezésének szabályozása
+#### Az állam szervezetét szabályozó törvények
+Felelős magyar kormány (minisztérium)
+(miniszteri ellenjegyzés bevezetése)
+(a felelős magyar kormány már nem az uralkodónak, hanem az országgyűlésnek felelős)
+Kétkamarás, évenkénti országgyűlés <mark class="hltr-green">Pesten</mark>
+Választási kódex (népképviselet)
+Egyesülés <mark class="hltr-green">Erdéllyel</mark>
+Nemzeti színek és címer
+Nemzetőrség
+#### A polgári szabadságjogokat biztosító cikkelyek
+Előzetes cenzúra eltörlése
+Sajtószabadság
+Vallási egyenjogúság
+Tanszabadság egyetemi szinten: szabad szak- és tanárválasztás
+Színházak működésének jogi szabályozása
+#### Gazdasági jellegű jogszabályok
+A földbirtokosok kártalanítása az úrbéres földek elvesztéséért
+Hitelintézet felállítása a bevétel nélkül maradt földbirtokosok megsegítésére
+Vasútépítés és folyamszabályozási terv lefektetése <mark class="hltr-cyan">Széchenyi</mark> tervei alapján
+#### Választójogi reform
+20 év feletti férfiak vagyoni cenzus szerint
+Értelmiségiek, korábban választójoggal rendelkező nemesek, polgárok továbbra is szavazhatnak
+Választható a 24. életévét betöltött, magyarul tudó férfi
+Aktív választójog: választójogod van, szavazhatsz
+Passzív választójog: választható vagy, szavazhatnak rád
+A törvényhozó hatalom, az országgyűlés már nem rendi, <mark class="hltr-green">Pozsonyból</mark> <mark class="hltr-green">Pestre</mark> költözik, folyamatosan ülésezik
+### Birodalom egység - magyar függetlenség
+Nincs még példa a kialakítandó viszonyra
+Az udvar a pénzügyeket és a hadügyet beolvasztaná - szakítást eredményezhet (a hadügy élezi ki leginkább az ellentéteket)
+A <mark class="hltr-cyan">Habsburgok</mark> a nemzetiségieket használják fel <mark class="hltr-green">Magyarország</mark> ellen (az óhajtott autonómia ígéretével)
+(pl. szerbek, horvátok - <mark class="hltr-cyan">Jellasics</mark> bán)
+<mark class="hltr-orange">1848 Május</mark> kitör a szerb felkelés, mert a magyarok visszautasítják az autonómia követelésüket
+A magyar ezredeket nem engedi haza az udvar → nemzetőrség fejlesztése (nem mobilis, vármegyéhez kötött) → rendelkeznek 10 honvédzászlóalj felállításáról
+A szerb határőrök önkéntes népirtásba kezdenek a <mark class="hltr-green">Délvidéken</mark>
+Az osztrák kormány támogatta akcióikat, hiszen a saját nemzetiségeinkkel lenne a legolcsóbb leverni <mark class="hltr-green">Magyarországot</mark>
+A horvátokat elismerik politikai nemzetnek, autonómiát kapnak, a függetlenséget is elismernénk
+A horvát bánnak ez kevés, <mark class="hltr-cyan">Jelasics</mark> egy <mark class="hltr-green">Magyarországgal</mark> egyenrangú <mark class="hltr-green">Horvátországot</mark>
+akar ami nem <mark class="hltr-green">Magyarországgal</mark>, hanem <mark class="hltr-green">Ausztiával</mark> van perszonálunióban
+<mark class="hltr-orange">1848 Június</mark> <mark class="hltr-cyan">Kossuth</mark> önálló magyar bankjegy kibocsátása (Kossuth bankó) (A nép dobja össze a nemesfém fedezetet)
+<mark class="hltr-orange">1848 Július</mark> az országgyűlés megszavaz 200 ezer újoncot és ehhez szükséges pénzt
+### A szeptemberi fordulat és Jellasics kudarca
+<mark class="hltr-orange">1848 Augusztus</mark> <mark class="hltr-cyan">V. Ferdinánd</mark> államiratban vonja vissza az önálló magyar had- és pénzügyet
+A kormány tiltakozik
+<mark class="hltr-orange">1848 Szeptember 11</mark> <mark class="hltr-cyan">Jellasics</mark> 50 ezer emberével átlépi a határt (<mark class="hltr-green">Dráva</mark>) (Császári zászlókkal)
+A kormány újoncozást rendel el
+<mark class="hltr-orange">1848 Szeptember</mark> OHB (Országos Honvédelmi Bizottmány - a kormány szerepét vette át) <mark class="hltr-cyan">Kossuth</mark> elnökletével
+A tisztikar egy része nem akar a horvátok ellen harcolni
+<mark class="hltr-cyan">István</mark> nádor vezeti a sereget, aki lemond, miután rájön, hogy családja ellen kellene harcolnia (örökre elhagyja <mark class="hltr-green">Magyarországot</mark>, ő az ország utolsó nádora)
+A sereg új vezetője: <mark class="hltr-cyan">Móga János</mark>
+Az ország katonai biztosává és ideiglenesen nádorrá kinevezett <mark class="hltr-cyan">Lamberg Ferencet</mark> <mark class="hltr-green">Pesten</mark> a radikális tömeg felismeri és felkoncolja
+<mark class="hltr-orange">1848 Szeptember 29</mark> <mark class="hltr-green">pákozdi</mark> csata - győzelem <mark class="hltr-cyan">Jellasics</mark> felett
+<mark class="hltr-cyan">Jellasics</mark> fegyverszünetet kér, és <mark class="hltr-green">Bécs</mark> felé menekül
+<mark class="hltr-orange">1848 Október 6</mark> <mark class="hltr-green">Bécsben</mark> újabb forradalom tör ki (a magyar katonai segítségben bíztak. a kedvükben járva lámpavasra kötik <mark class="hltr-cyan">Latour</mark> hadügy minisztert, aki <mark class="hltr-green">Magyarországra</mark> uszította a horvátokat)
+A magyarok megállnak a <mark class="hltr-green">Lajtánál</mark> (határfolyó), nem lépnek át <mark class="hltr-green">Ausztiába</mark>, nem segítenek a <mark class="hltr-green">bécsi</mark> forradalmároknak
+Hezitálás oka: nem az osztrák sereg támadott ránk, a közös védelem kötelez minket
+Ellenérv: világos, hogy <mark class="hltr-cyan">Jellasics</mark> <mark class="hltr-cyan">Latour</mark> parancsára járt el (császári zászlók)
+<mark class="hltr-cyan">Kossuth</mark> meggyőzi <mark class="hltr-cyan">Mógát</mark>, hogy a támadás jogilag rendben van, de elkésnek a támadással
+<mark class="hltr-cyan">Windischgrätz</mark> tábornok <mark class="hltr-green">Prágából</mark> visszatérve leveri a <mark class="hltr-green">bécsi</mark> forradalmat, majd visszaveri a magyarokat <mark class="hltr-green">Schwechatnál</mark>
+<mark class="hltr-cyan">Mógát</mark> leváltják
+### A birodalmi sereg támadása
+<mark class="hltr-orange">1848 December</mark> <mark class="hltr-cyan">V. Ferdinándot</mark> leváltották <mark class="hltr-cyan">Ferenc Józsefre</mark> (<mark class="hltr-cyan">Habsburgok</mark> szerint őt nem kötik az áprilisi törvények, ő nem írta alá azokat)
+Támadás több oldalról hazánk ellen, a fősereg a <mark class="hltr-green">Duna</mark> mentén <mark class="hltr-green">Bécs</mark> felől <mark class="hltr-cyan">Windischgrätz</mark> vezetésével
+<mark class="hltr-cyan">Görgey</mark> visszavonul a határvidékről, feladja <mark class="hltr-green">Győrt</mark>
+Az idő a magyaroknak dolgozik, egyre több katonát képeznek ki
+Becsalogatja az ellenséget hazánkba → utánpótlásvonalak a mi előnyünkre lesznek
+Egyedül <mark class="hltr-cyan">Perczel Mór</mark> (<mark class="hltr-cyan">Görgey</mark> ellenlábasa) vállal csatát a főváros előterében <mark class="hltr-green">Mórnál</mark>, de vereséget szenved
+A honvédség feladja a fővárost, <mark class="hltr-green">Pestet</mark> is
+Az országgyűlést és az OHB-t <mark class="hltr-green">Debrecenre</mark> evakuálják
+<mark class="hltr-orange">1849 Január</mark> haditanács <mark class="hltr-green">Pesten</mark> → a fősereg visszavonul a <mark class="hltr-green">Tisza</mark> előterébe, <mark class="hltr-cyan">Görgey</mark> a felvidékre vonul (megakadályozza <mark class="hltr-cyan">Windischgrätz</mark> támadását)
+<mark class="hltr-cyan">Batthyány</mark> és <mark class="hltr-cyan">Deák</mark> békés megoldást próbálnak találni, de <mark class="hltr-cyan">Windischgrätz</mark> nem tárgyal
+<mark class="hltr-cyan">Batthyányt</mark> letartóztatják, <mark class="hltr-cyan">Deákot</mark> visszaküldik <mark class="hltr-green">zalai</mark> birtokaira
+<mark class="hltr-green">Ausztria</mark> katonai erővel kívánja megoldani a magyar problémát
 ### A szabadságharc hadjáratai
 #### A felvidéki (téli) hadjárat
 <mark class="hltr-orange">1849 Január-Február</mark>
@@ -37,14 +151,14 @@ Mielőtt elindítanánk az ellentámadást, meg kell tisztítani <mark class="hl
 <mark class="hltr-orange">1849 Február-Március</mark>
 <mark class="hltr-orange">1849 Áprilisára</mark> verte ki  az ellenséges csapatokat <mark class="hltr-green">Erdélyből</mark>
 <mark class="hltr-green">Erdély</mark> biztosítása után a honvédség ellentámadásra készül a <mark class="hltr-cyan">Habsburgok</mark> ellen
-<mark class="hltr-cyan">Kossuth</mark> a váci nyilatkozat után nem bízik <mark class="hltr-cyan">Görgeyben</mark>, ezért <mark class="hltr-cyan">Henryk Dembrinskit</mark> nevezi ki főparancsnoknak
+<mark class="hltr-cyan">Kossuth</mark> a váci nyilatkozat után nem bízik <mark class="hltr-cyan">Görgeyben</mark>, ezért <mark class="hltr-cyan">Henryk Dembinskit</mark> nevezi ki főparancsnoknak
 Felrendelik <mark class="hltr-cyan">Damjanich</mark> tábornok csapatait a <mark class="hltr-green">Délvidékről</mark>
 <mark class="hltr-cyan">Görgey</mark> és <mark class="hltr-cyan">Klapka</mark> csapatai már korábban találkoztak
-<mark class="hltr-orange">1849 Február 26-27.</mark> a <mark class="hltr-green">kápolnai</mark> csatában visszaverik a magyar támadást → a vezérkar megkérdőjelezi <mark class="hltr-cyan">Dembrinski</mark> kompetenciáját
+<mark class="hltr-orange">1849 Február 26-27.</mark> a <mark class="hltr-green">kápolnai</mark> csatában visszaverik a magyar támadást → a vezérkar megkérdőjelezi <mark class="hltr-cyan">Dembinski</mark> kompetenciáját
 <mark class="hltr-cyan">Windischgrätz</mark> túlértékeli győzelmét, a valóságban a honvédség kisebb veszteségek után rendezetten vonult vissza a <mark class="hltr-green">Tiszához</mark>
 A vereségnek bel- és külpolitikai következményei viszont voltak:
 - <mark class="hltr-orange">1849 Március 1</mark> <mark class="hltr-green">tiszafüredi</mark> katonai puccs 
-	- A tisztikar <mark class="hltr-cyan">Görgey</mark> vezetésével megtagadja az engedelmességet <mark class="hltr-cyan">Dembrinskinek</mark> (zendülés)
+	- A tisztikar <mark class="hltr-cyan">Görgey</mark> vezetésével megtagadja az engedelmességet <mark class="hltr-cyan">Dembinskinek</mark> (zendülés)
 	- <mark class="hltr-cyan">Kossuth</mark> a helyszínre utazik, agyon akarja lövetni <mark class="hltr-cyan">Görgeyt</mark>, meglepetésére a többi főtiszt <mark class="hltr-cyan">Görgey</mark> mellé áll
 	- <mark class="hltr-cyan">Kossuth</mark> nem akarja kinevezni <mark class="hltr-cyan">Görgeyt</mark>, helyette <mark class="hltr-cyan">Vetter Antalt</mark>  nevezi ki, aki betegség miatt nem tudja ellátni szerepét, így <mark class="hltr-cyan">Görgey</mark> váltja fel
 - <mark class="hltr-orange">1849 Március 4</mark> Az <mark class="hltr-green">olmützi</mark> (oktrojált) alkotmány
@@ -73,7 +187,7 @@ Hivatalosan alkotmányos királyság marad az ország
 <mark class="hltr-orange">1849 Május 1</mark> megalakul a <mark class="hltr-cyan">Szemere</mark>-kormány (megszűnt az OHB)
 Hadsereg egysége megmarad (a tisztek többsége a honvédségben marad)
 Újabb bekerítési kísérlet (II. hadtest elhitette az ellenséggel, hogy <mark class="hltr-green">Pestet</mark> kívánjuk bevenni, a fősereg pedig <mark class="hltr-green">Vác-Nagysalló-Komárom</mark> felé vonul)
-Most is rájönnek az oroszok a trükkre
+Most is rájönnek az osztrákok a trükkre
 Győzelem <mark class="hltr-green">Komáromnál</mark>
 A <mark class="hltr-green">Budáról</mark> <mark class="hltr-green">Bécsbe</mark> vonuló <mark class="hltr-cyan">Welden</mark> seregei is <mark class="hltr-green">Komárom</mark> alatt mentek el
 Ellenség üldözése ↔ <mark class="hltr-green">Buda</mark> visszafoglalása
@@ -108,7 +222,7 @@ Ide költözött az országgyűlés és a kormány <mark class="hltr-green">Debr
 <mark class="hltr-orange">1849 Július 31</mark> <mark class="hltr-green">segesvári</mark> csata (<mark class="hltr-cyan">Petőfi</mark> itt halhatott meg)
 <mark class="hltr-green">Szeged</mark> lakossága egy hónapig dolgozott feleslegesen
 Utóvédjét utolérték <mark class="hltr-green">Szőregen</mark>
-...
+<mark class="hltr-cyan">Dembinskinek</mark> <mark class="hltr-green">Aradra</mark> kellett volna vonulni és egyesülni <mark class="hltr-cyan">Görgey</mark> csapataival
 <mark class="hltr-orange">1849 Augusztus 9</mark> <mark class="hltr-cyan">Görgey</mark> a felvidéken keresztül jutott el <mark class="hltr-green">Aradra</mark>
 A fővezér <mark class="hltr-cyan">Dembinski</mark> <mark class="hltr-green">Arad</mark> helyett az ellenség kezén lévő <mark class="hltr-green">Temesvárra</mark> ment
 <mark class="hltr-cyan">Dembinskit</mark> a <mark class="hltr-green">temesvári</mark> csata közben leváltották (<mark class="hltr-cyan">Bem apó</mark>)
