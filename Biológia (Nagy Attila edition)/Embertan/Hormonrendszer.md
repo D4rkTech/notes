@@ -43,4 +43,24 @@ Velő: adrenalin, noradrenalin (szimpatikus idegrendszer neurotranszmitterei)
 Utóbbi túlműködése: stressz
 #### Hasnyálmirigy
 Külső elválasztású rész: hasnyál
-Belső elválasztású rész: inzulin
+Belső elválasztású rész: 
+- Inzulin - vércukorszint csökkentése
+- Glukagon - vércukorszint növelése
+#### Ivarmirigyek
+##### Nőknél
+Petefészek - ösztrogén
+Sárgatest - progeszteron
+Magzatburok - hCG
+Méhlepény - ösztrogén és progeszteron
+##### Férfiaknál
+Here - tesztoszteron
+#### Egyéb
+Tobozmirigy - melatonin (alvás)
+Bőr, máj és vese együttese - D-vitamin
+
+Feltöltött táblázatból:
+- tsh - pajzsmirigyserkentő hormon
+- tiroxin
+- inzulin
+- ösztrogén
+- tesztoszteron
