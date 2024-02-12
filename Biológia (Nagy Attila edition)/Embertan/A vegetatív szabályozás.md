@@ -1,3 +1,4 @@
+
 | Fájdalomreflex (szomatikus) |  | Vegetatív (zsigeri) reflex |
 | ---- | ---- | ---- |
 | Bőrben | Receptor | Belső szerv falában |
