@@ -1344,3 +1344,12 @@ Hegeli dialektika → hegeli triáda
 - Éva jelenti a megoldást (szintézis)
 - A következő szín eszméje a megoldás
 ![[Romantika 2024-01-25 12.30.47.excalidraw]]
+Március 1. Madách Imre szövegértés dolgozat
+### Mikszáth Kálmán
+
+
+HF. 
+Az a fekete folt (csütörtök)
+Bede Anna tartozása (péntek)
+Timár Zsófi özvegysége (péntek)
+Beszterce ostroma (szünetre)
