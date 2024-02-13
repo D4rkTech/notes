@@ -22,3 +22,13 @@ Az oroszok megsemmisítették a török flottát
 Angolok és franciák a törököket támogatták (nagyhatalmi egyensúly)
 A <mark class="hltr-cyan">Habsburgok</mark> hálátlanok voltak: először semlegesség, majd a törökökhöz csatlakoznak (<mark class="hltr-green">Havasalföld</mark> és <mark class="hltr-green">Moldva</mark> megszállása)
 <mark class="hltr-orange">1855</mark> bevették az angol-török-francia csapatok <mark class="hltr-green">Szevasztopol</mark> erődjét
+<mark class="hltr-green">Oroszország</mark> elvesztette a háborút
+<mark class="hltr-orange">1856</mark> <mark class="hltr-green">párizsi</mark> béke: 
+- Fekete tenger + tengerszorosai semleges övezetek (az orosz flotta nem állomásozhat itt)
+- A nagyhatalmak garantálták az <mark class="hltr-green">Oszmán Birodalom</mark> függetlenségét
+- Az oroszok lemondanak az ortodox keresztények védnökségéről
+- A két román fejedelemség független (<mark class="hltr-orange">1859</mark> közös fejedelmet választottak, <mark class="hltr-orange">1861</mark> <mark class="hltr-green">Havasalföld</mark> és <mark class="hltr-green">Moldva</mark> egyesül <mark class="hltr-green">Romániává</mark>)
+Az oroszok így visszaszorultak
+A háború óriási anyagi megterhelést jelentett az oroszoknak - államcsőd közeli állapot
+Ezt elkerülendő: <mark class="hltr-green">Alaszka</mark> eladása az <mark class="hltr-green">USA-nak</mark> (7.2 millió dollárért)
+<mark class="hltr-orange">1877</mark> újabb háborút indítanak (akkor több sikerrel)
