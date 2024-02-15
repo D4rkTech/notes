@@ -1345,11 +1345,48 @@ Hegeli dialektika → hegeli triáda
 - A következő szín eszméje a megoldás
 ![[Romantika 2024-01-25 12.30.47.excalidraw]]
 Március 1. Madách Imre szövegértés dolgozat
-### Mikszáth Kálmán
-
+### Mikszáth Kálmán (1847 - 1910)
+#### Élete
+Szklabonyán született
+Szülei: Mikszáth János (jómódú birtokos), Veres Mária (lelkész lánya)
+Szülőfaluja meghatározó volt ("görbe ország") (magyar-szlovák, két nyelv, két kultúra)
+Elemi iskola Szklabonyán
+További tanulmányai: Rimaszombat, Selmecbánya, Győr, Pest (jog)
+Balassagyarmaton esküdtként dolgozott (Mauks Mátyás mellett)
+Hamar otthagyta, ügyvédi irodában dolgozott tovább
+Egy ideig vármegyei hivatalnok volt
+Ami a lelket megmérgezi című novellájával megnyerte az Igazmondó folyóirat pályázatát (Jókai szerkeszti)
+Nógrádi lapok szerkesztője lett
+Elvette volt főnöke lányát, Mauks Ilonát (esküvő titokban, a lány családjának tudta nélkül)
+Pesten éltek (legválságosabb időszaka)
+Írásainak nem talál kiadót, anyagi gondjai egyre nőnek
+Megjelent az Elbeszélések című kötete (visszhang nélkül maradt)
+Első gyermekük néhány hetes korában halt meg
+Felesége is megbetegedett, hazautazott szüleihez (Mikszáth beadja a válópert)
+Újságíróként Szegedre került (Szegedi Napló munkatársa lett, Gárdonyi, Móra, Tömörkény)
+Fordulat - szegedi nép szereti - önbizalom, siker
+Pestre költözött - Pesti Hírlap munkatársa
+Kiadott művei: Tót atyafiak, A jó palócok
+Újra elveszi Mauks Ilonát
+Kisfaludy Társaság tagja lett
+Szabadelvű Párt országgyűlési képviselője lett
+Országgyűlési karcolatok - politikai életről szóló műve
+MTA tagja lett
+Regényei:
+- 1897 Gavallérok
+- 1900 Különös házasság
+- 1905 Szent Péter esernyője
+- 1894 Beszterce ostroma
+Mikszáth írásművészetének újításai: szubjektív elbeszélői hang, előtérbe kerül a parasztság témája
+Másik nagy témája a magyar társadalom jellegzetes rétege: a dzsentrik
+Illetve szívesen dolgozta fel a magyar történelem érdekes epizódjait
+#### Pályaszakaszai
+1870 - 1882 - pályakezdés, kisepika - novellák
+1883 - 1900 - kisregények
+1900 - 1910 - hosszabb elbeszélések, nagyregények
 
 HF. 
-Az a fekete folt (csütörtök)
 Bede Anna tartozása (péntek)
-Timár Zsófi özvegysége (péntek)
+
+Timár Zsófi özvegysége (szünetre)
 Beszterce ostroma (szünetre)
