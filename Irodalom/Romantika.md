@@ -1384,9 +1384,47 @@ Illetve szívesen dolgozta fel a magyar történelem érdekes epizódjait
 1870 - 1882 - pályakezdés, kisepika - novellák
 1883 - 1900 - kisregények
 1900 - 1910 - hosszabb elbeszélések, nagyregények
+#### Kisepikája
+##### Tót atyafiak
+Alcím: Elbeszélések és rajzok róluk
+Rajzok - leírások
+###### Kötetjellemzők
+4 hosszabb novellát / elbeszélést tartalmaz
+A történetek hősei a világtól elzártan élnek
+Emberi kommunikáció hiányában a természethez, állatokhoz állnak közelebb
+Érzelmek elrejtése
+###### Az a fekete folt
+**Címértelmezés** 
+- Keret ("busongó nóta")
+- Elsődlegesen (denotatív) fű nélküli fekete terület
+- Másodlagosan (konnotatív, metaforikus) Olej Tamás morális vétkének jelölője
+**Főszereplő**
+- Olej Tamás, mint bacsa (számadó juhász), mint férj és mint apa
+**Cselekményvezetés**
+- Hosszú bevezetés - főszereplő bemutatása, tájábrázolás
+- Ember és táj szoros kapcsolata
+- Fordulat: a herceg megjelenése (a bacsa és Anika életében is)
+- Matyi szerepének megváltozása
+- A herceg szándékai Anika számára nem egyértelműek
+- A testiség dominál, nem az érzelmek (néhány találkozás)
+- A második fordulat - a herceg ajánlata
+- Csattanó - Anika elvesztése
+- "Megoldás" - akol felégetése
+#### Novellisztikájának újszerűsége
+##### Parasztábrázolás
+Egyszerű nép ábrázolása, de nem idealizált figurák
+Hitelességre törekszik
+##### Lélekábrázolás
+Palóc hősei látszólag durvák, azonban igen mély érzelemvilágúak
+##### Tájábrázolás
+Mindig az események hátteréül szolgál (táj vagy miliő (épített környezet))
+##### Nyelvezet
+Közvetlen elbeszélői hang, anekdotázós stílus
+##### Balladai elemek
+A realitás mellett babonás elemek
+Jellemző rájuk a sejtetés, balladai homály, misztikum, kihagyásos szerkesztés
 
 HF. 
-Bede Anna tartozása (péntek)
-
+Bede Anna újszerűségeinek kiemelése (szünetre)
 Timár Zsófi özvegysége (szünetre)
 Beszterce ostroma (szünetre)
