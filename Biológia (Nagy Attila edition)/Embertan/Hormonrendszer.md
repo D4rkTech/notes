@@ -57,10 +57,3 @@ Here - tesztoszteron
 #### Egyéb
 Tobozmirigy - melatonin (alvás)
 Bőr, máj és vese együttese - D-vitamin
-
-Feltöltött táblázatból:
-- tsh - pajzsmirigyserkentő hormon
-- tiroxin
-- inzulin
-- ösztrogén
-- tesztoszteron
