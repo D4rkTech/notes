@@ -1423,8 +1423,6 @@ Közvetlen elbeszélői hang, anekdotázós stílus
 ##### Balladai elemek
 A realitás mellett babonás elemek
 Jellemző rájuk a sejtetés, balladai homály, misztikum, kihagyásos szerkesztés
-
-HF. 
-Bede Anna újszerűségeinek kiemelése (szünetre)
-Timár Zsófi özvegysége (szünetre)
-Beszterce ostroma (szünetre)
+#### Bede Anna tartozása
+A jó palócok című novellaciklusban (15 novella)
+Behoz szereplőket (pl. Bede Erzsi), akik a további novellákban is szerepelnek
