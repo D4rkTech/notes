@@ -13,7 +13,7 @@ Diplomáciai megegyezések <mark class="hltr-green">Ausztria</mark> kivonására
 <mark class="hltr-cyan">Cavour</mark> ezt visszautasítja, így az osztrákok hadat üzennek
 A vasútvonalak jelentősége ebben a háborúban érvényesül először
 Gyors francia csapatösszevonás <mark class="hltr-green">Észak-Itáliában</mark>
-<mark class="hltr-green">Villafranciai</mark> fegyverszünet - <mark class="hltr-cyan">III. Napóleon</mark> és <mark class="hltr-cyan">Ferenc József</mark> között (osztrák kérésre)
+<mark class="hltr-green">Villafrancai</mark> fegyverszünet - <mark class="hltr-cyan">III. Napóleon</mark> és <mark class="hltr-cyan">Ferenc József</mark> között (osztrák kérésre)
 <mark class="hltr-green">Zürichi</mark> béke (francia - osztrák között)
 <mark class="hltr-green">Torinói</mark> béke (szárd - osztrák között)
 <mark class="hltr-green">Lombardia</mark> <mark class="hltr-green">Piemonté</mark>
@@ -29,3 +29,7 @@ Felszabadította a <mark class="hltr-green">Nápolyi Királyságot</mark>, csatl
 <mark class="hltr-orange">1861</mark> első olasz parlament - létrejött az egységes <mark class="hltr-green">Olasz Királyság</mark>
 Uralkodó: <mark class="hltr-cyan">II. Viktor Emánuel</mark> (szárd-piemonti király)
 <mark class="hltr-green">Velence</mark> és <mark class="hltr-green">Róma</mark> nélkül
+<mark class="hltr-orange">1866</mark> porosz-osztrák háború - osztrák vereség (<mark class="hltr-green">königgrätzi</mark> csata) - <mark class="hltr-green">Velencét</mark> hozzácsatolják <mark class="hltr-green">Olaszországhoz</mark>
+<mark class="hltr-orange">1870</mark> francia-porosz háború - francia vereség (<mark class="hltr-green">sedani</mark> csata) - <mark class="hltr-green">Rómát</mark> is <mark class="hltr-green">Olaszországhoz</mark> csatolják
+A <mark class="hltr-green">Pápai Állam</mark> ezzel megszűnt (majd <mark class="hltr-orange">1929-ben</mark> alakul újjá)
+Teljes az egység
