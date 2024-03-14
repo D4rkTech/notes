@@ -1426,3 +1426,33 @@ Jellemző rájuk a sejtetés, balladai homály, misztikum, kihagyásos szerkeszt
 #### Bede Anna tartozása
 A jó palócok című novellaciklusban (15 novella)
 Behoz szereplőket (pl. Bede Erzsi), akik a további novellákban is szerepelnek
+#### Beszterce ostroma
+##### Keletkezése
+1894-ben Pesti Hírlapban jelent meg folytatásokban
+Bevezetésből és a Nagy Miklóshoz írt nyílt levélből tudunk meg legtöbbet a keletkezésről
+Az írónak egyik képviselőtársa mesélte el bolond őse, Pongrácz István történetét
+Mikszáth a család beleegyezésével írta meg a művet, melyhez sokat tett hozzá az írói fantázia
+Témája: "Egy különc ember története" (egyes kiadások ezt alcímként tüntetik fel)
+Jelentősége: a regény főhőse a "magyar Don Quijote", Cervantes regényalakjának magyar megfelelője
+Műfaja: (kis)regény
+Stílusa: romantika és realista
+Hangneme: az élőbeszédhez közeli, anekdotázó
+Anekdoták szerepe: a rövid, humoros, csattanóval végződő, valaminek apropóján elhangzó történetek az ábrázolás módszerei
+I. és II. rész ("Estella" és "Kedélyes atyafiak") párhuzamosan, a III. és IV. részre egy szálon (Y szerkesztés - Odüsszeia-hoz hasonló)
+```mermaid
+  flowchart TD;
+	  A["I. rész\nEstella"] --> C["III. rész\nA túsz"];
+	  B["II. rész\nKedélyes atyafiak"]-->C;
+	  C-->D["IV. rész\nAz éj"]
+```
+Regényidő: a cselekmény az 1870-es években játszódik, de Pongrácz a XVII. századba képzeli magát
+Regénytér: felvidéki várak, városok a történelmi Magyarországon (mai Szlovákiában)
+- Nedec vára
+- Beszterce
+- Zsolna
+- Budetin
+- Krivánka
+###### Pongrácz jellemzése
+A regény többi szereplőjéhez képest róla teljes képet kapunk
+A kulcskérdés az, hogy különc-e vagy bolond?
+A regény III. részében bekövetkezett párbajig csak hóbortos ember, aki tudatosan teremt egy letűnt világot
