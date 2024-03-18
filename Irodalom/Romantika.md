@@ -1440,7 +1440,7 @@ Hangneme: az élőbeszédhez közeli, anekdotázó
 Anekdoták szerepe: a rövid, humoros, csattanóval végződő, valaminek apropóján elhangzó történetek az ábrázolás módszerei
 I. és II. rész ("Estella" és "Kedélyes atyafiak") párhuzamosan, a III. és IV. részre egy szálon (Y szerkesztés - Odüsszeia-hoz hasonló)
 ```mermaid
-  flowchart TD;
+  flowchart LR;
 	  A["I. rész\nEstella"] --> C["III. rész\nA túsz"];
 	  B["II. rész\nKedélyes atyafiak"]-->C;
 	  C-->D["IV. rész\nAz éj"]
@@ -1452,7 +1452,39 @@ Regénytér: felvidéki várak, városok a történelmi Magyarországon (mai Szl
 - Zsolna
 - Budetin
 - Krivánka
-###### Pongrácz jellemzése
+##### Pongrácz jellemzése
 A regény többi szereplőjéhez képest róla teljes képet kapunk
 A kulcskérdés az, hogy különc-e vagy bolond?
 A regény III. részében bekövetkezett párbajig csak hóbortos ember, aki tudatosan teremt egy letűnt világot
+"Én nem akarok a XIX. században élni, visszamegyek a XVII.-be, mert nekem úgy tetszik"
+A párbaj után azonban nem épült fel teljesen, egyes szavai és tettei már inkább őrültségre vallanak
+**Lovagi erényei - szilárd értékrendre vall**
+- Ősök tisztelete
+- Gyengék és a nők védelme és eszményítése
+- Bőkezűsége, nagyvonalúsága különbbé teszik a folyton marakodó és egymásra licitáló Trnowszkynál (ők hivatottak képviselni a XIX. századi polgárságot) és a gátlástalan, másokon élősködő Behenczyekél (Gentry réteg)
+##### Értelmezése
+A regény Mikszáth társadalombírálatát fejezi ki
+Szereplők zöme negatív figura
+Csak az értelmiséget képviselő orvos és ügyvéd és a jószándékú polgármester pozitív szereplő
+Pongrácz is pozitív szereplő, aki élvezi a környezete rokonszenvét (kivétel a sántaság, asszony hiánya)
+
+HF. A bágyi csoda, Szegény Gélyi János lovai - 120-200 szó mi köti össze? az azonos szereplők hogyan viselkednek (milyen szerepet töltenek be a) két novellában? Jellemzés! olvasás sorrend és indoklás - kézzel írott - márc 25
+
+Április 11. - Madách, Mikszáth
+- Életrajz - (tankönyv) igaz/hamis + kihez köthető
+- fogalmak
+	- drámai költemény
+	- novella
+	- elbeszélés
+- szerző - műcím - műfaj (egyéb művek + tanult művek, tankönyv 139-141, 162-164 alapján) táblázat
+- motívumok felsorolása - melyik Mikszáth novellához kapcsolódik
+- beszterce ostroma
+	- szerkezet
+	- pongrácz jellemzése
+	- alkotűs hasznűlható
+- ember tragédiája
+	- szerkezet (történeti / bibliai szinek)
+	- történeti szinek hol játszódik, kik a szereplők
+	- hegeli triáda
+	- alkotás használható
+- csak vázlatosan kell írni
