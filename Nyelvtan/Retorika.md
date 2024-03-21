@@ -42,3 +42,10 @@ Nincs szükség mindennapos testnevelésre
 Rendezzünk olimpiát Budapesten
 
 Jan 29. Az egyikből 120-200 szavas fogalmazást kell írni
+
+>1. 16 év fölötti munkavállalót keresünk kozmetikumok értékesítésére. Kötetlen, egész évben végezhető munka.
+>2. Rendkívüli ajánlat: tágas, majdnem négyszobás panorámás lakás a központban alacsony rezsivel eladó!
+>3. Csinos középkorú titkárnő keresi hasonló korú párját.
+>4. Tönkrement a redőny? Kiszakadt a szúnyogháló? Hívjon a ___ számon és azonnal megjavítom kedvező áron!
+>5. Díszítse fel kertjét színpompás virágpalántáinkkal kedvező áron.
+>6. Ismerje meg Tenerife szépségeit a Göri Tours-szal!
