@@ -33,3 +33,25 @@ A lélek mélységeinek feltárása jellemző
 Aprólékos jellemzés, részletes környezetrajz
 Tárgyilagos hangnem
 Fontos műfaj: karrierregény, társadalmi regény
+### Naturalizmus
+"natura" szóból ered, jelentése: természet
+A realista ábrázolással elégedetlen alkotók stílusa ("túlzott realizmus")
+Az egyént az öröklés és a környezet határozza meg
+Fényképészi objektivitás, pontosság és dokumentatív hitelesség jellemzi
+A regények szereplői általában a társadalom legalsó rétegeinek szereplői: koldusok, bűnözők, prostituáltak
+Új témák: bűnözés, nyomor, szexualitás, betegségek, ösztönvilág
+Émile Zola: A kísérleti regény
+### Honoré de Balzac (1799-1850)
+#### Élete
+XIX. századi francia epikus alkotó
+Nemesi származású → ügyvédnek szánják
+Jog helyett irodalommal foglalkozott
+Kicsapongó életet él → realista témák
+Madame de Berny támogatta
+1835 - Goriot apó című alkotása megjelenik
+Tervezett Emberi színjáték című regényfolyam egy része, amelyben korának társadalmáról akart pontos képet adni - társadalmi tabló
+
+HF. Tk. 30-35. oldal jegyzet a Goriot apó cselekményéről: 10-15 pont
+Következő kötelező olvasmányok: Köpönyeg, Ivan Iljics halála, Nóra
+
+Jövő szeptemberre kellenek könyvek:  2x 3500 Ft most rendeljük (20% kedvezmény) vagy szeptemberre (nem feltétlen lesz kedvezmény)
