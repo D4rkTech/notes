@@ -18,7 +18,7 @@ Egy populáció génkészlete változatos, így képes reagálni a környezet v�
 Környezet változásának hatására változik az allélgyakoriság, ezért hosszú időn át új faj keletkezhet
 Lejátszódik ún. reális populációban
 #### Ideális populációk
-Allélgyakoriság hosszú időn keresztül állandó
+Allélgyakoriság hosszú időn keresztül állandó - genetikai egyensúly van
 Jellemzése:
 
 | Szempont                                                                    | Ideális populációban                                |
