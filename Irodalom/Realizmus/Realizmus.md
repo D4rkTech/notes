@@ -53,5 +53,10 @@ Tervezett Emberi színjáték című regényfolyam egy része, amelyben korának
 
 HF. Tk. 30-35. oldal jegyzet a Goriot apó cselekményéről: 10-15 pont
 Következő kötelező olvasmányok: Köpönyeg, Ivan Iljics halála, Nóra
-
+- Goriot apó egykori vagyonos tésztagyáros
+- Minden vagyonát lányaira költi, akik ezt ki is használják
+- Egy panzióban lakik Victorine
+- Szélhámos Voutrin alkut ajánl Eugenenek
+- 
 Jövő szeptemberre kellenek könyvek:  2x 3500 Ft most rendeljük (20% kedvezmény) vagy szeptemberre (nem feltétlen lesz kedvezmény)
+

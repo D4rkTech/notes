@@ -13,3 +13,23 @@
 Evolúcióelmélet
 Föld körüli utat tett (Beagle nevű hajón)
 Megfigyeléseket végez → hipotéziseket állít fel → Fajok eredete című könyve
+### Populációgenetika
+Egy populáció génkészlete változatos, így képes reagálni a környezet változásaira
+Környezet változásának hatására változik az allélgyakoriság, ezért hosszú időn át új faj keletkezhet
+Lejátszódik ún. reális populációban
+#### Ideális populációk
+Allélgyakoriság hosszú időn keresztül állandó
+Jellemzése:
+
+| Szempont                                                                    | Ideális populációban                                |
+| --------------------------------------------------------------------------- | --------------------------------------------------- |
+| Egyedszám                                                                   | Nagy (rokonpárosodás ellen)                         |
+| Párosodás                                                                   | Véletlenszerű (allélok keveredése is véletlenszerű) |
+| Különböző geno- és fenotípusú egyedek túlélési és szaporodási valószínűsége | Azonos                                              |
+| Szelekció                                                                   | Nincs                                               |
+| Migráció                                                                    | Nincs (populáció elszigetelt)                       |
+| Mutáció                                                                     | Nincs                                               |
+| Környezeti tényezők                                                         | Állandó                                             |
+Hardy-Weinberg törvény igaz rá (az allélok gyakorisága nem változik)
+$p+q=1$, ahol $p$ a domináns allélok gyakorisága, és $q$ a recesszív allélok gyakorisága, és
+$p^2+2pq+q^2 = 1$, ahol $p^2$ az AA egyedek gyakorisága és $q^2$ az aa egyedek gyakorisága

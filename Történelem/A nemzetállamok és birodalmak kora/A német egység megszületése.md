@@ -42,3 +42,8 @@ Uralkodó: <mark class="hltr-cyan">I. Vilmos</mark> (porosz király)
 <mark class="hltr-orange">1871 évi</mark> alkotmány
 - Törvényhozó hatalom - Birodalmi Gyűlés (Reichstag)
 - Végrehajtó hatalom - miniszterelnök (kancellár) (uralkodó nevezi ki)
+
+Április 8 TZ, de nem biztos, hogy lesz esszé
+- német, olasz egység
+- nagyhatalmak, gyarmatosítás
+- szövetségi rendszerek
