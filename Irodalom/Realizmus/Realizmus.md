@@ -50,9 +50,9 @@ Kicsapongó életet él → realista témák
 Madame de Berny támogatta
 1835 - Goriot apó című alkotása megjelenik
 Tervezett Emberi színjáték című regényfolyam egy része, amelyben korának társadalmáról akart pontos képet adni - társadalmi tabló
+### Orosz realizmus
+#CLASSROOM
+**Groteszk:** olyan esztétikai minőség, amely egyszerre nevettető és borzongató
 
-Gogol: A köpönyeg (szöveggyűjtemény) - Április 12.
 
-<CLASSROOM>
-
-Következő kötelező olvasmányok: Köpönyeg, Ivan Iljics halála, Nóra
+Következő kötelező olvasmányok: Ivan Iljics halála, Nóra
