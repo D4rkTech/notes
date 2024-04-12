@@ -28,3 +28,11 @@ Egységes birodalmi piac
 A magyar mezőgazdasági termények előnybe kerültek a birodalmon kívüli beszállítókkal szemben
 A gazdasági sikereket a bécsi kormányzat a saját számlájára írta
 <mark class="hltr-cyan">Bach</mark> Rückblick című műve, erre válaszul <mark class="hltr-cyan">Széchényi</mark> Ein Blick című műve - Bach rendszer kritikája
+### Az ellenállás
+<mark class="hltr-orange">1850-es évek eleje</mark> 
+- Fegyveres harcok újrakezdése (pl. <mark class="hltr-cyan">Noszlopy</mark>, székely vértanúk) 
+- Összeesküvések, merényletek (sikertelen)
+- Emigráció (pl. <mark class="hltr-cyan">Kossuth</mark>, <mark class="hltr-cyan">Klapka</mark>)
+- Passzív ellenállás (köznemesség)
+	- Vezetője: <mark class="hltr-cyan">Deák Ferenc</mark> (A haza bölcse, A nemzet rókátora) (<mark class="hltr-green">zalai</mark> birtokait eladta évjáradékért, Angol Királynő Szállodában bérel szobát)
+	- 

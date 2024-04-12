@@ -49,7 +49,7 @@ Lehet több cselekményszál
 | Madách Imre     | Mózes                          | dramatizált eposz    |
 | Mikszáth Kálmán | A tót atyafiak                 | novellakötet         |
 | Mikszáth Kálmán | A jó palócok                   | novellakötet         |
-| Mikszáth Kálmán | Országgyűlési karcolatok       | karocolat            |
+| Mikszáth Kálmán | Országgyűlési karcolatok       | karcolat             |
 | Mikszáth Kálmán | A gavallérok                   | kisregény            |
 | Mikszáth Kálmán | Két választás Magyarországon   | novellafüzér         |
 | Mikszáth Kálmán | Különös házasság               | történelmi regény    |
