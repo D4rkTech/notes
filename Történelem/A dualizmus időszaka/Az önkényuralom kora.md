@@ -35,4 +35,3 @@ A gazdasági sikereket a bécsi kormányzat a saját számlájára írta
 - Emigráció (pl. <mark class="hltr-cyan">Kossuth</mark>, <mark class="hltr-cyan">Klapka</mark>)
 - Passzív ellenállás (köznemesség)
 	- Vezetője: <mark class="hltr-cyan">Deák Ferenc</mark> (A haza bölcse, A nemzet rókátora) (<mark class="hltr-green">zalai</mark> birtokait eladta évjáradékért, Angol Királynő Szállodában bérel szobát)
-	- 
