@@ -55,4 +55,5 @@ Tervezett Emberi színjáték című regényfolyam egy része, amelyben korának
 **Groteszk:** olyan esztétikai minőség, amely egyszerre nevettető és borzongató
 
 
-Következő kötelező olvasmányok: Ivan Iljics halála, Nóra
+Április 19. Péntek Ivan Iljics halála
+Következő kötelező olvasmányok: Nóra

@@ -11,4 +11,4 @@
 | 6. óra  | Irodalom   | Fizika      | Német     | Nyelvtan    | Fizika      |
 | 7. óra  | Nyelvtan   | Fizika      | Irodalom  | Német       | Testnevelés |
 
-Március 18. Szülői
+Május 15. 12-es osztályozó vizsga jelentkezési határidő
