@@ -29,6 +29,3 @@
 >   A cigány kisebbségen belül három csoportot különítünk el: romungrók, oláh és beás cigányok
 >   A magyar nyelvpolitika legfőbb feladata a cigány értelmiség kialakítása, illetve a magyar nyelvi felzárkóztatás
 >   Cigány köznyelv nincs, ezért szükség lenne a cigány nyelvek standardizációjára (szótárak, nyelvi szabályok rögzítése)
-
-Következő órán dolgozat!
-gyakorlati feladat
