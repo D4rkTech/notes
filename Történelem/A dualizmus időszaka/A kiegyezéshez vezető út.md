@@ -15,3 +15,34 @@ Megrendül az önkényuralmi rendszer
 - Alkotmányos vonások
 - <mark class="hltr-green">Magyarország</mark>, mint tartomány
 - Visszaállította <mark class="hltr-green">Magyarországon</mark> a vármegyék rendszerét, a magyar államnyelvet és országgyűlési választást hirdetnek
+<mark class="hltr-orange">1861</mark> országgyűlés 
+- A magyarok visszautasítják a pátenst
+- Kérdés: hogyan közöljük a döntést <mark class="hltr-cyan">Ferenc Józseffel</mark>?
+- <mark class="hltr-cyan">Deák Ferenc</mark> - <mark class="hltr-purple">Felirati Párt</mark> (e mellett döntöttek, kommunikációt kezdeményez le- és feliratokon keresztül)
+- <mark class="hltr-cyan">Teleki László</mark> - <mark class="hltr-purple">Határozati Párt</mark> (ultimátum)
+### A provizórium
+A felirat hatására <mark class="hltr-cyan">Ferenc József</mark> berekesztette az országgyűlést
+<mark class="hltr-orange">1861-1865</mark> átmeneti korszak, ideiglenes állapot
+<mark class="hltr-cyan">Schmerling</mark>
+Erőszakos módszerek megszüntetése
+A magyarok és <mark class="hltr-cyan">Ferenc József</mark> is hajlott a megegyezésre
+### A kiegyezés
+Kompromisszum kell
+Célok:
+- <mark class="hltr-green">Osztrák Császárság</mark> - nagyhatalmi pozíció megtartása, birodalmi egység
+- <mark class="hltr-green">Magyarország</mark> - önállóság
+<mark class="hltr-orange">1865</mark> <mark class="hltr-cyan">Deák Ferenc</mark> húsvéti cikke - az alkotmány visszaállításáért cserébe hajlandóak vagyunk engedni az <mark class="hltr-orange">1848-as</mark> alapból a külügy, a hadügy és az ezeket fedező pénzügyek tekintetében a birodalom fenntartásának érdekében
+<mark class="hltr-cyan">Schmerlinget</mark> menesztik, összehívja az országgyűlést
+<mark class="hltr-cyan">Deák</mark> + a konzervatívok (<mark class="hltr-purple">Deák-párt</mark>)
+<mark class="hltr-purple">Határozati Pártból</mark> kialakult:
+- <mark class="hltr-purple">Balközép Párt</mark> (mérsékeltek)
+- <mark class="hltr-purple">Országos 48-as Párt</mark> (radikálisak)
+<mark class="hltr-orange">1866</mark> porosz-osztrák háború
+Nem használjuk ki  a helyzetet <mark class="hltr-cyan">Ferenc József</mark> ellen
+Jöhet a megegyezés
+<mark class="hltr-orange">1867</mark> kiegyezési törvény
+- Megyei önkormányzat visszaállítása
+- <mark class="hltr-orange">1848-as</mark> törvények visszaállítása <mark class="hltr-cyan">Deák</mark> húsvéti cikke szerint (közös külügy, hadügy és ezeket fedező pénzügy)
+- <mark class="hltr-cyan">Andrássy Gyula</mark> lett a miniszterelnök
+- <mark class="hltr-cyan">Ferenc József</mark> megkoronázása
+- <mark class="hltr-cyan">Kossuth</mark> - "Cassandra" levél (<mark class="hltr-green">trójai</mark> jósnő, akinek nem hitt senki)
