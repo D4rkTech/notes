@@ -46,3 +46,17 @@ Jöhet a megegyezés
 - <mark class="hltr-cyan">Andrássy Gyula</mark> lett a miniszterelnök
 - <mark class="hltr-cyan">Ferenc József</mark> megkoronázása
 - <mark class="hltr-cyan">Kossuth</mark> - "Cassandra" levél (<mark class="hltr-green">trójai</mark> jósnő, akinek nem hitt senki)
+### A dualizmus állami és gazdasági rendszere
+<mark class="hltr-orange">1867</mark> <mark class="hltr-green">Osztrák-Magyar Monarchia</mark> (<mark class="hltr-orange">1918-ig</mark>)
+Dualista állam (két központú, alkotmányos)
+Közös uralkodó + hadügy, külügy és ezeket fedező pénzügy
+Közös minisztériumok, 60-60 fős delegációk
+De jelentős maradt az uralkodó befolyása
+(hadsereg irányítása + előszentesítési jog a magyar országgyűlésen + rendeleti kormányzás lehetősége az osztrák birodalmi gyűlésen + ha a közös minisztériumok nem tudnak dönteni, akkor az uralkodó hozhat végső döntést)
+Gazdasági kapcsolat - 10 évenkénti újratárgyalás
+Közös vámterület és valuta, közös súly- és mértékrendszer, tőke és munkaerő szabad áramlása
+Közös ügyek fedezésének aránya: 70 - 30% (magyarok 30%)
+<mark class="hltr-green">Magyarország</mark> a közös ügyeken kívül teljesen önálló - belpolitikai önállóság
+<mark class="hltr-cyan">Andrássy</mark>-kormány (<mark class="hltr-orange">1867</mark>)
+Cenzusos választójog
+<mark class="hltr-green">Magyarország</mark> + <mark class="hltr-green">Erdély</mark>
