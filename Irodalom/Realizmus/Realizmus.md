@@ -54,6 +54,22 @@ Tervezett Emberi színjáték című regényfolyam egy része, amelyben korának
 #CLASSROOM
 **Groteszk:** olyan esztétikai minőség, amely egyszerre nevettető és borzongató
 
+#### Csehov
+\19. század második felének orosz epikusa és drámaírója - teljesen realista alkotó (elődje: Gogol, aki a 19. század első felében alkotott)
+Epikusként novellák (pl. A csinovnyik halála)
+- Megújította a hagyományos (Boccaccio-féle) novellát
+- Hétköznapi "hősei" vannak
+- Hétköznapi eseményeket mutat be
+- A csinovnyik lét tragédiáját dolgozza fel
+Drámaíróként új műfajt teremt: drámaiatlan dráma
+- 19. század második felének drámatípusa
+- Csehov teremtette és kiemelkedő művelője volt
+- Tehetetlen szereplők 
+- Nem tudnak javítani az életükön (cselekvésképtelenek), tragédiaként fogják fel
+- Elbeszélnek egymás mellett
+- pl. Sirály, Ványa bácsi, Három nővér
+#### Tolsztoj
+##### Ivan Iljics halála
+HF.: Betegségek, tünetek
 
-Április 19. Péntek Ivan Iljics halála
 Következő kötelező olvasmányok: Nóra
