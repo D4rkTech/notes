@@ -68,8 +68,40 @@ Drámaíróként új műfajt teremt: drámaiatlan dráma
 - Nem tudnak javítani az életükön (cselekvésképtelenek), tragédiaként fogják fel
 - Elbeszélnek egymás mellett
 - pl. Sirály, Ványa bácsi, Három nővér
-#### Tolsztoj
+#### Lev Tolsztoj
+\19. század második felei, 20. századi orosz realista alkotó
+Jasznaja Poljanában született
+Tanulmányai Moszkvában, Péterváron folytatta (jog, nem dolgozott)
+Fő művei:
+- Háború és béke - nagyregény
+- Anna Karenina - nagyregény
+- Feltámadás - kisregény
+- Ivan Iljics halála - kisregény
+##### Tolsztojánizmus / tolsztojizmus
+Az író erkölcsi világnézete
+Szenvedőkkel szimpatizál
+Jobbá akarja tenni a világot (általában hősein keresztül, erőszakmentesen, szeretettel)
+Erkölcsileg tiszta: a muzsikok (parasztok) és a gyerekek
 ##### Ivan Iljics halála
+**Cím:** témajelölő (végkifejletre utal, ami a mű elejében és végében is megjelenik)
+**Műfaj:** kisregény (vagy elbeszélés az oktatási hivatal szerint)
+**Időkezelés:** fordított, aránytalan
+- "In medias res" jellegű kezdése van (csak nem a közepébe, hanem a végébe)
+- 12. fejezet után jön az 1. fejezet
+- 2-3. fejezet
+	- Ivan Iljics életének első 43 éve
+- 4-11. fejezet
+	- kb. 1 év eseményeit mutatja be
+	- Betegségének, halálának története
+**Térkezelés:** 
+- 2-3. fejezet - táguló regénytér (Pétervár, vidéki városok, Pétervár)
+- 4. fejezettől szűkülő regénytér (Pétervári otthon, szalon, betegszoba, ágy)
+
 HF.: Betegségek, tünetek
+- "sajátságos szájíz"
+- "kellemetlenség (...) a bal derekán" → "oldalfájás"
+- vándorló vese
+- vakbél
+- szeme fényének elvesztése
 
 Következő kötelező olvasmányok: Nóra
