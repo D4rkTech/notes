@@ -33,5 +33,13 @@ Horvát nyelvhasználat
 <mark class="hltr-green">Fiume</mark> kérdése (jelentős kikötőváros)
 <mark class="hltr-cyan">Mária Terézia</mark> uralkodása óta <mark class="hltr-green">Magyarországhoz</mark> tartozott, de a horvátok igényt tartanak rá
 Maradt a miénk, hivatalos nyelve az olasz
-Április 25 - Bach korszaktól röpdolgozat
 #### Az 1868-as nemzetiségi törvény
+<mark class="hltr-orange">1868</mark> évi 44. törvénycikk - <mark class="hltr-cyan">Eötvös József</mark> terjesztette elő <mark class="hltr-cyan">Deák Ferenc</mark> támogatásával
+Széles körű nyelvhasználat
+Vegyes lakosságú területen, ha az adott nemzetiség eléri a lakosság 20%-át, akkor a törvényhatóságokban, alsó és középfokon a bíróságon és a hivatalos ügyintézésben biztosítják a nemzetiségi nyelv használatát
+Állami fenntartású alsó- és középfokú nemzetiségi iskolák biztosítása
+Nemzetiségi egyesületek alakításának engedélyezése (ha nem a magyar állam megbuktatása céljából szerveződik)
+Területi autonómia és kollektív jogok nincsenek
+Nem elégítette ki a törvény a nemzetiségieket
+
+Április 25 - Bach korszaktól röpdolgozat
