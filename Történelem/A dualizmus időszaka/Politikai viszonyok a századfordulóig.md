@@ -12,4 +12,32 @@ A dualizmust fenntartó kormány nem veszíthette el többségét (választási 
 Miniszterelnökök (dolgozatban nem kell):
 - <mark class="hltr-cyan">id. Andrássy Gyula</mark> (1867-1871)
 - <mark class="hltr-cyan">Lónyay Menyhért</mark> (1871-1872)
-- 
+- <mark class="hltr-cyan">Szlávy József</mark> (1872-1874)
+- <mark class="hltr-cyan">Bittó István</mark> (1874-1875)
+- <mark class="hltr-cyan">Wenckheim Béla</mark> (1875)
+A Deák-párt vezető szerepe a <mark class="hltr-orange">1870-es évek</mark> első felében megrendült (Európai gazdasági válság + <mark class="hltr-cyan">Deák</mark> betegeskedése, halála)
+Országos 48-as Párt → Függetlenségi Párt
+Balközép + Deák-párt → Szabadelvű Párt
+A Szabadelvű Párt alakíthatott kormányt → <mark class="hltr-cyan">Tisza Kálmán</mark> a miniszterelnök (1875-1890)
+<mark class="hltr-cyan">Tisza</mark> "szegre akasztotta a bihari pontokat"
+### A dualizmus megszilárdítása
+Tisza-kormány
+A "generális"
+Kemény kézzel irányított
+Célja: polgári állam kialakítása
+**Közigazgatási reform**
+- Beolvasztották a megyerendszerbe az addig kiváltságos területeket (székely- és szász székek, jász-kun és hajdú kerületek)
+- A megyék önkormányzatát jelentősen csökkentették az állammal szemben
+- Állam által fizetett hivatalnokok (dzsentrik)
+**Közbiztonság**
+- Rendőrség (városokban)
+- Csendőrség (vidéken)
+- Büntető törvénykönyv (Csemegi-kódex)
+Egészségügyi ellátás javítása (pl. kórházak építése)
+Postaszolgálat + infrastruktúra fejlesztése (vasút és folyószabályozás)
+**Oktatási reform***
+- <mark class="hltr-orange">1868</mark> népiskolai törvény
+- Általános tankötelezettség
+- Elemi iskolák, gimnáziumok és egyetemek
+- Csökken az analfabetizmus
+- Kultúrharc kezdődik az állam és az egyház között
