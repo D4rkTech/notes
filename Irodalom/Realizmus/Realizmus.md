@@ -85,7 +85,7 @@ Erkölcsileg tiszta: a muzsikok (parasztok) és a gyerekek
 ##### Ivan Iljics halála
 **Cím:** témajelölő (végkifejletre utal, ami a mű elejében és végében is megjelenik)
 **Műfaj:** kisregény (vagy elbeszélés az oktatási hivatal szerint)
-**Időkezelés:** fordított, aránytalan
+**Időkezelés:** fordított, aránytalan, retrospektív (múltbeli eseményeket mesél el, emlékezik vissza)
 - "In medias res" jellegű kezdése van (csak nem a közepébe, hanem a végébe)
 - 12. fejezet után jön az 1. fejezet
 - 2-3. fejezet
@@ -96,12 +96,34 @@ Erkölcsileg tiszta: a muzsikok (parasztok) és a gyerekek
 **Térkezelés:** 
 - 2-3. fejezet - táguló regénytér (Pétervár, vidéki városok, Pétervár)
 - 4. fejezettől szűkülő regénytér (Pétervári otthon, szalon, betegszoba, ágy)
+**Szerkezet:**
+- 1. fejezet
+	- Állókép-szerű jelenet (Ivan Iljics a ravatalon)
+	- Megismerjük Ivan Iljics családját
+	- Kollégák részvétlensége
+	- Gyászszertatrtás
+- 2-3. fejezet
+	- Ivan Iljics élettörténete
+	- Kezdetben tipikus csinovnyik
+	- Felfelé halad a ranglétrán
+	- Péterváron bíró
+	- Jelentéktelen baleset
+- 4-6. fejezet
+	- Betegség kialakulása, súlyosbodása
+	- Menekülési kísérletek (hárítás, önámítás, harag, elkeseredés, beletörődés)
+- 7-11. fejezet
+	- Ivan Iljics a betegágyon
+	- Testi fájdalom mellé erkölcsi szenvedés társul
+	- Egész élete hazugságra épül (kifelé élés, képmutatás saját magának is)
+	- Gyónás
+- 12. fejezet
+	- Utolsó 3 nap története
+	- Ivan Iljics szenvedésének mélypontja
+	- Utolsó óra eseményei - megvilágosodás
+	- Halál
+**A mű alapgondolata:**
+- Tolsztoj hitt a test és lélek dualizmusában
+![[Realizmus 2024-04-26 10.21.22.excalidraw]]
 
-HF.: Betegségek, tünetek
-- "sajátságos szájíz"
-- "kellemetlenség (...) a bal derekán" → "oldalfájás"
-- vándorló vese
-- vakbél
-- szeme fényének elvesztése
 
 Következő kötelező olvasmányok: Nóra
