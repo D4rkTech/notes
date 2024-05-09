@@ -36,3 +36,24 @@ Két területen látszott igazán a fejlődés:
 Az <mark class="hltr-orange">1890-es években</mark> gyorsult fel az ipar fejlődése
 Az első és második ipari forradalom egyszerre jelentkezik
 Technikai és technológiai élvonal
+### Hitelszervezet
+Pesti Magyar Kereskedelmi Bank
+Pesti Hazai Első Takarékpénztár
+Ezeken kívül több nagybank külföldi tőkéből (Magyar Földhitelintézet, Magyar Általános Hitelbank)
+Részvénytársaságok
+Növekvő tőkebeáramlás → segítette a magyar tőke megerősödését is
+### Budapest
+<mark class="hltr-orange">1873</mark> <mark class="hltr-green">Buda</mark>, <mark class="hltr-green">Pest</mark> és <mark class="hltr-green">Óbuda</mark> egyesül - <mark class="hltr-green">Budapest</mark>
+Igazi világvárossá válik a korszakban
+Miért válik ennyire jelentőssé?
+- <mark class="hltr-green">Béccsel</mark> való rivalizálás
+- Kedvező befektetési lehetőségek
+- Kedvező földrajzi elhelyezkedés
+- A vasúthálózat központja
+Fővárosi Közmunkák Tanácsa - <mark class="hltr-cyan">Podmaniczky Frigyes</mark> alelnök
+- Tervszerű fejlesztés (sugárutak, körutak)
+- Eklektikus stílus (többféle)
+- Eltérő funkciójú városrészek
+Az erőforrásokat <mark class="hltr-green">Budapestre</mark> koncentrálták, más régiók hasonló ütemű fejlesztésére nem volt lehetőség
+A magyar városszerkezet fejlődése sem tudott lépést tartani a főváros fejlődési ütemével
+Ugyanakkor <mark class="hltr-green">Budapesten</mark> virágzott a korrupció is, aminek egyik központi figurája <mark class="hltr-green">Thaisz Elek</mark> (rendőr főkapitány) volt
