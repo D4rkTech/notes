@@ -32,3 +32,4 @@ Az irodalomban a túldíszített stílus, az erotika, a beteges elmúlás, a hal
 - Gauguin
 - Munch
 ### Baudelaire: 
+HF. 130. o. Arthur Rimbaud - szonettfajta megállapítása, mennyire követi az eredeti rímképletet
