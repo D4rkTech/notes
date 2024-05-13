@@ -56,4 +56,4 @@ Fővárosi Közmunkák Tanácsa - <mark class="hltr-cyan">Podmaniczky Frigyes</m
 - Eltérő funkciójú városrészek
 Az erőforrásokat <mark class="hltr-green">Budapestre</mark> koncentrálták, más régiók hasonló ütemű fejlesztésére nem volt lehetőség
 A magyar városszerkezet fejlődése sem tudott lépést tartani a főváros fejlődési ütemével
-Ugyanakkor <mark class="hltr-green">Budapesten</mark> virágzott a korrupció is, aminek egyik központi figurája <mark class="hltr-green">Thaisz Elek</mark> (rendőr főkapitány) volt
+Ugyanakkor <mark class="hltr-green">Budapesten</mark> virágzott a korrupció is, aminek egyik központi figurája <mark class="hltr-cyan">Thaisz Elek</mark> (rendőr főkapitány) volt
