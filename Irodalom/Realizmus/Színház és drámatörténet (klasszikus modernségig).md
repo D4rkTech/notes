@@ -40,3 +40,13 @@ Korabeli ruhákat viselnek, de szerepüknek megfelelően - jelmezek
 Nem fordíthatnak hátat, trágárkodhatnak
 Dikció fontos (nem természetes hanghordozás)
 Új szerepkör: rezonőr (drámaíró szócsöve)
+### Romantika (19. századtól)
+Viktor Hugo: Hernani - megteremti a romantikus színházat
+Színház - mainak megfelelő
+Műfajok állandóvá válnak:
+- Komédia - vígjáték
+- Tragédia - szomorújáték
+- Tragikomédia
+- Színmű - középfajú dráma
+Drámatípusok:
+- Analitikus dráma (ókor)
