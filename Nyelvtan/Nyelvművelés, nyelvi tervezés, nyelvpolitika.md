@@ -5,7 +5,7 @@ Magyar Nyelvőr - nyelvészeti folyóirat a 19. század második felétől
 
 ### Nyelvhelyességi feladatok
 > Úgy olvasnék végre valami jót. - nákolás (T/3 rag E/1 helyett)
-> Könyörgök, hozd már ide azt a könyvet! könyörög nem -ik-es ige
+> Könyörgök, hozd már ide azt a könyvet! könyörög nem -ikes ige ikes ige helytelen ragozása
 > Mindjárt megyek, csak iszom valamit, mert szomjas vagyok. iszok ik-es ige, m-mel kell ragozni
 > A magyartanár mindig kifigurázza / parodizálja a hibáinkat. - parodizál = kifiguráz, nem kap második igekötőt felesleges igekötőhasználat
 > Ne aggódjon, kérését továbbítjuk a minisztériumnak. terpeszkedő kifejezés (nem minisztérium felé, leggyakrabban hivatalos stílusban)
