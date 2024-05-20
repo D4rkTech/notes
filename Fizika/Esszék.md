@@ -28,3 +28,16 @@ $\sum F = \theta \cdot \beta$
 egyenletek érvényesek.
 
 A mindennapi életben is találhatunk példát a fenti összefüggésekre, például amikor forgó mozgást végző korcsolyázó behúzza karjait. Ekkor a korcsolyázó csökkenti teste pontjainak forgástengelytől vett átlagos távolságát, ezzel csökkentve a tehetetlenségi nyomatékát, melynek hatására perdületmegmaradás értelmében megnő a szögsebessége.
+
+### Mikrohullámok mint állóhullámok, a fény közelítő sebessége (2014 október)
+A hullámtan vizsgálatainak egy fontos tárgyát képezik az állóhullámok. Állóhullám például a sípokban létrejövő hanghullám, vagy egy megpendített (mindkét végénél rögzített) gitárhúron kialakuló rezgések.
+Állóhullámot alakíthatunk ki továbbá egy olyan gumikötélen, melynek az egyik végét rögzítettük, a másik végét pedig rezgésbe hozzuk. Ilyenkor a rögzített végről ellentétes fázisban visszaverődik a hullám és a kialakuló interferencia az eredeti és a visszavert hullám között állóhullámot hoz létre.
+$k$ db ($k\in \mathbb{Z^+}$) duzzadóhely fog létrejönni, ezért fontos megfelelő frekvenciát választanunk a kezdeti rezgéshez. Ezt a frekvenciát az
+$f=\frac{c}{\lambda_k}$
+képlet segítségével kaphatjuk meg, ahol $c$ a kötélre jellemző, és
+$\lambda_k=\frac{4}{2k-1}\cdot l$,
+ahol $l$ a kötél hossza.
+![[Esszék 2024-05-20 08.12.31.excalidraw]]
+Az állóhullám tulajdonságait ebben a kísérletben egyértelműen meghatározza az őt keltő haladó hullám. A haladó hullámból állóhullámot kialakító folyamatok során egyedül a fázis változik meg, tehát a terjedési sebességük ($c_{álló}=c_{haladó}$), frekvenciájuk ($f_{álló}=f_{haladó}$) és hullámhosszuk ($\lambda_{álló}=\lambda_{haladó}$) is megegyezik. A duzzadóhelyeken kialakuló rezgés amplitúdója az eredeti hullám amplitúdójával megegyezik ($A_{álló}=A_{haladó}$), viszont a többi pont rezgésének amplitúdója ennél kisebb lesz.
+A feladat példájában a frekvencia $f=2,45\cdot 10^9Hz$, két szomszédos duzzadóhely távolsága $d=6cm$. Ez alapján a hullámhossz $\lambda=2\cdot  d = 12 cm$. A hullámterjedés alapegyenlete miatt $c=\lambda\cdot f = 0,12m\cdot 2,45\cdot 10^9Hz = 2,94\cdot 10^8\frac{m}{s}$
+A forgótányér alkalmazásával elkerülhető, hogy az állóhullámok duzzadóhelyei a melegíteni kívánt tárgy csupán egyetlen pontját melegítsék, helyette a tárgy egy körvonal menti pontjait melegítik.
