@@ -49,4 +49,12 @@ Műfajok állandóvá válnak:
 - Tragikomédia
 - Színmű - középfajú dráma
 Drámatípusok:
-- Analitikus dráma (ókor)
+- Analitikus dráma (ókor) - Szophoklész: Oidipusz király, Ibsen: Nóra
+- Konfliktusos dráma - Szophoklész: Antigoné
+- Középpontos dráma - Katona József: Bánk bán
+- Kétszintes dráma - Vörösmarty: Csongor és Tünde (esetleg Madách Imre: Ember tragédiája)
+- Epikus dráma - 20. század - Bertolt Brecht: Kurázsi mama és gyermekei
+- Abszurd dráma - 20. század - Samuel Beckett: Godot-ra várva 
+(- Céldráma
+- Vitadráma
+- Monodráma)
