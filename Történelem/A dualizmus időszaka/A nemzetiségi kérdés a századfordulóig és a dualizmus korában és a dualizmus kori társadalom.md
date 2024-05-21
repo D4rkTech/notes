@@ -57,3 +57,40 @@ pl. a jobbágyfelszabadítás megszüntette a feudális viszonyokat, de a hagyom
 pl. az iparosodás és az urbanizáció nyomén kialakultak a kapitalista társadalmi rétegek, ám a polgárosodás folyamata lassan haladt
 Az országban a kelet-közép-európai régióhoz hasonlóan a számos feszültséget magában foglaló, ún. torlódott társadalom jött létre
 A gyors gazdasági fejlődés hatására létrejövő, vagy megerősödő modern társadalmi csoportok (polgárság, munkásság) rátorlódtak a továbbra is megmaradt hagyományos (feudális) társadalmi rétegekre (parasztság, nemesség)
+### Az agrártársadalom
+#### Birtokos arisztokrácia
+Zárt csoport
+Politikusok
+Korszerű, modern birtokok
+#### Köznemesség
+Néhányan felemelkedtek
+Többségük gentry - nehéz anyagi helyzet
+Kisebb birtokok
+Állami hivatali feladatok betöltői
+Értelmiségi pályák
+Nagy hatást gyakoroltak a korszak életvitelére - kultúra, hagyományok
+Úri középosztály
+#### Parasztság
+A társadalom legnépesebb csoportja (kb. $\frac{2}{3}$)
+Gazdagparasztság (50-200 hold)
+Középparasztság (10-50 hold)
+Kisparasztság (5-10 hold)
+Törpebirtokosok (5 hold alatt)
+Földnélküliek (agrárproletárok) - uradalmi cselédek, napszámosok, summások, kubikosok
+### Az ipari, polgári társadalom
+#### Nagypolgárság (pénzarisztokrácia)
+Zárt csoport
+Főként német és zsidó családok
+Kereskedelemből meggazdagodott réteg
+A politikába közvetlenül nem szólhattak bele
+#### Középpolgárság
+Növekvő létszámban
+Agrár és ipari társadalom közötti közvetítők
+Mentalitásuk még nem egységes - rendi és polgári értékek keveredése
+#### Kispolgárság
+Növekvő létszámban
+Kisiparosok, kereskedők
+#### Szakmunkások
+
+
+Kiegyezshez vezető út, omm felépítése, nemzetiségi kérdés, tisza kormány
