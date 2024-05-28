@@ -93,4 +93,5 @@ Kisiparosok, kereskedők
 #### Szakmunkások
 
 
-Kiegyezshez vezető út, omm felépítése, nemzetiségi kérdés, tisza kormány
+Kiegyezshez vezető út, omm felépítése, nemzetiségi kérdés
+Esszé: OMM 1867-1918, Magyarország ennek része
