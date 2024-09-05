@@ -7,10 +7,11 @@ Technikai fejlődés - teret enged a város fejlődésének, ami a kultúra fejl
 ## Folyóirat-kultúra
 #### Nyugat (1908-1941)
 ##### Előzményei
-**A Hét (1894 - 1949)**
+**A Hét**
 - Irodalmi és politikai
 - Nyugattal párhuzamosan működött
-**Új Idők**
+- Szerkesztője: Kiss József
+**Új Idők (1894 - 1949)**
 - Heti
 - Herczeg Ferenc szerkesztésével
 - Családi lap - mindenki talál benne valamit, kivéve politika
@@ -61,3 +62,18 @@ Babits halála a Nyugat halálát is jelentette
 Illyés Gyula Magyar Csillag néven folytatta a Nyugat szellemiségét 1944-ig
 
 Olvasni: 229-230. o.
+
+# Herczeg Ferenc
+## Művei
+### Fekete szüret a Badacsonyon
+**Műfaja: Tárca:** folyóirat címlapján megjelenő, aktuális társadalmi szintű problémát tárgyaló írás
+**Parabola:** képletes beszéd, mögöttes jelentés (fekete szüret = Badacsony pusztítása)
+Címben oximoron: szüret = boldogság ↔ fekete = gyász
+**Téma:** magyar nemzeti kincsek pusztítása
+**Szerkezet:**
+- Herczeg három részre osztotta a művét
+- Első rész: a Badacsony tájának szépségeinek leírása, bevezetés (impresszionista tájkép ← színek, érzetek)
+- Második rész: a probléma bemutatása, tárgyalása
+- Harmadik rész: probléma tárgyának más, hasonló helyzetekhez hasonlítása (Lorelei-szikla, Capri-sziget, Halászbástya)
+Környezetvédelem szubjektív jellegű közéletbe vonása
+A visszhang elmaradt
