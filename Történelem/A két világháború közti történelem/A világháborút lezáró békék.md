@@ -53,3 +53,8 @@ Felosztották a területeit
 A szovjet vezetést nem tekintették legitim, demokratikus kormánynak
 Nem hívták meg az oroszokat a béketárgyalásokra
 A nagyhatalmak a belső erőviszonyok rendeződésére vártak
+### Új államok
+<mark class="hltr-green">Lengyelország</mark> ismét egységes, szabad állam
+<mark class="hltr-green">Csehszlovákia</mark> (<mark class="hltr-green">Felvidék</mark>, <mark class="hltr-green">Szudéta-vidék</mark>, <mark class="hltr-green">Kárpátalja</mark>)
+<mark class="hltr-green">Szerb-Horvát-Szlovén Királyság</mark> (<mark class="hltr-orange">1929-től</mark> <mark class="hltr-green">Jugoszlávia</mark>)
+<mark class="hltr-green">Észtország</mark>, <mark class="hltr-green">Lettország</mark>, <mark class="hltr-green">Litvánia</mark>, <mark class="hltr-green">Finnország</mark>
