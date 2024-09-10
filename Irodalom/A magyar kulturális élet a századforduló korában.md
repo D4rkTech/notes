@@ -77,3 +77,15 @@ Címben oximoron: szüret = boldogság ↔ fekete = gyász
 - Harmadik rész: probléma tárgyának más, hasonló helyzetekhez hasonlítása (Lorelei-szikla, Capri-sziget, Halászbástya)
 Környezetvédelem szubjektív jellegű közéletbe vonása
 A visszhang elmaradt
+### Az élet kapuja
+#TODO #ADATTÁR
+#### Szerkezete
+Dramatikus szerkesztésű (párbeszédes)
+Narráció kidolgozatlan, változó, hogy mennyit tud
+A két szál folyamatos kapcsolatban áll
+##### Szerelmi (fiktív) szál
+Fiametta
+Vértesi Tamás
+##### Közéleti (történelmi, valós) szál
+Bakócz Tamás
+II. Gyula pápa
