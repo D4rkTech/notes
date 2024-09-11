@@ -27,3 +27,60 @@ Békekötés
 - Az <mark class="hltr-green">OMM</mark> nem tudott kiszállni a háborúból
 - Óriási veszteségek
 - Társadalmi és nemzetiségi feszültségek miatt "szétrobban" az <mark class="hltr-green">OMM</mark>
+### A pártok elképzelései a háború alatt
+#### Egyesült függetlenség és a 48-as párt
+Vezető: <mark class="hltr-cyan">Károlyi Mihály</mark>
+Németellenesség
+Antantbarátság
+Béke <mark class="hltr-cyan">Wilson</mark> 14 pontja alapján
+Demokratikus reformok (pl. választójog bővítése)
+Földkérdés megoldása
+#### Polgári Radikális Párt
+Vezető: <mark class="hltr-cyan">Jászi Oszkár</mark>
+Demokratikus reformok
+Földreform
+Nemzetiségi kérdés - "Keleti Svájc" elmélet
+Modernizáció
+#### Országos 48-as Függetlenségi Gazdapárt
+(Kisgazdapárt)
+Vezető: <mark class="hltr-cyan">Nagyatári Szabó István</mark>
+Radikális földreform
+#### Keresztényszocialista Néppárt
+Elnöke: <mark class="hltr-cyan">Simonyi-Semadam Sándor</mark>
+Szociális reformok
+Általános és titkos választójog
+#### Magyarországi Szociáldemokrata Párt
+Vezető: <mark class="hltr-cyan">Kunfi Zsigmond</mark>
+Annexió (területvesztés) nélküli béke
+Általános és titkos választójog
+Szociális intézkedések
+Földkérdés - szövetkezetesítés
+### Az őszirózsás forradalom
+<mark class="hltr-orange">1918 Október 24</mark> Magyar Nemzeti Tanács (<mark class="hltr-cyan">Károlyi</mark> + <mark class="hltr-cyan">Jászi</mark> + <mark class="hltr-cyan">Kunfi</mark>)
+Programjuk:
+- Béke
+- Függetlenség
+- Nemzetiségi önrendelkezés
+- Általános és titkos választójog
+- Földreform
+- A németekkel való szövetség felbontása
+- A fennálló kormányzati rendszer leváltása
+Nyíltan ellenkormánnyá váltak
+<mark class="hltr-orange">1918 Október 28</mark> általános sztrájk kihirdetése
+A <mark class="hltr-green">pesti</mark> tömeg követelte <mark class="hltr-cyan">Károlyi</mark> miniszterelnöki kinevezését
+(<mark class="hltr-green">Lánchídi</mark> csata)
+<mark class="hltr-cyan">IV. Károly</mark> erre nem volt hajlandó
+<mark class="hltr-orange">1918 Október 30-31</mark> a katonaság és a rendőrség fegyveres harc nélkül foglalták el a várost
+Sapkájukba őszirózsát tűztek, innen a név
+<mark class="hltr-cyan">József</mark> főherceg kinevezte <mark class="hltr-cyan">Károlyi Mihályt</mark> <mark class="hltr-green">Magyarország</mark> miniszterelnökének (<mark class="hltr-orange">1918-1919</mark>)
+Koalíciós kormány alakult (több pártból áll, hiszen a Magyar Nemzeti Tanács is koalíció)
+### A Károlyi-kormány politikája
+#### Belpolitika
+Támogatóik:
+- Német- és monarchiaellenes csoportok
+- Kis- és középpolgárság (demokratikus jogok)
+- Munkásság (szociális reformok)
+- Parasztság (földreform)
+- Katonaság (munka és béke)
+<mark class="hltr-orange">1918 November 3</mark> <mark class="hltr-green">páduai</mark> fegyverszünet
+<mark class="hltr-orange">1918 November 13</mark> <mark class="hltr-cyan">IV. Károly</mark> lemondása
