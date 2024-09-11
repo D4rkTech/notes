@@ -83,9 +83,30 @@ A visszhang elmaradt
 Dramatikus szerkesztésű (párbeszédes)
 Narráció kidolgozatlan, változó, hogy mennyit tud
 A két szál folyamatos kapcsolatban áll
+Cselekmény bemutatása
 ##### Szerelmi (fiktív) szál
 Fiametta
 Vértesi Tamás
 ##### Közéleti (történelmi, valós) szál
 Bakócz Tamás
 II. Gyula pápa
+#### Narráció
+Mindentudó
+- Belelát a szereplők fejébe
+- "zavarossá válik"
+- Mindent tud / szemtanú
+Párbeszédes -> váltott dialógusok
+Jellemrajzok kidolgozatlanok
+- Szócső (rezonőr)
+- Báb
+Nyelvileg egyenetlen (sváb-német anyanyelvű)
+Lektűr - könnyen olvasható
+Elődei: Jókai, Mikszáth (nem sikerül megközelíteni)
+#### A mű üzenete
+Átpolitizált
+1. 1512-1513 - valós történelmi események (Mohács előtti Magyarország képe)
+2. Herczeg jelene (1919) - első világháború vége, Trianon előtt
+3. 21. század - NAT2020 nemzeti identitástudat erősítése
+Turáni átok
+Jelen ráhúzása a múltra
++125. oldal
