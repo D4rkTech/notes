@@ -1,36 +1,3 @@
-#PPT 
-#TODO
-# A Biblia földje: Palesztina
-## Monoteizmus
-Ókorban a politeizmus a jellemző
-Egyedül a zsidók vallása monoteista az ókorban (+rövid ideig az Aton-kultusz Egyiptomban)
-Az ókor végén a zsidó vallásból kialakult a két legjelentősebb monoteista vallás: a kereszténység és az iszlám
-A középkort már a monoteizmus jellemezte és jelenleg is ez a két monoteista vallás a legnagyobb a világban
-## A zsidók eredete
-Legyőzték a Kánaán őslakóit - 12 törzs szövetsége
-Harc a filiszteusokkal (a zsidókkal egy időben Palesztinába érkező nép)
-Filiszteusok = paleszetek
-Zsidó királyok:
-- Saul
-- Dávid
-- Salamon (jeruzsálemi nagytemplom → Siratófal)
-## A vallás
-Szent könyvük: a Biblia
-Részei:
-- Ószövetség (Ótestamentum) - a zsidó nép eredete
-- Újszövetség (Újtestamentum) - Jézus Krisztus élete (Máté, Márk, Lukács, János)
-Monoteista (egyistenhitű vallás) (de kezdetben nem)
-Az Úr nevei a Bibliában: Elóhim, Jahve
-Eredetileg természetistenség (vihar, a déli isteneknél)
-Voltak alárendelt istenek (pl. Azazél, sivatatag)
-Folyamatosan alakul ki a monoteizmus
-Jahve létezése korántsem zárta ki a más törzsek isteneinek vele azonos rangú létét (kezdetben)
-Mózes 5. könyvében már a többi isten felett áll
-Ézsajás próféta - Jahve a világmindenség egyetlen istene (monoteizmus)
-A vallás alapítója: Mózes
-Mózes 5 könyve (Tóra)
-Ő vezette ki a zsidókat Egyiptomból
-Tízparancsolat - erkölcsi előírások
 # Az ókori Hellász
 ## Civilizációk
 Krétai civilizáció (Kr. e. 3000-1500)
@@ -132,12 +99,43 @@ A Tiberis partján emelték a színházakat
 Nyilvános közfürdőket létesítettek
 Amfiteatrum: 
 - A tömegek szórakoztatására (pl. gladiátorjátékok, állatviadalok) szolgáló ókori római épülettípus
-- Rlliptikus küdőtérből (aréna) és azt körülvevő, lépcsőzetesen emelkedő üléssorokból kialakított nézőtérből álltak
+- Elliptikus küzdőtérből (aréna) és azt körülvevő, lépcsőzetesen emelkedő üléssorokból kialakított nézőtérből álltak
 - Pl. Colosseum
 ##### A római ház
 Központi eleme az átrium (fedett terem, amelynek egyetlen nyílása a tetőn volt)
 A ház ezen keresztül kapta a fényt és ez gyűjtötte össze az esővizet, amelyet az ez alatt kialakított ciszterna raktározott
 A tömegek számára bérházakat építettek
+# A Biblia földje: Palesztina
+## Monoteizmus
+Ókorban a politeizmus a jellemző
+Egyedül a zsidók vallása monoteista az ókorban (+rövid ideig az Aton-kultusz Egyiptomban)
+Az ókor végén a zsidó vallásból kialakult a két legjelentősebb monoteista vallás: a kereszténység és az iszlám
+A középkort már a monoteizmus jellemezte és jelenleg is ez a két monoteista vallás a legnagyobb a világban
+## A zsidók eredete
+Legyőzték a Kánaán őslakóit - 12 törzs szövetsége
+Harc a filiszteusokkal (a zsidókkal egy időben Palesztinába érkező nép)
+Filiszteusok = paleszetek
+Zsidó királyok:
+- Saul
+- Dávid
+- Salamon (jeruzsálemi nagytemplom → Siratófal)
+## A vallás
+Szent könyvük: a Biblia
+Részei:
+- Ószövetség (Ótestamentum) - a zsidó nép eredete
+- Újszövetség (Újtestamentum) - Jézus Krisztus élete (Máté, Márk, Lukács, János)
+Monoteista (egyistenhitű vallás) (de kezdetben nem)
+Az Úr nevei a Bibliában: Elóhim, Jahve
+Eredetileg természetistenség (vihar, a déli isteneknél)
+Voltak alárendelt istenek (pl. Azazél, sivatatag)
+Folyamatosan alakul ki a monoteizmus
+Jahve létezése korántsem zárta ki a más törzsek isteneinek vele azonos rangú létét (kezdetben)
+Mózes 5. könyvében már a többi isten felett áll
+Ézsajás próféta - Jahve a világmindenség egyetlen istene (monoteizmus)
+A vallás alapítója: Mózes
+Mózes 5 könyve (Tóra)
+Ő vezette ki a zsidókat Egyiptomból
+Tízparancsolat - erkölcsi előírások
 # A kereszténység születése
 ### Jézus Krisztus
 Tanításának lényege:
@@ -182,7 +180,7 @@ Támogatta a kereszténységet, mert hatalmának alapja és igazolója lett, ill
 - <mark class="hltr-cyan">Constantinus</mark> pontifex maximusként vezette a zsinatot (ekkor még nem keresztény)
 - Célja: hitbeli viták rendezése (Szentháromság-vita: <mark class="hltr-cyan">Jézus</mark> helye a Szentháromságban)
 - Homousion: Jézus = Isten (<mark class="hltr-cyan">Alexandriai Szent Atanáz</mark>)
-- Homoiusuóion: Jézus $\neq$ Isten (<mark class="hltr-cyan">Arius</mark>)
+- Homoiusion: Jézus $\neq$ Isten (<mark class="hltr-cyan">Arius</mark>)
 - <mark class="hltr-cyan">Ariust</mark> és követőit eretneknek nyilvánították (ariánusok)
 - A Szentháromság tana dogma
 ### Végül
