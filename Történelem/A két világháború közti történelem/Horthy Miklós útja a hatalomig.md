@@ -18,3 +18,23 @@ Miniszterelnök: <mark class="hltr-cyan">Huszár Károly</mark>
 Helyreáll a parlamentarizmus
 A baloldal jelentős szerepet nem kapott (választójog korlátozása)
 Miniszterelnök: <mark class="hltr-cyan">Teleki Pál</mark>
+<mark class="hltr-orange">1920 Június 4</mark> <mark class="hltr-green">trianoni</mark> békeszerződés
+Az <mark class="hltr-orange">1920-as</mark> évek elején három egymásnak ellentmondó <mark class="hltr-cyan">Horthy-kép</mark> élt:
+- Országmentő
+- Véreskezű gyilkos
+- Felségáruló
+- Megítélése még napjainkban is vita tárgya
+### A konszolidáció kezdete
+<mark class="hltr-cyan">Teleki</mark> első miniszterelnöksége (<mark class="hltr-orange">1920-1921</mark>)
+Nagyatádi-féle földreform 
+- kb. 500 ezren jutottak ~1 hektáros földhöz
+- A nagybirtokrendszer érintetlen maradt
+Szélsőségek visszaszorítása (pl. 1921 Márciusában betiltotta a kommunista pártot és szervezkedését)
+Numerous Clausus (jelentése: zárt szám)
+- Előzményei:
+	-  <mark class="hltr-green">Trianon</mark> után ~400 ezer magyar menekül hazánkba, főleg <mark class="hltr-green">Budapestre</mark>
+	- (jórészt értelmiségiek)
+	- Növekvő antiszemitizmus
+- A törvény az egyetemekre felvett hallgatók számát korlátozta
+- Akkora arányban lehet felvenni nemzetiségieket, amekkorában a lakosságban szerepelnek
+- Ez főként a zsidóságot súlytotta
