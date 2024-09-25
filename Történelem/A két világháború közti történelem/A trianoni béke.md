@@ -34,6 +34,8 @@ Irredentizmus (területek visszaszerzése fegyveres módon)
 Civil szervezetek (Magyar Területvédő Liga)
 A kormány ezt támogatta, de nyíltan nem lépett fel
 Kérdéses a revízió jellege (békés vagy erőszakos, teljes vagy részleges)
-
+<mark class="hltr-green">Magyarország</mark> valódi és reális célja a békés határmódosítás, csupán a magyarlakta területek visszaszerzése: a revízió
+Ez (az etnikai revízió) megvalósult <mark class="hltr-orange">1938</mark> és <mark class="hltr-orange">1941</mark> között (170 ezer $km^2$, 14 milliós lakosságának 85%-a magyar)
+Sajnos <mark class="hltr-cyan">Mussolini</mark> és <mark class="hltr-cyan">Hitler</mark> valósította meg a wilsoni etnikai határokat
 
 Október 3 TZ  Magyarország az első világháborúban című leckétől
