@@ -16,7 +16,7 @@ Monogenézis - egy közös nyelv (Bábel tornya)
 Poligenézis - evolúciós elmélet
 ![[Uráli_nyelvek_rokonsági_viszonyai.png]]
 
-### Nyelvemlékek, nyelvemlékek típusai
+# Nyelvemlékek, nyelvemlékek típusai
 #### Szórványemlék
 Latin nyelvű szövegben elszórva magyar szavak (leggyakrabban tulajdonnevek)
 Külföldi: Bíborbanszületett Konstantin: A birodalom kormányzásáról című műve
@@ -43,9 +43,6 @@ Ez az első magyar nyelvű versünk, szóképekben és alakzatokban rendkívül 
 Található benne figura etymologica, ezzel a szerző célja a nyomatékosítás ("Világ világa", "Virágnak virága")
 Változatos rímképlet (páros-, kereszt- és félrím)
 A 20. században a leuveni egyetem könyvtárában találták meg egy domonkos rendi szerzetesek által összeállított kódexben
-Ma az Országos Széchényi Könyvtárban őrzik 
-
-Kete = kéz (utolsó e lekopik, első e megnyúlik, t-ből z lesz szabályos hangmegfeleltetéssel)
-
-2 db tétel jövő péntekre (Szeptember 27) - kihúzás alapján röpdolgozat (feladattal) (melyik nyelvemlék melyik, hiányos családfa)
-(fel lesz töltve)
+Ma az Országos Széchényi Könyvtárban őrzik
+# A magyar nyelvújítás
+Október 11. 4 tétel (nyelvrokonság, nyelvemlékek, nyelvújítás, a kommunikáció tényezői, funkciói)

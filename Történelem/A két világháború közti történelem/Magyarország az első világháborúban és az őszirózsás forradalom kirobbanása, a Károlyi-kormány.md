@@ -43,7 +43,7 @@ Nemzetiségi kérdés - "Keleti Svájc" elmélet
 Modernizáció
 #### Országos 48-as Függetlenségi Gazdapárt
 (Kisgazdapárt)
-Vezető: <mark class="hltr-cyan">Nagyatári Szabó István</mark>
+Vezető: <mark class="hltr-cyan">Nagyatádi Szabó István</mark>
 Radikális földreform
 #### Keresztényszocialista Néppárt
 Elnöke: <mark class="hltr-cyan">Simonyi-Semadam Sándor</mark>

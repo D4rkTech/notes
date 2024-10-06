@@ -16,7 +16,7 @@ A birtokok parasztjai saját élelmüket termelik meg
 A minimális felesleget a birtok földesura: a király, az egyház vagy egy nemesúr szedi be a természetbeni adó formájában nincs pénzhasználat
 Nincs piac, nincs belső kereskedelem, nincsenek városok, <mark class="hltr-green">Európa</mark> egy nagy falu, rurális civilizáció
 A birtokos kénytelen birtokról birtokra vándorolni, helyben elfogyasztani az adót (utazó királyság)
-Pénzt már ekkor is vernek, e csak a királyi udvar és az előkelők használják külföldi luxuscikkek vásárlására: fegyver, selyem, ékszerek
+Pénzt már ekkor is vernek, de csak a királyi udvar és az előkelők használják külföldi luxuscikkek vásárlására: fegyver, selyem, ékszerek
 A távolsági kereskedelmet zsidó, perzsa, arab kereskedők végzik
 ### Új eszközök és módszerek
 Talajváltó rendszer
@@ -142,10 +142,10 @@ Királypápák kora (<mark class="hltr-orange">1870-ig</mark>)
 Lemondtak a vagyonról és a jólétről, puritán módon éltek
 <mark class="hltr-green">Kis-Ázsiában</mark> <mark class="hltr-cyan">Nagy Szent Vazul</mark> szerzetesközösséget hozott létre
 Nyugaton:
-<mark class="hltr-orange">529</mark>  <mark class="hltr-cyan">Szent Benedek</mark> <mark class="hltr-green">Itáliában</mark> megalapította a bencés rendet (<mark class="hltr-green">Monte Cassino</mark>)
+<mark class="hltr-orange">529</mark> <mark class="hltr-cyan">Szent Benedek</mark> <mark class="hltr-green">Itáliában</mark> megalapította a bencés rendet (<mark class="hltr-green">Monte Cassino</mark>)
 Meghatározott szabályrend, regula alapján éltek
 Az imádság mellett fontos volt a fizikai munka is ("Ora et labora!" = Imádkozzál és dolgozzál!)
-pl. Földművelés, borászat, gyógynövények termesztése, kódexmásolás
+pl. földművelés, borászat, gyógynövények termesztése, kódexmásolás
 Kolostoraikat településektől távol, elzárt helyen építették - monostorok
 Monasztikus rendek
 Idővel a manasztikus rendek is beilleszkednek a társadalmi életbe
