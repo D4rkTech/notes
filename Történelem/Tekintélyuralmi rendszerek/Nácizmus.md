@@ -34,3 +34,16 @@ Az erő, a férfiasság és az egészség kultuszának felépítése (pl. <mark 
 A nácik hatékonyságának két fő tényezője:
 - Modern propaganda - befolyásolás, meggyőzés (plakát, sajtó + rádió, film) + tömegfelvonulások, tömeggyűlések
 - Erőszak, megfélemlítés - SA (barna inges náci rohamosztagok)
+Egyre népszerűbbek
+<mark class="hltr-orange">1933 Január</mark> <mark class="hltr-cyan">Hitler</mark> kancellár lett (koalíciós kormány)
+(Az 1932-es választásokon legnépszerűbb párt vezetőjeként)
+<mark class="hltr-cyan">Hindenburg</mark> köztársasági elnök nevezte ki
+Reichstag felgyújtását a kommunistákra fogták - korlátozzák a szabadságjogokat, kommunisták elleni harc
+Új választásokat írtak ki - NSDAP 43%
+Felhatalmazási törvény - rendeletekkel kormányzás
+<mark class="hltr-orange">1933 Nyara</mark> - polgári pártok felszámolása - egypártrendszer
+<mark class="hltr-orange">1934 Június 29-30</mark> "hosszú kések éjszakája" vagy "Kolibri-művelet"
+- Vetélytársakkal való leszámolás (szocialista ígéretek betartása, "második forradalom" - nagytőke korlátozása, államosítás)
+- A mészárlásban részt vevő alakulatok: SS (eredetileg <mark class="hltr-cyan">Hitler</mark> testőrsége, később különlegesen kiképzett terrorista alakulatok)
+- Gestapo (Geheime Staatpolizei = Titkos Államrendőrség)
+<mark class="hltr-orange">1934 Augusztus</mark> <mark class="hltr-cyan">Hindenburg</mark> halála - <mark class="hltr-cyan">Hitler</mark> lett az új államfő - Führer = vezér
