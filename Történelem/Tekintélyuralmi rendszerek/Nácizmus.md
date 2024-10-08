@@ -44,6 +44,15 @@ Felhatalmazási törvény - rendeletekkel kormányzás
 <mark class="hltr-orange">1933 Nyara</mark> - polgári pártok felszámolása - egypártrendszer
 <mark class="hltr-orange">1934 Június 29-30</mark> "hosszú kések éjszakája" vagy "Kolibri-művelet"
 - Vetélytársakkal való leszámolás (szocialista ígéretek betartása, "második forradalom" - nagytőke korlátozása, államosítás)
-- A mészárlásban részt vevő alakulatok: SS (eredetileg <mark class="hltr-cyan">Hitler</mark> testőrsége, később különlegesen kiképzett terrorista alakulatok)
-- Gestapo (Geheime Staatpolizei = Titkos Államrendőrség)
+- A mészárlásban részt vevő alakulatok: 
+	- SS (eredetileg <mark class="hltr-cyan">Hitler</mark> testőrsége, később különlegesen kiképzett terrorista alakulatok)
+	- Gestapo (Geheime Staatpolizei = Titkos Államrendőrség)
 <mark class="hltr-orange">1934 Augusztus</mark> <mark class="hltr-cyan">Hindenburg</mark> halála - <mark class="hltr-cyan">Hitler</mark> lett az új államfő - Führer = vezér
+<mark class="hltr-orange">1935</mark> <mark class="hltr-green">nürnbergi</mark> (faji) törvények
+- A német zsidókat megfosztották az állampolgárságuktól, az ezzel járó emberi és polgári jogaiktól
+- Faji alapon határozták meg, hogy ki számít zsidónak
+- Megtiltották a zsidók közhivatalokban való alkalmazását
+- Megtiltották a zsidók és nem zsidók közötti házasságot és szexuális kapcsolatot
+- Antiszemitizmus
+<mark class="hltr-orange">1938</mark> kristályéjszaka - országos méretű pogrom állami kezdeményezésre
+Totális diktatúra
