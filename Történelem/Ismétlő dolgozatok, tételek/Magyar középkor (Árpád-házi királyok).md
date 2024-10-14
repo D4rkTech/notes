@@ -132,7 +132,7 @@ A király katonai ereje, tekintélye csökken
 A nagybirtokosok országos méltóságokat követelnek (nádor, bán, vajda, tárnokmester)
 Nincs elég regálé (királyi jogon szerzett jövedelem) → évente több pénzváltás
 ### Halicsi hadjáratok
-<mark class="hltr-green">Magyarország</mark> királyai 50 éven át próbálták elfoglalnia az orosz résfejedelemséget: <mark class="hltr-green">Halicsot/Galíciát</mark>
+<mark class="hltr-green">Magyarország</mark> királyai 50 éven át próbálták elfoglalnia az orosz részfejedelemséget: <mark class="hltr-green">Halicsot/Galíciát</mark>
 <mark class="hltr-cyan">II. András</mark> szinte minden évben vezet hadjáratot hitelből
 Egyre inkább a nagybirtokosok bandériumait kell segítségül hívnia
 Ezek a nagybirtokosok országos főméltóságokat követelnek
@@ -178,9 +178,9 @@ Az országban belső feszültség uralkodik (birtokvisszavételek miatt)
 ### A tatárjárás
 <mark class="hltr-orange">1240</mark> <mark class="hltr-green">Kijev</mark> elfoglalása
 <mark class="hltr-orange">1241</mark> támadás az ország ellen 3-4 irányból
-<mark class="hltr-cyan">Kötönyt</mark> meggyilkolják → a kunok rabolva, fosztogatva kivonulnak
+<mark class="hltr-cyan">Kötönyt</mark> meggyilkolják (magyarok) → a kunok rabolva, fosztogatva kivonulnak
 <mark class="hltr-orange">1241 Április 11</mark> <mark class="hltr-green">muhi</mark> csata - magyar vereség
-<mark class="hltr-cyan">IV. Béla</mark> <mark class="hltr-green">Dalmáciába</mark> menkül
+<mark class="hltr-cyan">IV. Béla</mark> <mark class="hltr-green">Dalmáciába</mark> menekül
 <mark class="hltr-orange">1241 Tele</mark> a tatárok átkelnek a <mark class="hltr-green">Dunán</mark> és a <mark class="hltr-green">Dunántúlon</mark> fosztogatnak
 <mark class="hltr-orange">1242 Március</mark> a tatárok váratlanul visszavonulnak
 (valószínűleg nagykán megválasztás miatt, bár a kivonulás oka ma is vitatott)
