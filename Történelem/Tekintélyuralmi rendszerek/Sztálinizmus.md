@@ -28,3 +28,29 @@ Hatalmas ellentétek a párton belül (ideológiai síkon)
 <mark class="hltr-orange">1922</mark> <mark class="hltr-cyan">Sztálin</mark> főtitkár lett
 <mark class="hltr-orange">1924</mark> meghalt <mark class="hltr-cyan">Lenin</mark> - hatalmi harc, amiben <mark class="hltr-cyan">Sztálin</mark> kerekedik felül
 #### Tervgazdálkodás és kollektivizálás
+<mark class="hltr-orange">1927</mark> SZKP (Szovjetunió Kommunista Pártja) XV. kongresszusa
+- Elfogadták <mark class="hltr-cyan">Sztálin</mark> gazdaságpolitikai koncepcióját
+- Meg kell szüntetni a mezőgazdaság szétszórt, kisparaszti formáit
+- Szocialista átszervezés kell (erőltetett iparfejlesztés)
+	- Mezőgazdaság kollektivizálása
+	- Meg kell szüntetni a magántulajdont a mezőgazdaságban (föld, gépek, eszközök)
+Kolhoz (termelőszövetkezet) + szovhoz (állami gazdaság)
+Iparfejlesztés - tervutasításos rendszer
+A tervek jellemzői
+- Az emberi munka teljes körű kihasználása
+- Irreális határidők (Sztahanov, munkaverseny)
+Iparhoz szükséges gépeket és berendezéseket importálták
+Az ehhez szükséges tőkét a mezőgazdaság kizsigerelésével érték el
+A mezőgazdaság kizsigerelésével begyűjtött gabonát a <mark class="hltr-green">Szovjetunió</mark> a nemzetközi piacon eladta, és ebből szerezte meg az iparosodáshoz szükséges tőkét
+A szovjet ipar alkalmassá vált egy erős tömeghadsereg ellátására
+A mezőgazdaság kollektivizálásának egyik célja a mezőgazdaságban dolgozók számának csökkentése az ipari munkásosztály javára
+Ez gépi és anyagi háttér nélkül, erőszakosan történt
+A mezőgazdasági termelés 20-30%-kal csökkent
+A termelés tovább csökken + éhínség + elégedetlenség + beszolgáltatás, hiszen megszűnt a parasztság egyéni érdekeltsége
+A kollektivizálással szemben állók a rendszer ellenségeivé váltak
+Kulákok - saját földdel rendelkező parasztok
+Gazdasági válság - lezuhan a gabona ára
+Az ipari gépek, berendezések beszerzése szinte lehetetlenné vált
+<mark class="hltr-orange">1932-34</mark> több millió ember éhen halt (<mark class="hltr-green">Ukrajna</mark>)
+<mark class="hltr-orange">1932 végére</mark> olajkitermelés + vasgyártás + gépgyártás terén a második, villamosenergia-termelésben a harmadik helyre került a világ államainak sorában a Szovjetunió
+A sztálini fordulatnak köszönhetően pont akkor indult be a szovjet nehézipar elképesztő ütemű növekedése, amikor látványosan összeroppant a kapitalista világgazdaság (<mark class="hltr-orange">1929-1933</mark>)
