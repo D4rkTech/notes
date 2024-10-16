@@ -6,8 +6,7 @@ Megalakul az ideiglenes kormány + helyi szinten a szovjetek (tanácsok) kezébe
 A szovjetekben egyre népszerűbbek lettek a bolsevikok (kommunisták)
 A kommunisták célja a hatalomátvétel (proletárdiktatúra)
 <mark class="hltr-orange">1903</mark> Oroszországi Szociáldemokrata Párt kettévált mensevikekre és bolsevikekre
-### A sztálinizmus
-#### Sztálin hatalomra kerülése
+### Sztálin hatalomra kerülése
 <mark class="hltr-orange">1917 Október 25 (Julián-naptár szerint) = November 7 (Gergely-naptár szerint)</mark> októberi orosz forradalom (bolsevik hatalomátvétel)
 (Nagy októberi szocialista forradalom)
 <mark class="hltr-cyan">Leninék</mark> megszerezték a hatalmat (<mark class="hltr-green">Petrográd</mark> → <mark class="hltr-green">Leningrád</mark>)
@@ -27,7 +26,7 @@ Hatalmas ellentétek a párton belül (ideológiai síkon)
 <mark class="hltr-cyan">Trockij</mark> - nemzetközi szinten is szükséges a forradalmak győzelme
 <mark class="hltr-orange">1922</mark> <mark class="hltr-cyan">Sztálin</mark> főtitkár lett
 <mark class="hltr-orange">1924</mark> meghalt <mark class="hltr-cyan">Lenin</mark> - hatalmi harc, amiben <mark class="hltr-cyan">Sztálin</mark> kerekedik felül
-#### Tervgazdálkodás és kollektivizálás
+### Tervgazdálkodás és kollektivizálás
 <mark class="hltr-orange">1927</mark> SZKP (Szovjetunió Kommunista Pártja) XV. kongresszusa
 - Elfogadták <mark class="hltr-cyan">Sztálin</mark> gazdaságpolitikai koncepcióját
 - Meg kell szüntetni a mezőgazdaság szétszórt, kisparaszti formáit
@@ -54,3 +53,6 @@ Az ipari gépek, berendezések beszerzése szinte lehetetlenné vált
 <mark class="hltr-orange">1932-34</mark> több millió ember éhen halt (<mark class="hltr-green">Ukrajna</mark>)
 <mark class="hltr-orange">1932 végére</mark> olajkitermelés + vasgyártás + gépgyártás terén a második, villamosenergia-termelésben a harmadik helyre került a világ államainak sorában a Szovjetunió
 A sztálini fordulatnak köszönhetően pont akkor indult be a szovjet nehézipar elképesztő ütemű növekedése, amikor látványosan összeroppant a kapitalista világgazdaság (<mark class="hltr-orange">1929-1933</mark>)
+<mark class="hltr-orange">30-as évek végére</mark> a <mark class="hltr-green">Szovjetunió</mark> ipari és katonai nagyhatalom, komoly katonai veszélyt jelentett a világgazdaság válság miatt legyengült kapitalista <mark class="hltr-green">Európa</mark> számára, amelyben jelentősen megnőtt a kommunista pártok népszerűsége
+Ezeket az eredményeket a lakosság teljes kizsigerelésével, erőszakosan érték el
+### Sztálin diktatúrája
