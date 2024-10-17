@@ -135,3 +135,16 @@ kúsza kerek koszorúját fonják.
 
 ars poetica - hagyományos és újító jelleg kettőssége
 verseihez háttértudás kell - poeta doctus
+
+#### Óda a bűnhöz
+Verstani ismétlés
+#### Messe... messze... (nem kötelező tananyag)
+Verbális stílus - sok ige
+Nominális stílus - sok névszó
+Elvágyódás - romantika korára utaló jelleg
+Világ tarkaságát mutatja be nominális stílusban - hangulatképek, impresszionizmus
+1-8. versszak
+- Hangulatok, látványok Európa országaiból
+- Pillanatképek - képeslap műfaj (Razglednicák)
+9. versszak - nem tapasztalat, csak olvasmányélmény
+Szorgalmi: 8b versszak: Magyarhon... megírása
