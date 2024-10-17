@@ -56,3 +56,23 @@ A sztálini fordulatnak köszönhetően pont akkor indult be a szovjet nehézipa
 <mark class="hltr-orange">30-as évek végére</mark> a <mark class="hltr-green">Szovjetunió</mark> ipari és katonai nagyhatalom, komoly katonai veszélyt jelentett a világgazdaság válság miatt legyengült kapitalista <mark class="hltr-green">Európa</mark> számára, amelyben jelentősen megnőtt a kommunista pártok népszerűsége
 Ezeket az eredményeket a lakosság teljes kizsigerelésével, erőszakosan érték el
 ### Sztálin diktatúrája
+<mark class="hltr-cyan">Sztálin</mark> szerezte meg a vezető szerepet <mark class="hltr-cyan">Lenin</mark> halála után
+Az <mark class="hltr-orange">1930-as évek elején</mark> jelentős politikai elégedetlenség
+<mark class="hltr-orange">1934</mark> SZKP kongresszus, ahol új Központi Bizottságot választottak
+A legnépszerűbb jelölt: <mark class="hltr-cyan">Kirov</mark> (<mark class="hltr-green">leningrádi</mark> párttitkár)
+Legnépszerűtlenebb jelölt: <mark class="hltr-cyan">Sztálin</mark>
+A választási eredményeket gyorsan megváltoztatták
+<mark class="hltr-cyan">Kirovot</mark> meggyilkolják
+Ennek ürügyén látványos koncepciós per indult, melyben <mark class="hltr-cyan">Sztálin</mark> leszámolt politikai ellenfeleivel
+Nyílt terror alkalmazása
+Törvényes fizikai erőszak, kínzások
+Besúgóhálózat
+Tisztogatások (csisztka)
+Személyi kultuszt épített ki <mark class="hltr-cyan">Lenin</mark> és saját maga köré
+NKVD (Belügyi Népbiztosság)
+KGB (Állambiztonsági Bizottság)
+Tisztogatások a Vörös Hadseregben is
+GULAG (Táborok Állami Igazgatósága) - munkatáborok
+A táborokban gazdasági tervszámokat kellett teljesíteni
+Koncepciós perek (<mark class="hltr-cyan">Visinszkij</mark> főügyész)
+Személyi kultusz (halála után még évekig megmarad)
