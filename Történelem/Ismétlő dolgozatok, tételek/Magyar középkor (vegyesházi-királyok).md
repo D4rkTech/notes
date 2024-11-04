@@ -266,7 +266,7 @@ Kincstári bevételek: 500-750 ezer Ft
 <mark class="hltr-orange">1468</mark>
 Oka: a husziták kelyhes ágát eretneknek nyilvánították
 Így <mark class="hltr-cyan">Podjebrád Györgyben</mark> az egyház trónbitorlót látott (ő is kelyhes huszita volt)
-<mark class="hltr-cyan">Mátyás</mark> felajánlottam hogy hadat vezet ellene
+<mark class="hltr-cyan">Mátyás</mark> felajánlotta hogy hadat vezet ellene
 Elfoglalta <mark class="hltr-green">Sziléziát</mark> és <mark class="hltr-green">Morvaországot</mark>
 <mark class="hltr-orange">1469</mark> az itteni rendek cseh királlyá választották
 <mark class="hltr-cyan">Podjebrád György</mark> halála után a csehek <mark class="hltr-cyan">Jagelló Ulászlót</mark> ültették a trónra
