@@ -148,3 +148,43 @@ Világ tarkaságát mutatja be nominális stílusban - hangulatképek, impresszi
 - Pillanatképek - képeslap műfaj (Razglednicák)
 9. versszak - nem tapasztalat, csak olvasmányélmény
 Szorgalmi: 8b versszak: Magyarhon... megírása
+#### A lírikus epilógja
+A kötet záróverse - párba állítható az In Horatiummal - ars poetica
+Epilóg - zárlatra utal
+Cím ~ Babits zárszava
+2 db 4 soros, 2 db 3 soros vsz. - Petrarca szonettforma
+Szótagszám: 10 - 11 (11: hendekasyllabus)
+Eredeti rímképlet: abba abba cdc dcd (ölelkező- és keresztrímek)
+Babits féle rímképlet: abab abab cde cde
+Az In Horatiumban a költészetbeli tematikát ad, A lírikus epilógban a befelé fordulás jelenik meg
+Énközpontúság
+A világ létezésében kételkedik - a vers filozófiai alapja (kétkedés = agnoszticizmus) (2. vsz)
+Alakzatok:
+- "dióként" hasonlat
+- "dióként dióba" figura etymologica
+- "maradok: magam számára börtön" önmetafora
+- "alany és a tárgy, (...) az ómega, s az alfa" önmetafora, alfa <-> omega ellentét
+- "én birok versemnek hőse lenni" önmetafora (birok -> szenvedés)
+- "első s utolsó" - ellentét
+- "vágyom versbe venni" - alliteráció
+- minden ismétlődése <-> önmaga
+Megfogalmazott ars poetica:
+- Saját önközpontúságát értelmezi
+- Költészetének témája önmaga
+- De többet is szeretne versbe szedni
+Dió törésének képe - kortársak megfejtik a verseit, felélnek hozzá (poeta dictus - művelt, tanult költő) - igazi kortárs igénye
+van <-> nincs ellentét
+Babits felfedezésének akadálya - Babits maga
+bűvös kör - dió csonthéja
+nyíl = vágy metafora
+csalfa vágy = megszemélyesítés
+maradok magam alliteráció
+börtön = kör = csonthéj
+lélek börtöne a test
+ómega s alfa = kör
+alany s tárgy = megismerő és megismert
+### Esti kérdés
+Herceg hátha megjön a tél is kötet verse
+Fogarason töltött idő - filozófiában merül el  - Henri Bergson - idő elmélete (szubjektív idő (élőlények teremtő ideje) <-> objektív idő (fizikai idő) + múlt mindig hatással van a jelenre)
+Cím - Esti kérdés: napszakot jelöl meg - elmúlás, szomorúság napszaka (toposz) minőségjelzős szerkezet; kérdés -> vershelyzet, elgondolkodás, filozófiai témát jelöl
+HF. szótagszám, rímképlet, szerkezeti felosztás (3 db)
