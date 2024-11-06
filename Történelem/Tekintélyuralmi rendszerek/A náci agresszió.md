@@ -24,4 +24,16 @@ Hogyan tudta mindezt elérni?
 A nagyhatalmak (<mark class="hltr-green">Nagy-Britannia</mark> és <mark class="hltr-green">Franciaország</mark>) az engedmények politikáját választották, úgy vélve, ezzel megfékezhető a német agresszió
 Tévedtek
 ### A háború kitörése
+<mark class="hltr-orange">1939 Augusztus</mark> <mark class="hltr-cyan">Molotov</mark>-<mark class="hltr-cyan">Ribbentrop</mark> paktum
+- Szovjet-német megnemtámadási egyezmény - béke 10 évre
+- Titkos záradék: 
+	- <mark class="hltr-green">Észtország</mark>, <mark class="hltr-green">Lettország</mark> <mark class="hltr-cyan">Sztáliné</mark>
+	- <mark class="hltr-green">Litvánia</mark> <mark class="hltr-cyan">Hitleré</mark>
+	- <mark class="hltr-green">Lengyelország</mark> esetében a német-szovjet határ a Curzon-vonal lesz (demarkációs vonal)
+Ürügy: <mark class="hltr-green">Németország</mark> autópályát és vasutat akart építeni a lengyel korridoron át <mark class="hltr-green">Kelet-Poroszországba</mark>
+<mark class="hltr-green">Gleiwitzi</mark> incidens - lengyel katonának öltözött SS katonák <mark class="hltr-green">Lengyelországot</mark> agresszorként feltüntető üzenetet  küld az általuk elfoglalt rádióállomásról
+<mark class="hltr-orange">1939 Szeptember 1</mark> a németek hadüzenet nélkül megtámadják <mark class="hltr-green">Lengyelországot</mark>
+Ezzel kitört a második világháború
+<mark class="hltr-cyan">Sztálin</mark> kivár <mark class="hltr-orange">Szeptember 17-ig</mark> - francia és brit lépésre vár 
+
 November 19. TZ - nácizmus, sztálinizmus, náci agresszió
