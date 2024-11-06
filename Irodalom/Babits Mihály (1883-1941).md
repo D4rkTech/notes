@@ -188,3 +188,35 @@ Herceg hátha megjön a tél is kötet verse
 Fogarason töltött idő - filozófiában merül el  - Henri Bergson - idő elmélete (szubjektív idő (élőlények teremtő ideje) <-> objektív idő (fizikai idő) + múlt mindig hatással van a jelenre)
 Cím - Esti kérdés: napszakot jelöl meg - elmúlás, szomorúság napszaka (toposz) minőségjelzős szerkezet; kérdés -> vershelyzet, elgondolkodás, filozófiai témát jelöl
 HF. szótagszám, rímképlet, szerkezeti felosztás (3 db)
+
+"Midőn az est (...) e lepelt tehernek" - 1. egység - az est képének leírása természeti képeken keresztül - est = bársonytakaró - allegorikus kép, tájleírás -> piktúra, pikturális leírás
+"(O)lyankor bárhol (...) de kincs is" - 2. egység - 
+"Ott emlékektől (...) hogyha újra nő" - 3. egység - a filozófiai rész
+2 - pikturális részekkel szentencia
+3 - szentencia
+aabbccdede - szabályos rímképlet a vers első felében
+10-11 szótagos sorok szabályos váltakozása, ami a rímképlethez igazodik
+
+zárlat - kérdés
+indukció - egyeditől általánosig
+dedukció - általánostól az egyediig
+
+2. egység
+	- Emlékek, szubjektív idő leírása
+	- Helyszínek
+		- Nagyvilág
+		- Otthon
+		- Kávéházban
+		- Domb oldalán
+		- Országút
+		- Hajó
+		- Vonat
+		- Idegen város a Ríván - velencei emlékkép
+	- Este merengj a messze múltba - emlékezésre szólít fel
+3. egység
+	- Filozofikus tartalom
+	- Létezés értelme, élet körforgása - Danaida-lányok, szizifuszi kő - mitológia képek
+	- Utolsó kérdés - elmúlás, újjászületés
+	- Megkérdőjelezi még
+Nov. 12-13. Jónás könyve
+Nov. 20. Babits TZ
