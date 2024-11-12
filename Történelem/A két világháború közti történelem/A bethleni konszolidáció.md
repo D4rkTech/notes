@@ -26,3 +26,17 @@ Célja - konzervatív politikai stabilitás
 - Városokban titkos szavazás
 - Vidéken nyilvános választás
 <mark class="hltr-orange">1923 Nyara</mark> a fajvédők kiszorítása a kormánypártból (legbefolyásosabb szélsőjobboldali csoport <mark class="hltr-cyan">Gömbös Gyula</mark> vezetésével)
+<mark class="hltr-cyan">Gömbös</mark> <mark class="hltr-orange">1923 Nyaráig</mark> az Egységes Párt ügyvezető alelnöke volt
+Miután <mark class="hltr-cyan">Gömböst</mark> és híveit kiszorították az EP-ből létrehozta a Fajvédő Pártot (Nemzeti Függetlenségi Párt)
+Nem tudtak a <mark class="hltr-orange">20-as években</mark> jelentős szerepet játszani a magyar politikai életben
+<mark class="hltr-orange">1928</mark> <mark class="hltr-cyan">Gömbös</mark> visszatért az EP-ba (felülvizsgálta nézeteit)
+Korlátozott parlamentarizmus
+- Ellenzéki pártok működhettek
+- A kormánypárt bukására reális esély nincs
+### Gazdasági konszolidáció
+Kezdetben önerőre akarnak támaszkodni - kudarc
+Oka: bevételek alacsonyabbak, mint a kormány kiadásai
+<mark class="hltr-orange">1924 Június</mark> Népszövetségi kölcsön (későbbi további kölcsönök)
+(<mark class="hltr-orange">1922 Szeptember</mark> felvették hazánkat a Népszövetségbe)
+<mark class="hltr-orange">1924</mark> Magyar Nemzeti Bank alapítása
+<mark class="hltr-orange">1927 Január</mark> pengő bevezetése
