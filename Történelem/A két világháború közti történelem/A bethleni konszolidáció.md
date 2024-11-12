@@ -40,3 +40,15 @@ Oka: bevételek alacsonyabbak, mint a kormány kiadásai
 (<mark class="hltr-orange">1922 Szeptember</mark> felvették hazánkat a Népszövetségbe)
 <mark class="hltr-orange">1924</mark> Magyar Nemzeti Bank alapítása
 <mark class="hltr-orange">1927 Január</mark> pengő bevezetése
+Új vámrendszer - iparvédelem és fejlesztés
+<mark class="hltr-orange">1924-29</mark> ipari termelés 70%-kal növekedett
+<mark class="hltr-orange">1929</mark> 12%-kal felülmúlta a háború előtti szintet
+Textilipar, vegyipar, könnyűipar, építőipar
+Előretört a villamosenergia-ipar
+Az élelmiszeripar szerepe csökken
+Stagnáló mezőgazdaság
+A gazdaság újjászervezése, az életkörülmények javulása segítette a politikai stabilizációt
+### Szociálpolitikai konszolidáció
+TB újjászervezése:
+- <mark class="hltr-orange">1927</mark> kiterjesztették a kötelező betegségi és baleseti biztosításban részesülők körét
+- <mark class="hltr-orange">1928</mark> bevezették a kötelező öregségi, rokkantsági, özvegységi és árvasági biztosítást
