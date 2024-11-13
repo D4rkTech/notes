@@ -33,7 +33,7 @@ Nem tudtak a <mark class="hltr-orange">20-as években</mark> jelentős szerepet 
 Korlátozott parlamentarizmus
 - Ellenzéki pártok működhettek
 - A kormánypárt bukására reális esély nincs
-### Gazdasági konszolidáció
+#### Gazdasági konszolidáció
 Kezdetben önerőre akarnak támaszkodni - kudarc
 Oka: bevételek alacsonyabbak, mint a kormány kiadásai
 <mark class="hltr-orange">1924 Június</mark> Népszövetségi kölcsön (későbbi további kölcsönök)
@@ -48,7 +48,35 @@ Előretört a villamosenergia-ipar
 Az élelmiszeripar szerepe csökken
 Stagnáló mezőgazdaság
 A gazdaság újjászervezése, az életkörülmények javulása segítette a politikai stabilizációt
-### Szociálpolitikai konszolidáció
+#### Szociálpolitikai konszolidáció
 TB újjászervezése:
 - <mark class="hltr-orange">1927</mark> kiterjesztették a kötelező betegségi és baleseti biztosításban részesülők körét
 - <mark class="hltr-orange">1928</mark> bevezették a kötelező öregségi, rokkantsági, özvegységi és árvasági biztosítást
+### Külpolitikai konszolidáció
+Külpolitikai elszigeteltség
+A kisantant létrejötte után két út:
+- Lemondani a revízióról, csatlakozni a környező államok szövetségi rendszeréhez
+  (a biztonsági szempont ezt diktálta volna)
+- Revízió - törekedni kell a kisantant felbomlasztására
+Végső cél: kitörni a külpolitikai elszigeteltségből
+<mark class="hltr-orange">1926</mark> <mark class="hltr-cyan">Horthy</mark> <mark class="hltr-green">mohácsi</mark> beszéde - magyar-szerb béke
+<mark class="hltr-orange">1927</mark> <mark class="hltr-green">Rómában</mark> olasz-magyar örökbarátsági szerződés
+<mark class="hltr-green">Németország</mark> még óvatos
+Eredményes a <mark class="hltr-green">Lengyelország</mark> és <mark class="hltr-green">Ausztria</mark> felé tett közeledés
+<mark class="hltr-orange">1920-as évek vége</mark> sikerül kitörni a külpolitikai elszigeteltségből
+A belső konszolidáció így a külpolitikai konszolidációval párosult
+### Gazdasági válság
+<mark class="hltr-orange">1929</mark> nagy gazdasági válság
+Agrárárak bezuhanása a világpiacon
+Nemzetközi tőkeimport elakadása
+<mark class="hltr-green">Magyarországra</mark> nézve tragikus
+Átmeneti megoldás - mezőgazdasági ártámogatási rendszer (bolettarendszer, boletta = gabonajegy)
+Mérsékelt adóemelés
+Költségvetési kiadások csökkentése (létszám- és fizetéscsökkentés)
+Cél: piacot szerezni
+<mark class="hltr-orange">1931</mark> olasz-magyar kereskedelmi szerződés (gabona- és állatexport felárral, olasz iparcikkek ugyanilyen ártöbblettel <mark class="hltr-green">Magyarországra</mark>)
+<mark class="hltr-green">Ausztriával</mark> és <mark class="hltr-green">Németországgal</mark> is hasonló szerződések
+<mark class="hltr-orange">1931</mark> <mark class="hltr-green">Franciaország</mark> 5 milliós gyorssegélyt adott <mark class="hltr-green">Magyarországnak</mark>
+Eddigre kimerületek az ország nemesfém- és devizakészletei
+Államcsőd elkerülésére 3 napos bankzárlat
+<mark class="hltr-orange">1931</mark> <mark class="hltr-cyan">Bethlen</mark> és kormánya lemondott
