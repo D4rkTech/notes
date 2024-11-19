@@ -218,5 +218,40 @@ dedukció - általánostól az egyediig
 	- Létezés értelme, élet körforgása - Danaida-lányok, szizifuszi kő - mitológia képek
 	- Utolsó kérdés - elmúlás, újjászületés
 	- Megkérdőjelezi még
-Nov. 12-13. Jónás könyve
-Nov. 20. Babits TZ
+### Első világháborús költészete
+Pacifista - békepárti
+Adyval párhuzamba állítható, de ő háború ellenes, míg Babitsnál a béke az elsődleges
+#### Húsvét előtt
+Két magatartási forma
+- harsogó kiáltás a háború ellen (Ady, Babits nem tud azonosulni, de "de ha szétszakad ajkam is")
+- csend, némasággal tüntetni a háború ellen
+ez a kettő ötvöződik, a békevágy fogalmazódik meg
+Szerkezet
+szabályos (versszakok tagolása) és szabálytalan (szótagszám, rímképlet) szerkesztés - rapszódia műfajra utal
+érzelmi csúcspont - "hogy elég! hogy elég! elég volt!"
+onnantól a pacifista jelleg a domináns
+"adjon Isten bort, búzát, bort a feledésre" - népdal evokáció
+március - forradalmi áthallás 48-ra
+#### Fortissimo
+prófétai magatartás - kiáll, és felszólal valami ellen
+istent okolja a háborúért - istenkáromlás vádja
+felszólítja anyákat a sírásra, férfiakat káromolásra - isten figyelmének felhívása a háborúra
+Niobé - gyermeksirató (gőgös) nő alakja
+### Jobb és bal
+nincs datálva - valamikor a 1920-as években keletkezett
+Nyugat szerkesztőjeként támadták politikai szelektálással, ezekre reagál
+szabadvers - nincs szabályos formaiság
+1. egység
+	- láng önmetafora
+	- lángot viszi a szél, jobbra és balra - de fölfele tör
+2. egység
+	- eltűnik a metaforikus sík
+	- E/1 megszólalások - számon kérő, indulatosabb hangvétel
+	- játék képe - kötődés a 3. egységhez
+3. egység
+	- vad, véres játék
+	- játék -> báb, ami dülöngél a színpadon
+4. egység
+	- báb vagyok - metafora
+	- én is - más szerkesztőkre utal
+szerkezet - ismétlés, ellentét (jobb-bal)
