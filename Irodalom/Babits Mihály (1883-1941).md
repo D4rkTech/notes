@@ -255,3 +255,41 @@ szabadvers - nincs szabályos formaiság
 	- báb vagyok - metafora
 	- én is - más szerkesztőkre utal
 szerkezet - ismétlés, ellentét (jobb-bal)
+## 30-as évek prófétai magatartása
+#### Előzményei
+##### Pályájának elején
+Magánjellegű gondolati líra, a klasszikus modernség szépségkultusza
+##### 20-as évek
+Trianon, nemzeti tragédia
+Közösségi szempontok, humánum őrzése, nyelvi letisztultság
+#### 30-as évek
+Szerepváltozás
+Egyetemes erkölcs parancsainak közvetítése, prófétai szerep (tetőzése: Jónás könyve)
+### Mint különös hírmondó...
+Versenyt az esztendőkkel! kötetben jelent meg (1933)
+Szabályos 4 soros vsz-ok, de szabálytalan szótagszám, rímképlet
+Lezáratlan sorok, vsz-ok - áthajlások (enjambement) (sorok és vsz-ok közt is) - egybefüggő gondolatsorra utal, aminek vége a vers vége, szabadvers
+Két szerkezeti egységre osztható
+1. egység - 1-6. vsz.
+   - E/3 a hírmondóról
+   - A hímondó elbújik a hírek elől
+   - Ha előjön, olyan hírt mond, amit mindenki tud (ősz van!)
+   - Paradox nyitósor (hírmondó nem tud semmi újságot)
+   - 20. századi hírmondó (versben autó, repülő, gépfegyver) - hírmondó szerep az ókori drámák világából ismerős
+   - Anakronisztikus hírmondó - időben eltolódott, nem illik az időszakba
+   - Szél változást, hírt hoz -> megindul
+   - A híre mindenki számára nyilvánvaló
+   - Tartózkodási pontja az erkölcsi magaslatot képvisel
+1. egység - 7-10. vsz.
+   - E/1 magáról
+   - Visszaállt a "szent Ritmus" - a természet járja a maga útját
+   - Ez nem hír (a maga nemében), inkább "jóhír" - evangélium
+   - Hírnök hírmondása a lírai én ars poeticájává válik
+   - Tél képe - fehér tigris; hó - a tigris hulló szőre, szokatlan metafora
+### Szembenézés a halállal
+Első tünetei 1934-ben kezdődtek
+1936 - rosszindulatú daganat diagnózisa, 1937 - gégerák
+Beszélgetőfüzet - kapcsolattartás
+Kosztolányi ebben az évben halt meg ínyrákban
+Legnagyobb halál témájú verse az Ősz és tavasz között
+HF. évszaktoposzok, hozzá társított dolgok jelölése
