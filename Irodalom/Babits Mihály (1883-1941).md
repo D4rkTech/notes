@@ -292,4 +292,18 @@ Első tünetei 1934-ben kezdődtek
 Beszélgetőfüzet - kapcsolattartás
 Kosztolányi ebben az évben halt meg ínyrákban
 Legnagyobb halál témájú verse az Ősz és tavasz között
-HF. évszaktoposzok, hozzá társított dolgok jelölése
+### Ősz és tavasz között
+Kései költészetének témája a halál
+Sietős cselekvések - kötetcím: Versenyt az esztendőkkel
+Ősi évszaktoposz használata
+Folytonos megújulás - refrén
+Nem egyetlen évszak leírása, mint az elődöknél, hanem egy időtartamé
+Nem az évszakok a fontosak, azok egymásba fordulása, a folyamat
+Évszakok egy-egy jellemzővel idéz fel
+Ősz - a bor, a szél, a víz
+Tél - a hó, az újév
+Tavasz - az olvadás, a vándormadarak
+Evokáció 
+- Arany: Epilogus
+- Népköltészet
+- Műfajok - bordal, haláltánc
