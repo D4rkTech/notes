@@ -354,3 +354,51 @@ költészetének célja (halála előtt két évvel):
 "Cethal szájában végképp eltűnök" - halál eufémizmus
 reménykedés - újra kommunikál
 Dec. 5 TZ
+### Összefoglalás
+Életművének korszakolása
+Irodalmi tevékenysége
+- Költő - In Horatium, Lírikus epilógja
+- Főszerkesztő - Nyugat (haláláig)
+- Író (regény, esszé, tanulmány) - A gólyakalifa (regény), Az ifjú Vörösmarty (esszé), Petőfi és Arany (esszé)
+- Műfordító - Dante: Isteni színjáték, Baudelaire: Romlás virágai
+- Tanár - Szeged, Fogaras
+- Kurátor - Baumgarten-díj
+Életrajz - igaz/hamis, igazzá kell tenni, tk-i életrajz! (11-es OFIs tankönyv)
+- első / második kötetének címe
+- hozzá köthető személyek
+	- Tanner Ilona/Török Sophie - Kazinczy szerepe
+	- Bergson - időelmélet, szubjektív (személyek, múlt, jelen, jövő kapcsolata, emlékek) és objektív (fizikai) idő
+	- Kelemen Auróra - anyja
+	- Szabó Lőrinc - Baudelaire fordítás, mentorként tekintett Babitsra
+	- Ady Endre - kortársak, Nyugat, barátok, Csinszka
+Bergson filozófiája! - Esti kérdés
+Témái:
+- Ars poetica
+	- In Horatium
+	- A lírikus epilógja
+	- Cigány a siralomházban (középső korszak)
+	- Csak posta voltál
+	- Jobb és bal
+	- Jónás imája
+- Prófétaszerep
+	- Jónás imája
+	- Jónás könyve
+	- Mint különös hírmondó
+- Tájleíró
+	- Esti kérdés
+	- Fekete ország
+	- Messze..., messze...
+- Háború
+	- Fortissimo
+	- Húsvét előtt
+- Filozofikusság
+	- Esti kérdés
+	- Fekete ország
+- Számvetés
+	- Ősz és tavasz között
+Elemzés
+- Esti kérdés
+- A lírikus epilógja
+- In Horatium
+- Mint különös hírmondó
+Memoriter: Jónás imája, sorba rendezés, nem teljes - 10 sor
