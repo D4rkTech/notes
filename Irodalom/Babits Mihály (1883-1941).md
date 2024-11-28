@@ -307,3 +307,50 @@ Evokáció
 - Arany: Epilogus
 - Népköltészet
 - Műfajok - bordal, haláltánc
+### Jónás könyve
+Betegágyon írta beszélgető-füzeteibe a műtéte után
+- Babits párhuzamba állítható Jónás karakterével
+- Próféta elhagyása a címből - próféta szereppel nem tud azonosulni
+Próféták feladata - Isten igéjének hirdetése
+4 nagypróféta - Izaiás, Jeremiás, Ezékiel, Dániel
+12 kispróféta, köztük Jónás
+
+3. rész
+- Csillagforma tér
+- Színészek és mímesek tere - szemérmetlen nők isten küldöttjét próbálják elcsábítani - naturalizmus
+- királyi udvar - egy oszlop tetejére rakják
+- $\sum$ : a niniveiek kinevetik, megalázzák
+- kivonul, böjtöl, Ninive pusztulását várja
+- zárszóban Jónás monológja - elvárása az úrtól, szemére veti, ő nem tudja beteljesíteni az úr akaratát
+- szállóigé - (mert) Vétkesek közt cinkos, aki néma.
+
+4. rész
+- Jónás hőbörgése, a tök állandó elem
+- Az úr megkegyelmez Ninivének - 1-2 ember meg tudja változtatnia várost (Biblia - "nem tud különbséget tenni jobb és bal kezük között" - degradáló, Babits - fáklya metafora)
+- Bűnbocsánat - amit teremtünk nem tudunk elpusztítani rövid idő alatt (Biblia - megbocsátó isteni magatartás, mint pl. a vízözön története; Bábel tornya; kiűzetés) - emberi tulajdonságok
+- A város megtisztulása, a megbocsátás hosszú idő alatt történik
+Jónás imája - memoriter
+Érettségi tétel - életkörülmények bevezetése, Bibliai Jónás könyvével összehasonlítás
+műfaj: parafrázis, elbeszélő költemény
+parafrázis
+- kapcsolatot biztosít az eredeti művel - azonos szereplők, történet,  hasonló nyelvezet, intertextualitás alkalmazása (pl. "Kelj fel, és menj Ninivébe")
+evokáció
+régies = archaikus szóhasználat
+gondolat zárlata - szállóige, mondás -> szentenciózusság, tömörség
+latinizmus - latinnak megfelelő ragozás
+Babits nem tud beszélni - nem tud prófétai szerepbe kerülni, elégedetlen önmagával - önirónia, groteszk Jónás alak
+történelmi háttér - Anschluss
+táblázat alatti 10-12 mondat foglalja össze a legfontosabb hasonlóságokat és különbségeket
+tök-metafora részletezése
+1937-1938
+
+### Jónás imája
+Lírai epilóg, zárszó
+Beilleszthető a halban töltött időbe
+Ars poeticus jelleg - beszéd beszélés nélkül
+2 mondatra tagolva (eredetileg ;) - hangulati különbség (némaság & istenkép)
+költészetének célja (halála előtt két évvel):
+önmagát jónáshoz hasonlítja
+"Cethal szájában végképp eltűnök" - halál eufémizmus
+reménykedés - újra kommunikál
+Dec. 5 TZ
