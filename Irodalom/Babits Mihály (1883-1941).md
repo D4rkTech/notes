@@ -402,3 +402,150 @@ Elemzés
 - In Horatium
 - Mint különös hírmondó
 Memoriter: Jónás imája, sorba rendezés, nem teljes - 10 sor
+
+# TZ
+### Életrajz
+1883-ban született Szekszárdon, értelmiségi családba
+Édesapja: Babits Mihály, édesanyja: Kelemen Auróra
+Elemi iskola - Budapest, Pécs
+Gimnázium - Pécs
+Egyetem - Budapest, bölcsészkara
+Baja, Szeged, Fogaras - tanár (utóbbi a "világ vége")
+1908 - Holnap 5 versét közölte
+Fogarasi "száműzetése" előtt elutazott Olaszországba, Velencébe - Isteni színjáték
+Henri Bergson - időfilozófia
+- Szubjektív és objektív idő
+- Múlt és jelen kapcsolata - emlékek
+1909 - első verseskötete: Levelek Iris koszorújáról
+1911 - Herceg, hátha megjön a tél is!
+Nyugat állandó munkatársa
+Hatvany Lajos - mecénása, Budapesten tanári állás
+Fordítása - Dante: Isteni színjáték
+Felesége - Tanner Ilona (írói álneve: Török Sophie - Kazinczy felesége, Babits Kazinczyhez hasonló szerepet tölt be)
+Szabó Lőrinccel, Tóth Árpáddal közös fordítása: Baudelaire: A romlás virágai
+Baumgartner Ferenc halála után a róla elnevezett alapítvány és díj kurátora lett
+1929 - Nyugat főszerkesztője
+Kései munkásságában pesszimizmus fedezhető fel (Trianon, második világháború jelei, gégerák)
+Gégerákját megműtötték, elvesztette a hangját - beszélgetőfüzetekkel kommunikált
+Budapesten halt meg 1941-ben
+### Fontosabb művei, csoportosítása
+#### Irodalmi tanulmányai (Nyugat)
+- Petőfi és Arany
+- Az irodalom halottjai
+- Az ifjú Vörösmarty
+- A férfi Vörösmarty
+#### Regényei
+- A gólyakalifa
+- Timár Virgil fia
+- Kártyavár
+- Halálfiai
+- Elza pilóta, vagy a tökéletes társadalom
+#### Versei (tematika szerint)
+- Ars poetica
+	- In Horatium
+	- A lírikus epilógja
+	- Cigány a siralomházban (középső korszak)
+	- Csak posta voltál
+	- Jobb és bal
+	- Jónás imája
+- Prófétaszerep
+	- Jónás imája
+	- Jónás könyve
+	- Mint különös hírmondó
+- Tájleíró
+	- Esti kérdés
+	- Fekete ország
+	- Messze..., messze...
+- Háború
+	- Fortissimo
+	- Húsvét előtt
+- Filozofikusság
+	- Esti kérdés
+	- Fekete ország
+- Számvetés
+	- Ősz és tavasz között
+### Elemzések
+#### In Horatium
+A Levelek Iris koszorújából kötet nyitóverse
+Cím: Horatius ellen, Horatius modorában - arany középszer gondolatával szembefordulás
+Ars poetica
+A világ sokszínűségének befogadására, megragadására törekszik, formai és tartalmi megújulás a költészet lényege
+Felütése: beszélő csak kiválasztott, értő olvasóhoz kíván szólni ("Gyűlöllek, távol légy alacsony tömeg!")
+Hagyomány + újítás
+Téma: soha-meg-nem-elégedés
+Antik és keresztény gondolatkörök egymásba kapcsolása
+- Horatius - cím + elvek
+- Hérakleitosz - "Nem lépsz be kétszer egy patakba"
+- Szent Pálra utal - "Így nem is él soha, mi meg sem halt"
+#### A lírikus epilógja
+A Levelek Iris koszorújáról kötet záróverse, párhuzamba állítható az In Horatium nyitóverssel
+Epilóg - zárlatra utal
+2 db 4 soros, 2 db 3 soros vsz - Petrarca szonettforma
+Szótagszám: 10 - 11 (11: hendekasyllabus)
+Eredeti rímképlet: abba abba cdc dcd (ölelkező- és keresztrímek)
+Babits féle rímképlet: abab abab cde cde
+Az In Horatiumban a költészetbeli tematikát ad, A lírikus epilógjában a befelé fordulás jelenik meg
+Énközpontúság
+A világ létezésében kételkedik - a vers filozófiai alapja (létkedés = agnoszticizmus) (2. vsz)
+Alakzatok:
+- "dióként" hasonlat
+- "dióként dióba" figura etymologica
+- "maradok: magam számára börtön" önmetafora
+- "alany és a tárgy, (...) az ómega, s az alfa" önmetafora, alfa <-> omega ellentét
+- "én birok versemnek hőse lenni" önmetafora (birok -> szenvedés)
+- "első s utolsó" - ellentét
+- "vágyom versbe venni" - alliteráció
+- minden ismétlődése <-> önmaga
+Megfogalmazott ars poetica:
+- Saját önközpontúságát értelmezi
+- Költészetének témája önmaga
+- De többet is szeretne versbe szedni
+Dió törésének képe - kortársak megfejtik a verseit, felélnek hozzá (poeta dictus - művelt, tanult költő) - igazi kortárs igénye
+van <-> nincs ellentét
+Babits felfedezésének akadálya - Babits maga
+bűvös kör - dió csonthéja
+nyíl = vágy metafora
+csalfa vágy = megszemélyesítés
+maradok magam alliteráció
+börtön = kör = csonthéj
+lélek börtöne a test
+ómega s alfa = kör
+alany s tárgy = megismerő és megismert
+#### Esti kérdés
+Herceg hátha megjön a tél is kötet verse
+Fogarason töltött idő - filozófiában merül el  - Henri Bergson - idő elmélete (szubjektív idő (élőlények teremtő ideje) <-> objektív idő (fizikai idő) + múlt mindig hatással van a jelenre)
+Cím - Esti kérdés: napszakot jelöl meg - elmúlás, szomorúság napszaka (toposz) minőségjelzős szerkezet; kérdés -> vershelyzet, elgondolkodás, filozófiai témát jelöl
+Szerkezet
+1. "Midőn az est (...) e lepelt tehernek"
+   - Est leírása természeti képeken keresztül
+   - Est = bársonytakaró (allegorikus kép)
+   - Tájleírás - piktúra, pikturális leírás
+2. "(O)lyankor bárhol (...) de kincs is"
+   - Emlékek, szubjektív idő leírása
+   - Este merengj a múltba - emlékezésre szólít fel
+   - Helyszínek - nagyvilág, otthon, kávéház, domboldal, országút, hajó, vonat, idegen város (velencei emlékkép)
+3. "Ott emlékektől (...) hogyha újra nő"
+   - Filozofikus tartalom - szentencia
+   - Létezés értelme, élet körforgása - Danaida-lányok, Szizifuszi kő (mitológiai képek)
+   - Utolsó kérdés - elmúlás, újjászületés
+#### Mint különös hírmondó...
+Versenyt az esztendőkkel! kötetben jelent meg (1933)
+Szabályos 4 soros vsz-ok, de szabálytalan szótagszám, rímképlet
+Lezáratlan sorok, vsz-ok - áthajlások (enjambement) (sorok és vsz-ok közt is) - egybefüggő gondolatsorra utal, aminek vége a vers vége, szabadvers
+Két szerkezeti egységre osztható
+1. egység - 1-6. vsz.
+   - E/3 a hírmondóról
+   - A hímondó elbújik a hírek elől
+   - Ha előjön, olyan hírt mond, amit mindenki tud (ősz van!)
+   - Paradox nyitósor (hírmondó nem tud semmi újságot)
+   - 20. századi hírmondó (versben autó, repülő, gépfegyver) - hírmondó szerep az ókori drámák világából ismerős
+   - Anakronisztikus hírmondó - időben eltolódott, nem illik az időszakba
+   - Szél változást, hírt hoz -> megindul
+   - A híre mindenki számára nyilvánvaló
+   - Tartózkodási pontja az erkölcsi magaslatot képvisel
+1. egység - 7-10. vsz.
+   - E/1 magáról
+   - Visszaállt a "szent Ritmus" - a természet járja a maga útját
+   - Ez nem hír (a maga nemében), inkább "jóhír" - evangélium
+   - Hírnök hírmondása a lírai én ars poeticájává válik
+   - Tél képe - fehér tigris; hó - a tigris hulló szőre, szokatlan metafora
