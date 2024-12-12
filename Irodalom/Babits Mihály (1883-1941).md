@@ -476,6 +476,7 @@ Téma: soha-meg-nem-elégedés
 Antik és keresztény gondolatkörök egymásba kapcsolása
 - Horatius - cím + elvek
 - Hérakleitosz - "Nem lépsz be kétszer egy patakba"
+- Őselemek
 - Szent Pálra utal - "Így nem is él soha, mi meg sem halt"
 #### A lírikus epilógja
 A Levelek Iris koszorújáról kötet záróverse, párhuzamba állítható az In Horatium nyitóverssel

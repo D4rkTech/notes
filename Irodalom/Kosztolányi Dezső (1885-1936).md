@@ -107,3 +107,107 @@ Elemzési szempontok
 - Berzsenyi: A közelítő tél - piktúra + szentencia 
 - (Petőfi: Szeptember végén) - szerelem
 - Babits: Ősz és tavasz között - elmúlás, halál
+
+Évszaktoposz:
+- Vörösmarty: Előszó - idő múlása
+- Babits: Ősz és tavasz között
+- A puszta télen
+- A Reményhez - érzelmek
+- Héja-nász az avaron - érzelmek
+### Őszi reggeli
+Felütés: "Ezt hozta az ősz." - deiktikus, az "ezt" kifejtése a vers többi része
+Mit hozott az ősz:
+- Szőlő
+- Körte
+- Bogyó
+- Ezek üvegtálon - csendélet leírása (a 6. sorig, majd elvontabb rész)
+- A gyümölcsöket drágakövekkel vonja párhuzamba
+- Vízcsöpp viszi át elvontabb síkra a verset
+Drágakövek <-> gyümölcs (élő, élettelen azonosítása, tárgyilagosítás)
+Utolsó két sor - halál leírása
+Műfaj: elégia (elégikus hangvétel), igazi élet hiánya
+élő (gyümölcs) - élettelen (drágakő) körforgása, utolsó két sorban emberre - körforma uralkodó
+
+Előreutaló - katafora
+Visszautaló - anafora
+Szövegből kiutaló - deixis - deiktikus elem
+### Halotti beszéd
+Szabálytalan sorszámú versszakok - szabadvers (tartalom fontosabb a formaiságnál)
+Intertextualitás a címben - a nyelvemlék parafrázisára számítunk
+Nyelvemlék:
+- első prózai alkotás
+- 1200 körül
+- temetési prédikáció
+- 26 sor beszéd, 6 könyörgés
+- bűnbeesés története, majd egyetlen emberre vonatkoztat
+Kapcsolódási pontok:
+- "Látjátok feleim"
+- "Édes barátaim"
+Nem sok kapcsolódás -> nem parafrázis
+vers témája - az ember különleges - apró részleteket mutat be
+- Fej, szem, kéz, "ékírással karcolva" - tenyér mintázata - egyediség
+- fény, hő volt -> melegszívű
+- "ahogy szerette ezt vagy azt az ételt" - ízlés
+- "ahogy zengett fülünkbe hangja" - hangja
+- megszólalás
+- bort ivott
+- olcsó cigarettát szívott
+- telefonált
+- álmodott
+- "homlokán feltündökölt a jegy" - ránc egyedisége, Bibliai utalás (Káin jele)
+egyedi -> általános, miden emberre jellemző az egyediség (indukció)
+Utolsó részben meseszerű utalások - intertextualitás, népmesék szófordulatai
+Műfaj - elégia - élet múlandósága
+Boldog, szomorú dal - kincs említése
+### Hajnali részegség
+Szabadvers, gondolati vers - tematikailag (élet nagy kérdéseivel foglalkozik)
+Nem bír elaludni:
+- "gép az agyban zörög tovább"
+- "százig olvasva, altatókkal" - altató, számolás nem segít
+- "negyven cigaretta"
+- "A fekete" - kávé
+1. vsz. körülményei leírása - vershelyzet
+Ablakhoz "botorkál, mint a részeg"
+Olvasó megszólítása
+Szomszédban alszanak az emberek ("vízszintesen feküdnek" - körülírás)
+Munkásemberek - "mindennapos agyvérszegénység"
+Szoba, lakás, mint doboz, ketrec
+Ébresztőóra hangja (elképzeli)
+"ház is alszik" - térbeli metonímia
+"holtan és bután" degradálás
+"otthonunk volt-e vagy állat óla" - dehumanizálás, degradálás ("gyom virít alóla" nem virág)
+(feltehetőleg cselédház, de nem valószínű, hogy rálátott ilyen házra)
+3. vsz. síkváltás (szemben <-> fönn) szemlélődés módjának váltása
+gyerekkorát idézi meg (a kék szín) - asszociatív technika
+ég - paplan - festékfolt
+4-5. vsz - napfelkelte
+csillagok = vendégek, az óriás = Hold, báli belépő = nap
+6. vsz. visszatér - síkváltás
+7. vsz kezdete - időmegjelölés, majd önmegszólítás - önmagát kérdezi, hogy nem tűnt fel neki a napfelkelte szépsége
+8-9. vsz. kitekintés, filozofikus rész - önreflexió, folytatja az önmegszólítás
+köszönetmondás a természetnek
+kék szín visszatérése - "dalolni kezdtem ekkor az azúrnak" - verset ír, imaszerű zárlat, eufemisztikus leírása a köszönetének az "Úrnak"
+Műfaj - elégia
+szerkezeti felosztás
+- fent <-> lent alapján - 1-2 lent, 3-5 fent, 6-9 lent
+
+Dec. 17. érettségi jelentkezések kitöltése
+Dec. 18. kötelező továbbtanulási tájékoztató
+
+Szünetben:
+- Móricz Zsigmond: Úri muri (nem érettségi tétel, történetet, szereplőket ismerni, összefoglalót)
+- Brecht: Kurázsi mama és gyermekei
+- Beckett: Godotra várva
+- Kosztolányi Dezső: Rend (novella)
+
+Feladatlapos könyv (nem adattár, a másik)
+
+### Édes Anna
+#### Keletkezés
+1926
+Eredetileg novellának szánta, felesége olvasott neki újságból
+Eredetileg Nyugatban folytatásosan
+Anna jelleme - kisfiának dajkája
+Édes Anna -> édesanya
+Nem akarja teljesen szimpatikusnak feltüntetni (késleltetés)
+Cselédkönyvből tudjuk meg a leírását - semmitmondó, nem fontos senkinek (kivétel: Bandika), többi kötődése negatív
