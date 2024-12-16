@@ -15,3 +15,24 @@ A magyar határokat megnyitotta a lengyel menekülők előtt
 <mark class="hltr-orange">1940 Nyara</mark> a <mark class="hltr-green">Szovjetunió</mark> követelte <mark class="hltr-green">Besszarábiát</mark> a románoktól
 Magyar csapatok felvonulnak a román határon
 <mark class="hltr-orange">1940 Augusztus</mark> második <mark class="hltr-green">bécsi</mark> döntés - <mark class="hltr-green">Észak-Erdély</mark> és <mark class="hltr-green">Székelyföld</mark> visszacsatolása (~43 ezer $km^2$)
+(<mark class="hltr-green">Németország</mark> <mark class="hltr-green">Románia</mark> határait is garantálta, nincsen további revízióra lehetőség)
+Megállíthatatlan sodródás a háború felé
+<mark class="hltr-orange">1940 November</mark> csatlakozás a háromhatalmi egyezményhez
+<mark class="hltr-orange">1940 December</mark> örök barátsági szerződés <mark class="hltr-green">Jugoszláviával</mark>, akik angolbarát politikát folytattak
+(külpolitikai helyzetünk erősítése céljából lemondunk a <mark class="hltr-green">Délvidék</mark> revíziójáról)
+<mark class="hltr-orange">1941 Március</mark> angolbarát puccs <mark class="hltr-green">Jugoszláviában</mark>
+<mark class="hltr-green">Németország</mark> lerohanta <mark class="hltr-green">Jugoszláviát</mark>
+<mark class="hltr-cyan">Hitler</mark> felszólítja <mark class="hltr-cyan">Horthyt</mark>, hogy engedjük át a német csapatokat és vegyünk részt az akcióban katonailag (cserébe újabb területekre számíthatunk)
+Lehetőségeink:
+- Nem segítjük a németeket → egyenes szembeszállás a németekkel, megszállás veszélye
+- Segítjük a németeket → nyugati kapcsolatok lehetősége elveszik
+A fegyveres semlegesség politikája megbukott
+<mark class="hltr-orange">1941 Április</mark> <mark class="hltr-cyan">Teleki</mark> öngyilkos lett
+<mark class="hltr-orange">1941 Április</mark> a magyar hadvezetés támadásba lendült (<mark class="hltr-cyan">Bárdossy László</mark> az új miniszterelnök)
+A magyar hadsereg bevonult a <mark class="hltr-green">Délvidékre</mark>, elfoglalta <mark class="hltr-green">Bácskát</mark>, a <mark class="hltr-green">Muraközt</mark>, a <mark class="hltr-green">Baranyai-háromszöget</mark> (~11 ezer $km^2$, 40% magyar)
+<mark class="hltr-orange">1941 Április</mark> az angol diplomácia megszakította velünk a kapcsolatot, de hadüzenet nincs
+### Magyarország a világháború poklában
+#### A Szovjetunió megtámadása
+<mark class="hltr-orange">1941 Június</mark> diplomáciai kapcsolat megszakítása a <mark class="hltr-green">Szovjetuniónak</mark>
+<mark class="hltr-green">Románia</mark> és <mark class="hltr-green">Szlovákia</mark> is hadba lépett <mark class="hltr-green">Németország</mark> oldalán - nem akartunk kimaradni (a revízió revíziója)
+Hadüzenet küldése a <mark class="hltr-green">Szovjetuniónak</mark>, indok: <mark class="hltr-green">Kassa</mark> bombázása
