@@ -36,3 +36,29 @@ A magyar hadsereg bevonult a <mark class="hltr-green">Délvidékre</mark>, elfog
 <mark class="hltr-orange">1941 Június</mark> diplomáciai kapcsolat megszakítása a <mark class="hltr-green">Szovjetuniónak</mark>
 <mark class="hltr-green">Románia</mark> és <mark class="hltr-green">Szlovákia</mark> is hadba lépett <mark class="hltr-green">Németország</mark> oldalán - nem akartunk kimaradni (a revízió revíziója)
 Hadüzenet küldése a <mark class="hltr-green">Szovjetuniónak</mark>, indok: <mark class="hltr-green">Kassa</mark> bombázása
+<mark class="hltr-orange">1941 Július</mark> A Kárpát-csoport és a Gyorshadtest átlépte a szovjet határt
+Feladatuk: <mark class="hltr-green">Ukrajna</mark> megszállása (a sikeres offenzíva után <mark class="hltr-orange">Novemberben</mark> hazatérnek <mark class="hltr-green">Magyarországra</mark>)
+<mark class="hltr-orange">1941 December</mark> <mark class="hltr-green">Nagy-Britannia</mark> hadat üzen <mark class="hltr-green">Magyarországnak</mark>
+Válaszul magyar hadüzenet <mark class="hltr-green">Nagy-Britanniának</mark> és az <mark class="hltr-green">USA-nak</mark>
+<mark class="hltr-green">Moszkva</mark> alól visszatértek a németek
+A német csatlós államok erőteljesebb katonai kihasználására van szükség
+<mark class="hltr-cyan">Ribbentrop</mark> és <mark class="hltr-cyan">Keitel</mark> látogatást tesz <mark class="hltr-green">Magyarországon</mark>, követelik a teljes magyar haderő bevetését
+Egy hadsereget adunk - 2. magyar hadsereg (a rosszabbul felszerelt)
+A második hadsereg (1. magyar hadsereg) itthon maradt
+Hármas védelmi vonalat építenek ki: Hunyadi-állás. Szent László-állás, Árpád-vonal
+#### Bárdossy menesztése
+<mark class="hltr-orange">1941 Augusztus</mark> harmadik zsidótörvény - megtiltotta a vegyes házasságot
+Háborúellenes megmozdulások
+- <mark class="hltr-orange">1941 Október 6</mark> Batthyány-örökmécsesnél
+- <mark class="hltr-orange">1941 November 1</mark> halottak napi tüntetés
+- <mark class="hltr-orange">1941 December 25</mark> Népszava karácsonyi száma
+- <mark class="hltr-orange">1942 Február</mark> Magyar Történelmi Emlékbizottság megalakulása (antifasiszta, háborúellenes csoport)
+- <mark class="hltr-orange">1942 Március 15</mark> több ezres tüntetés <mark class="hltr-green">Budapesten</mark>
+<mark class="hltr-cyan">Bárdossy</mark> menesztése, az új miniszterelnök (<mark class="hltr-cyan">Kállay Miklós</mark>)
+#### Kállay "hintapolitikája" (középszinten nem kell)
+<mark class="hltr-orange">1942 Nyara</mark> a második magyar hadsereg a <mark class="hltr-green">Don-kanyarnál</mark> (~250 ezer fő)
+<mark class="hltr-orange">1942 December</mark> Kiugrási Iroda - tárgyalások előkészítése a nyugattal (titokban)
+<mark class="hltr-orange">1943 Január-Február</mark> a második magyar hadsereg megsemmisülése
+A kiugrás lehetősége még fontosabbá vált
+<mark class="hltr-orange">1943 Szeptember</mark> titkos fegyverszüneti egyezmény <mark class="hltr-green">Nagy-Britannia</mark> és <mark class="hltr-green">Magyarország</mark> között (<mark class="hltr-green">Magyarország</mark> leteszi a fegyvert az angol-amerikai csapatok előtt)
+(bizakodás oka: olasz kapituláció)
