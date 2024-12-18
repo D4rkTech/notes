@@ -62,3 +62,31 @@ Háborúellenes megmozdulások
 A kiugrás lehetősége még fontosabbá vált
 <mark class="hltr-orange">1943 Szeptember</mark> titkos fegyverszüneti egyezmény <mark class="hltr-green">Nagy-Britannia</mark> és <mark class="hltr-green">Magyarország</mark> között (<mark class="hltr-green">Magyarország</mark> leteszi a fegyvert az angol-amerikai csapatok előtt)
 (bizakodás oka: olasz kapituláció)
+#### A német megszállás
+A németek értesültek a titkos tárgyalásokról
+<mark class="hltr-cyan">Hitler</mark> követelte <mark class="hltr-cyan">Kállay</mark> lemondatását
+De <mark class="hltr-cyan">Horthy</mark> kitartott mellette
+<mark class="hltr-cyan">Hitler</mark> <mark class="hltr-cyan">Klessheimbe</mark> hívta <mark class="hltr-cyan">Horthyt</mark> tárgyalni
+<mark class="hltr-cyan">Hitler</mark> közli <mark class="hltr-cyan">Horthyval</mark>, hogy csapatai megszállják <mark class="hltr-green">Magyarországot</mark>
+Visszafelé feltartóztatták a vonatát
+<mark class="hltr-orange">1944 Március</mark> Margaréta-terv - megszállták a német csapatok <mark class="hltr-green">Magyarországot</mark>, nyomukban a Gestapóval
+Nem volt ellenállás, mert a németek a szövetségeseink, hadseregünk keleten volt
+A Gestapo megkezdte a náciellenes személyek felkutatását
+<mark class="hltr-cyan">Horthy</mark> kénytelen a további együttműködésre, <mark class="hltr-cyan">Kállay</mark> elmenekült a török követségre, később német fogságba kerül
+<mark class="hltr-cyan">Hitler</mark> teljhatalmi megbízottja - <mark class="hltr-cyan">Veesenmayer</mark>
+Az új miniszterelnök: <mark class="hltr-cyan">Sztójay Döme</mark>
+Zsidók gettósítása, majd deportálása, főként <mark class="hltr-green">Auswitzba</mark>
+(<mark class="hltr-orange">1944 Április 16</mark> első gettó <mark class="hltr-green">Kárpátalján</mark>, Holokauszt emléknap)
+<mark class="hltr-cyan">Horthy</mark> a zsidóságot érintő intézkedésekben szabad kezet adott a kormánynak
+<mark class="hltr-orange">1944 Áprilisától</mark> szövetséges bombatámadások (leginkább <mark class="hltr-green">Budapesten</mark>)
+A németek hozzáláttak a magyar zsidóság megsemmisítéséhez, ehhez asszisztáltak:
+- <mark class="hltr-cyan">Sztrójai</mark> kormány belügyi vezetői
+- Csendőrség, rendőrség
+- MÁV
+A zsidóság elleni népirtás időszakát vészkorszaknak nevezzük
+Elsőként a vidéki zsidóságot gyűjtőtáborokba szállították, majd egy hónappal később deportálták
+<mark class="hltr-orange">Június</mark> végén <mark class="hltr-green">Budapesten</mark> is megkezdődtek a deportálás előkészületei, ami azonban nem valósult meg
+<mark class="hltr-orange">1944 Július</mark> <mark class="hltr-cyan">Horthy</mark> hazai és külföldi tiltakozás hatására leállította a deportálásokat
+A megszállást követően <mark class="hltr-green">Magyarország</mark> alárendelődött a német érdekeknek
+A kritikus hangokat elhallgattatták
+Az anyagi és emberi erőforrásokat teljes egészében a háború szolgálatába állították
