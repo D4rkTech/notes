@@ -211,3 +211,22 @@ Anna jelleme - kisfiának dajkája
 Édes Anna -> édesanya
 Nem akarja teljesen szimpatikusnak feltüntetni (késleltetés)
 Cselédkönyvből tudjuk meg a leírását - semmitmondó, nem fontos senkinek (kivétel: Bandika), többi kötődése negatív
+#### Sigmund Freud elméletének érvényesülése
+Ösztönei - undor, gyűlölet, anyaösztön, szexuális késztetés
+Felettes én - Vizyné utasításai, parancsai - ideálnak megfelelési kényszer
+Minimális személyiségét ez a kettő elnyomja, akkor tör ki belőle a gyűlölet
+#### Szerkezet
+Pontos tér és időkezelés
+##### Rituale Romanum
+Római rituálé - halotti ima
+##### Kun Béla elrepül
+Történelmi helyzet bemutatása
+Cselekményen kívül esik
+##### 2-19. fejezet
+###### 6. fejezet - Anna
+Megjelenik Édes Anna - késleltetés (retardáció) eszköze
+Külleme - cselédkönyv
+Továbbiakban Anna beilleszkedése
+##### Párbeszéd a zöld kerítéses ház előtt
+Kosztolányiról szól
+Cselekményen kívül esik
