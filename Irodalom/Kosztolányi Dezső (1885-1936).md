@@ -230,3 +230,63 @@ Továbbiakban Anna beilleszkedése
 ##### Párbeszéd a zöld kerítéses ház előtt
 Kosztolányiról szól
 Cselekményen kívül esik
+### Rend - Novellaelemzés
+Érettségi feladat (classroom)
+- Értelmezés / elemzés
+- Befejezést előkészítő mozzanatok - szerekezet
+- Elbeszélő vélekedése a tökéletesen megtervezett élet megvalósításáról - elbeszélő (homodiegetikus elbeszélő - benne van a novellában, heterodiegetikus - kívülről szemlélődik)
+1-2 gyerek elbeszélő
+3-4 felnőtt elbeszélő
+Egyéb adatok a fogalmazásba
+Bevezetés:
+- Szerző elhelyezése térben, időben, stílusban (Kosztolányi nem behatárolható stílusirányzatú)
+- Műfajai (szöveggyűjtemény - példák)
+- Történelmi háttér (esetleg) (pl. Trianon)
+- Pszichológiai téma - Freud-i elmélet
+Tárgyalás:
+- Cím
+	- Címkeszerű
+	- Névelő hiánya - a nélkül van rendben a rend
+	- Nyelvtani meghatározás
+	- Olvasás után változik-e a jelentése
+- Műfaj
+	- Novella lehet: lélektani (lélektaniság szerepel, de nem lélektani novella), példázatos (tanulság - a rend nem megvalósítható), életképszerű (nincs tipikus élethelyzet), metszetnovella (több metszetet mutat be, mint a különböző korokban mutatja be Morvay Pistit, legdominánsabb műfaj, több életrajzi pontról metszetet ad), anekdotikus (pletyka szépirodalmi módon leírva), mese
+	- Novella
+		- Dekameronnal alakult ki (renesánsz) - Boccaccio
+		- Klasszikus novella - rövid idő, kevés szereplő, kevés helyszín, egy cselekményszál, fordulat és csattanó
+- Elbeszélő = narrátor
+	- 1-2 gyerek Kosztolányi, gyerekként utálatot táplál Morvay Pisti után "Főképp ezért gyűlöltem" - szubjektív - mintagyerek (beszédmódja, tisztasága, műveltsége), megfelel a felnőttek világának <-> gyerekek világának a gyermek Kosztolányi felel meg (piszkos körmei, kócos)
+	- 3-5 felnőtt Kosztolányi - objektivitás jellemzi
+- Szerkezet - tér és időkezelés
+	- Egyes szerkezeti részek elemzése, nem újra elmesélése
+	- Akár narrátor szerint, akár Kosztolányi saját szerkezeti egységei szerint
+	- 1-2
+		- 1: Anya-fia párbeszéd - in medias res
+		- 2: Elbeszélő, leíró rész (<-> sok párbeszéd - drámai jellegű novella)
+	- 3-5
+		- nincsen konkrét idő megadva, de időbeli ugrás elválasztja a két részt
+		- első tökéletlenség - nem végzi el az egyetemet, tökéletesség - ideális nő (próbababa - üres tekintet) - fordulat
+		- csalatkozás - csalódás = megtalálta a "tökéletes" nőt - fordulat
+		- Pisti "rendessége" a rész során egyre erőteljesebben van megjelenítve - ironikusság, túlzás?, tökéletesség fokozása - előkészítés a csattanóhoz
+		- Talán legklasszikusabban értelmezhető fordulat - a feleség átteszi a fotelt
+- Nyelvezet
+- az elbeszélő hozzáállása a tökéletes élethez a novella során nem változik, a novella egészében az jelenik meg, hogy a narrátor nem tartja "rendesnek" Pistit, végig próbálja érzékeltetni, hogy nem megvalósítható a tökéletesség.
+- Pisti elméjének megbomlása - Freud-i elméletben a superego összenyomja a személyiséget, Pisti megőrül
+- Alátámasztás - idézet (szószámba beleszámít, de nem szabad túl sokat)
+- Idézés - zárójelben a mondat után, de az írásjel előtt
+- Szereplők
+	- Elbeszélő is szereplő
+	- A történet Morvay Pistiről szól
+	- a szereplőket a szerkezeti, illetve a narrátor jellemzésében benne van
+	- viszonyrendszer!
+Befejezés:
+- Az olvasó értelmezheti...
+- Az alkotás értelmezhető...
+- nem e/1, t/1
+- bevezetés
+- hasonló cselekmény - Édes Anna (regény) - kitekintés
+- Freud-i tanok (Csáth Gézánál is olvashatunk)
+cím!
+Kosztolányi Dezső Rend című novellájának értelmezése, elemzése
+fogalmazás 500-800 szó - Jan 14
+kézzel írt, vonalas papír, jobb margó 1+ cm, érettségi szerinti pontozás 80+% - 5
