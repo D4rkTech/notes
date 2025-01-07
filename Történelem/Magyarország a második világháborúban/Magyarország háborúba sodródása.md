@@ -90,3 +90,16 @@ Elsőként a vidéki zsidóságot gyűjtőtáborokba szállították, majd egy h
 A megszállást követően <mark class="hltr-green">Magyarország</mark> alárendelődött a német érdekeknek
 A kritikus hangokat elhallgattatták
 Az anyagi és emberi erőforrásokat teljes egészében a háború szolgálatába állították
+A magyar haderő jelentős részét a <mark class="hltr-green">Kárpátok</mark> előterébe vonták
+(Hunyadi-állás, Szent László-állás, Árpád-vonal)
+Ellenállási mozgalom: Magyar Front (antifasiszta, náciellenes)
+A magyar társadalom nagy része fásult közönnyel vette tudomásul a megszállást
+Titkos tárgyalások a kiugrás lehetőségéről
+<mark class="hltr-orange">1944 Augusztus</mark> <mark class="hltr-cyan">Lakatos Géza</mark> lett a miniszterelnök, feladata a kiugrás előkészítése
+<mark class="hltr-orange">1944 Október</mark> magyar fegyverszüneti küldöttség <mark class="hltr-green">Moszkvában</mark>
+<mark class="hltr-orange">1944 Október</mark> <mark class="hltr-cyan">Horthy</mark> rádióbeszédében fegyverszünetet kér, aminek hatására <mark class="hltr-cyan">Dálnoki Miklós Béla</mark> vezetésével 20 ezer katona átállt a szovjetekhez
+Német nyomásra <mark class="hltr-cyan">Horthy</mark> visszavonta a fegyverszünetet (Mickey egér-hadművelet és Vasököl-hadművelet)
+<mark class="hltr-cyan">Horthy</mark> lemondott
+<mark class="hltr-orange">1944 Október 16</mark> a hatalom <mark class="hltr-cyan">Szálasi Ferenc</mark> kezébe került
+#### A nyilasok rémuralma
+<mark class="hltr-orange">1944 Október 16 - 1945 Április</mark>
