@@ -103,3 +103,16 @@ Német nyomásra <mark class="hltr-cyan">Horthy</mark> visszavonta a fegyverszü
 <mark class="hltr-orange">1944 Október 16</mark> a hatalom <mark class="hltr-cyan">Szálasi Ferenc</mark> kezébe került
 #### A nyilasok rémuralma
 <mark class="hltr-orange">1944 Október 16 - 1945 Április</mark>
+A nemzetvezető (állam- és kormányfő egy személyben) <mark class="hltr-cyan">Szálasi Ferenc</mark>
+"Kitartás! Éljen Szálasi!"
+A végsőkig kitartottak a németek mellett
+A <mark class="hltr-green">budapesti</mark> zsidók kiirtása
+A nyilasok a <mark class="hltr-green">Dunába</mark> lőttek 10-15 ezer embert
+Voltak olyanok is, akik megpróbáltak segíteni az üldözötteken
+
+
+
+Jan 10 19. század egyetemes összefoglaló (ipari forradalmak, eszmék, polgári nemzetállam  jellemzői)
+Jan 20 egy esszé - Magyarország a második világháborúban
+Jan 21 második világháború (egyetemes: kitörése, jellegzetességei, borzalmai; magyar szerepvállalás, háborúba sodródás) tesztfeladatok, 
+Jan 24 - reformkor szabadságharc ismétlő
