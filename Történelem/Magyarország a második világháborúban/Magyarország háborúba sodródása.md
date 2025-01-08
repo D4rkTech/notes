@@ -109,8 +109,17 @@ A végsőkig kitartottak a németek mellett
 A <mark class="hltr-green">budapesti</mark> zsidók kiirtása
 A nyilasok a <mark class="hltr-green">Dunába</mark> lőttek 10-15 ezer embert
 Voltak olyanok is, akik megpróbáltak segíteni az üldözötteken
-
-
+Anyagi és kulturális javak elhurcolása
+17-70 év közöttiek sorkatonasága
+<mark class="hltr-cyan">Bajcsy-Zsilinszky Endre</mark> és társai kivégzése <mark class="hltr-green">Sopronkőhídán</mark> (náciellenes Magyar Nemzeti Felkelés Felszabadító Bizottsága tagjai)
+#### A szovjet megszállás
+<mark class="hltr-orange">1944 Október</mark> az oroszok átlépik a magyar határt
+Az ország megszállására 4 lépésben került sor:
+- <mark class="hltr-orange">1944 Október</mark> <mark class="hltr-green">debreceni</mark> hadműveletek
+- <mark class="hltr-orange">1944 December</mark> <mark class="hltr-green">Tiszántúl</mark>
+- <mark class="hltr-orange">1944 December - 1945 Február</mark> <mark class="hltr-green">Budapest</mark> ostroma ("második Sztálingrád")
+- <mark class="hltr-orange">1945 Március</mark> <mark class="hltr-green">Balaton-Széfesfehérvár-Velencei-tó</mark> közötti csaták <mark class="hltr-green">Budapest</mark> visszafoglalásáért
+<mark class="hltr-orange">1945 Április 4</mark> az ország egész területe szovjet megszállás alá került
 
 Jan 10 19. század egyetemes összefoglaló (ipari forradalmak, eszmék, polgári nemzetállam  jellemzői)
 Jan 20 egy esszé - Magyarország a második világháborúban
