@@ -123,5 +123,5 @@ Az ország megszállására 4 lépésben került sor:
 
 Jan 10 19. század egyetemes összefoglaló (ipari forradalmak, eszmék, polgári nemzetállam  jellemzői)
 Jan 20 egy esszé - Magyarország a második világháborúban
-Jan 21 második világháború (egyetemes: kitörése, jellegzetességei, borzalmai; magyar szerepvállalás, háborúba sodródás) tesztfeladatok, 
+Jan 21 második világháború (egyetemes: kitörése, jellegzetességei, borzalmai; magyar revízió, háborúba sodródás, holokauszt, német megszállás, nyilas rémuralom) tesztfeladatok, 
 Jan 24 - reformkor szabadságharc ismétlő
