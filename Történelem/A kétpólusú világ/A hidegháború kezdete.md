@@ -36,4 +36,30 @@ Az aláírók:
 - <mark class="hltr-green">Olaszország</mark>
 Jóvátétel fizetése
 <mark class="hltr-green">Németországgal</mark>, <mark class="hltr-green">Ausztriával</mark> és <mark class="hltr-green">Japánnal</mark> nem született béke
-Előbbi kettő nagyhatalmi, <mark class="hltr-green">Japán</mark> amerikai megszállás alatt
+Előbbi kettő négyhatalmi, <mark class="hltr-green">Japán</mark> amerikai megszállás alatt
+<mark class="hltr-green">Magyarország</mark> elveszti minden korábban visszaszerzett területét - "második Trianon"
+Jóvátétel: 300 millió dollár
+Az <mark class="hltr-green">Ausztriát</mark> megszálló szovjeteket csak <mark class="hltr-green">Magyarországon</mark> keresztül láthatják el - a Vörös Hadsereg marad
+Következmény: kommunista fordulat <mark class="hltr-green">Magyarországon</mark>
+### A keleti tömb kialakulása
+A vesztes országokat megszállták, a SZEB (Szövetséges Ellenőrző Bizottság) irányított
+Elméletben - minden győztes nagyhatalom képviselője egyenrangú a vesztes országokban
+Gyakorlatban - a megszálló, katonailag jelen lévő győztes nagyhatalmak akarata érvényesült
+<mark class="hltr-green">Köztes-Európa</mark> szovjet befolyás alá került (kivéve <mark class="hltr-green">Görög- és Törökországot</mark>)
+A szovjet megszállás alatt álló országokban a demokrácia látszatát fenntartották az oroszok
+Majd megkezdődött a kommunista diktatúra kiépítése
+- Helyi kommunista párt támogatása
+- Ideiglenes hatalomban kulcsszerep jut a kommunistáknak
+- Egypártrendszer
+- Államosítás
+- "sztálinizmus" átvétele-átadása
+<mark class="hltr-cyan">Sztálin</mark> célja - nagy területű kommunista birodalom
+Expanzió, terjeszkedés - a jaltai elv (demokrácia érvényesítése a felszabadított <mark class="hltr-green">Európában</mark>) nem valósult meg
+<mark class="hltr-orange">1947</mark> megromlik a szovjet-amerikai viszony
+<mark class="hltr-orange">1947 Szeptember</mark> KOMINFORM (Kommunista és Munkáspártok Tájékoztató Irodája)
+<mark class="hltr-cyan">Sztálin</mark> gyorsított a tempón
+<mark class="hltr-orange">1948</mark> a "fordulat éve", a kommunista diktatúra feltételeinek megteremtése lezárult, a kommunisták hatalomra kerültek
+<mark class="hltr-orange">1949 Január</mark> KGST létrejötte - Kölcsönös Gazdasági Segítség Tanácsa
+<mark class="hltr-orange">1955</mark> Varsói Szerződés (katonai szervezet)
+Ezzel vált teljessé a SZU és az általa elfoglalt országok elszigetelődése politikailag, gazdaságilag és katonailag
+### A nyugati tömb kialakulása
