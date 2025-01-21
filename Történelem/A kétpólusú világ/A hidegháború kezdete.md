@@ -63,3 +63,19 @@ Expanzió, terjeszkedés - a jaltai elv (demokrácia érvényesítése a felszab
 <mark class="hltr-orange">1955</mark> Varsói Szerződés (katonai szervezet)
 Ezzel vált teljessé a SZU és az általa elfoglalt országok elszigetelődése politikailag, gazdaságilag és katonailag
 ### A nyugati tömb kialakulása
+#TODO #CLASSROOM 
+Az orosz válasz: <mark class="hltr-orange">1955</mark> Varsói Szerződés
+A <mark class="hltr-orange">20. század második fele</mark> az <mark class="hltr-green">USA</mark> és a <mark class="hltr-green">Szovjetunió</mark> ellentétéről szólt
+Újabb világháború nincs, de a két szuperhatalom támogatni fog helyi háborúkat (pl. <mark class="hltr-green">Korea</mark>, <mark class="hltr-green">Vietnám</mark>)
+Ezt nevezzük hidegháborúnak
+### A német kérdés
+<mark class="hltr-green">Németországot</mark> megszállták (<mark class="hltr-green">USA</mark>, <mark class="hltr-green">SZU</mark>, <mark class="hltr-green">GBR</mark>, <mark class="hltr-green">Fr. o.</mark>) - megszállási övezetek
+Bizónia (amerikai + angol zóna), majd Trizónia (+francia)
+<mark class="hltr-orange">1948</mark> pénzreform + gazdasági támogatás a Trizóniában
+<mark class="hltr-green">SZU</mark> tiltakozott, <mark class="hltr-green">berlini</mark> válság - <mark class="hltr-green">Nyugat-Berlint</mark> blokád alá vették a szovjetek
+Légihíd - 1 éven át ellátták az amerikaiak a 2 milliós várost
+<mark class="hltr-orange">1949</mark> <mark class="hltr-cyan">Sztálin</mark> feloldja a blokádot
+<mark class="hltr-orange">1949</mark> <mark class="hltr-green">NSZK</mark> (Német Szövetségi Köztársaság) és <mark class="hltr-green">NDK</mark> (Német Demokratikus Köztársaság)
+Leszállás közben az amerikaiak csokival bombázták a kelet-berlini gyerekeket
+Miért nem lövette le őket <mark class="hltr-cyan">Sztálin</mark>?
+Még nincs atombombája, nem meri kirobbantani a harmadik világháborút (amerikai légi fölény és atommonopólium)
