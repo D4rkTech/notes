@@ -79,3 +79,8 @@ Légihíd - 1 éven át ellátták az amerikaiak a 2 milliós várost
 Leszállás közben az amerikaiak csokival bombázták a kelet-berlini gyerekeket
 Miért nem lövette le őket <mark class="hltr-cyan">Sztálin</mark>?
 Még nincs atombombája, nem meri kirobbantani a harmadik világháborút (amerikai légi fölény és atommonopólium)
+<mark class="hltr-orange">1947</mark> "Az atomtitok nem titok" (szovjet atom blöff)
+<mark class="hltr-cyan">Rosenberg</mark> házaspár - ellopták a titkot és átadták a szovjeteknek
+<mark class="hltr-orange">1949</mark> első szovjet kísérleti atombomba-robbantás
+Katonai patthelyzet - a <mark class="hltr-green">Szovjetunió</mark> is atomhatalommá, katonai szuperhatalommá vált
+<mark class="hltr-orange">1961</mark> megépül a <mark class="hltr-green">berlini</mark> fal - tömeges átszökések (kelet → nyugat, <mark class="hltr-green">NDK-ból</mark> 2.5 millióan emigráltak addig a pontig) megakadályozására
