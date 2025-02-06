@@ -48,8 +48,24 @@ Felerősödtek a nemzeti ellentétek és a függetlenségi törekvések
 <mark class="hltr-orange">1990 Március</mark> <mark class="hltr-green">Litvánia</mark> kikiáltja a függetlenségét
 A szovjet pártvezetés nem fogadja el az egyoldalú lépést
 <mark class="hltr-cyan">Gorbacsov</mark> a <mark class="hltr-green">Szovjetunió</mark> egyben tartására törekedett
-
-
+<mark class="hltr-cyan">Gorbacsov</mark> egyeztetést kezdeményezett a 15 tagköztársaság vezetőivel a <mark class="hltr-green">Szovjetunió</mark> új, demokratikus alapokra helyezéséről
+A kísérlet kudarcát előrevetítette, hogy 6 ország nem kívánt részt venni (<mark class="hltr-green">Észtország</mark>, <mark class="hltr-green">Lettország</mark>, <mark class="hltr-green">Litvánia</mark>, <mark class="hltr-green">Moldova</mark>, <mark class="hltr-green">Grúzia</mark> és <mark class="hltr-green">Örményország</mark>)
+<mark class="hltr-orange">1991 Január</mark> <mark class="hltr-green">Litvániában</mark> a <mark class="hltr-green">Moszkva</mark>-barát erők a szovjet haderő különleges egységeire támaszkodva megpróbálták átvenni a hatalmat
+Ellenállás - pár nappal később visszarendelték a páncélosokat az utcákról
+<mark class="hltr-orange">1991 Március</mark> népszavazás a <mark class="hltr-green">Szovjetunió</mark> átalakításáról (9 tagország szavazott)
+76% - az államfő személye, a külpolitika és a honvédelem közös, minden más tekintetben a 
+tagországok szabadok és függetlenek
+<mark class="hltr-orange">1991 Augusztus 19</mark> a megállapodás előtti napon puccskísérlet <mark class="hltr-cyan">Gorbacsov</mark> ellen
+A közvélemény a diktatúra visszatérését látta a hatalomátvételi puccskísérletben
+Tömegtüntetések kezdődtek, melyek élére <mark class="hltr-cyan">Borisz Jelcin</mark> állt (<mark class="hltr-green">Oroszország</mark> első szabadon működő elnöke)
+A puccs pár nap alatt elbukott
+A balti államok függetlenségét elismerték
+Ennek hatására újabb tagországok kiáltották ki függetlenségüket, pl. <mark class="hltr-green">Ukrajna</mark>
+<mark class="hltr-orange">1991 December 26</mark> megszűnt a <mark class="hltr-green">Szovjetunió</mark>
+Független Államok Közössége (kivéve a balti államok + <mark class="hltr-green">Grúzia</mark>)
+<mark class="hltr-orange">1991 December</mark> <mark class="hltr-cyan">Gorbacsov</mark> lemondott
+<mark class="hltr-orange">1991</mark> megszűnt a <mark class="hltr-green">varsói</mark> szerződés
+<mark class="hltr-orange">1994</mark> <mark class="hltr-green">budapesti</mark> memorandum - <mark class="hltr-green">Ukrajna</mark> és <mark class="hltr-green">Kazahsztán</mark> lemondott a területén maradt atomfegyverekről, cserébe <mark class="hltr-green">Oroszország</mark> elismerte a két ország területi integritását és politikai szuverenitását
 
 
 Febr. 17. Hidegháború TZ
