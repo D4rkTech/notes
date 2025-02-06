@@ -48,7 +48,27 @@ Egyszer jól lakni - elbeszélés (Kis János fiának története)
 Móricz 3 szerkezeti egységre osztotta
 Műfaj: elbeszélés (novella + több szál vagy hosszabb idő)
 Motívum - akár egy művön belül és változhat a jelentése
-
-
-
-HF. 2. ,3. egység elolvasása
+Juhász és kutyájának kommunikációjával indul
+300 birkás saját nyája van
+Jobban kommunikál a kutyával, mint az idegen juhászokkal
+Kutya jelzései - rossz ember közeledik
+Veres juhász - meg akarja vásárolni a rézveretes szíjat
+Nem adja el, magának és a fiának készítette
+Agyonverik a juhászt (fia láttára), a fiával levetetik a juhász szíját, azzal húzzák be a holttestet a sírba
+Szíj - ürügy
+A 300 juhát ellopják
+Második rész - Bodri juhász felesége keresi férjét
+"Csak nézte, csak nézte mereven, mintha a magáét nézné" - mindentudó elbeszélő
+kb. 1 évet ölel fel
+Vadkörtefa - összeköttetés a két rész között (először pihenő, legeltetőhely, majd sírhely, második részben tetthely)
+Asszony nem sír - megoldás keresése, nem érzelmeskedés
+Veres juhász belekeveredik az időbe - lebukik
+Felismeri férjét - a szíjról, bizonyítékként, nyomként szolgál
+Hosszú párbeszédes részek - drámai szerkezet, késleltet, feszültséget kelt
+A harmadik részben a szíj bizonyíték, bűntudatot kelt, a igazságszolgáltatás eszköze
+Veres juhász akasztása mindenképp megtörténik, amiért nem ismerte be kap még 25 botütést
+Címmel zárul - keret - Barbárok - a Veres juhász és társának minősítése
+Barbár - főnév, melléknév, kegyetlen, társadalmi normáknak nem megfelelő, agresszívan, primitíven viselkedő ember
+Vizsgálóbíró is agresszív
+### Úri muri
+Adattár 139. olda
