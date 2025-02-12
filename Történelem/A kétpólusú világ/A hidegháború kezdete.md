@@ -63,7 +63,29 @@ Expanzió, terjeszkedés - a jaltai elv (demokrácia érvényesítése a felszab
 <mark class="hltr-orange">1955</mark> Varsói Szerződés (katonai szervezet)
 Ezzel vált teljessé a SZU és az általa elfoglalt országok elszigetelődése politikailag, gazdaságilag és katonailag
 ### A nyugati tömb kialakulása
-#TODO #CLASSROOM 
+<mark class="hltr-orange">1946 Március</mark> <mark class="hltr-cyan">Churchill</mark> <mark class="hltr-green">fultoni</mark> beszéde - vasfüggöny - erőteljes fellépés a szovjetek ellen
+<mark class="hltr-orange">1947 Március</mark> Truman-elv - az <mark class="hltr-green">USA</mark> a demokrácia védelmezője, támogatja a kommunizmus ellen fellépő országokat
+Szakítanak az izolációs politikával a szovjetek megállítása érdekében
+Az <mark class="hltr-green">USA</mark> veszi át a britek szerepét - őrségváltás
+400 millió dollár segély a törököknek és görögöknek a tengerszorosok stratégiai fontossága miatt
+Sikerül stabilizálni az országok gazdaságát, <mark class="hltr-orange">1952-ben</mark> NATO tagállamok lettek
+<mark class="hltr-orange">1947</mark> Marshall-segély (<mark class="hltr-cyan">George Marshall</mark> külügyminiszter)
+Célja: piac kibővítése és megtartása az <mark class="hltr-green">USA</mark> gazdaságának + <mark class="hltr-green">európai</mark> demokráciák stabilizálása
+13,5 milliárd dollár 90% segély, 10% kölcsön
+<mark class="hltr-green">GBR</mark> + <mark class="hltr-green">Franciaország</mark> + <mark class="hltr-green">Olaszország</mark> + <mark class="hltr-green">nyugatnémet zónák</mark>
+A <mark class="hltr-green">SZU</mark> elhatárolódott, megtiltotta a keleti blokk országainak az összeg elfogadását
+<mark class="hltr-orange">1947</mark> Zsdanov-doktrína
+- Két tábor elmélete: <mark class="hltr-green">SZU</mark> + szocialista béketábor és <mark class="hltr-green">USA</mark> + imperialista tábor
+- "A nemzetközi helyzet fokozódik" - elkerülhetetlen a harmadik világháború
+- "Az osztályharc éleződik" - a keleti blokkban kötelező a kommunista fordulat
+- "Éberség, az ellenség köztünk van!"
+A Truman-elv és a Marshall segély hatására megnövekedik az <mark class="hltr-green">USA</mark> befolyása <mark class="hltr-green">Nyugat-Európában</mark>
+<mark class="hltr-orange">1948</mark> OEEC (Európai Gazdasági Együttműködési szervezet)
+A Marshall-segélyben részt vettek: <mark class="hltr-green">USA</mark> + <mark class="hltr-green">Kanada</mark>, folyósították a segélyt, összehangolták a fejlesztéseket
+<mark class="hltr-orange">1961</mark> OECD (Gazdasági Együttműködési és Fejlesztési Szervezet)
+<mark class="hltr-orange">1949</mark> NATO (Észak Atlanti Szerződés Szervezete)
+Védelmi jellegű, célja a rend és a béke fenntartása, a <mark class="hltr-green">SZU</mark> visszaszorítása
+Kezdetben 12 tagállam
 Az orosz válasz: <mark class="hltr-orange">1955</mark> Varsói Szerződés
 A <mark class="hltr-orange">20. század második fele</mark> az <mark class="hltr-green">USA</mark> és a <mark class="hltr-green">Szovjetunió</mark> ellentétéről szólt
 Újabb világháború nincs, de a két szuperhatalom támogatni fog helyi háborúkat (pl. <mark class="hltr-green">Korea</mark>, <mark class="hltr-green">Vietnám</mark>)
