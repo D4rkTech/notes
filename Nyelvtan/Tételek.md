@@ -60,5 +60,13 @@ Bizonyíték: A manipuláció például az ok-okozati kapcsolatok felcserélés�
 Tétel: A fogmosás javítja a szájhigiéniát
 Bizonyíték: A naponta fogat mosók a statisztika alapján kevesebbet járnak fogorvoshoz.
 Összekötő elem: A jó szájhigiéniával rendelkezők kevesebbet járnak fogorvoshoz.
-
-Febr 14. 9-16. tétel
+### 17. tétel
+Feladat: Homonimák típusának felismerése
+Ír - szótári (mn, ige, fn)
+Légy - vegyes (fn, létige E/2)
+Sírok - nyelvtani (fn + tsz, ige E/1) 
+Menyét - vegyes (fn, fn + birtokos személyjel + tárgy rag = fia feleségét)
+Szerelem - vegyes (fn, ige E/1)
+Ér - szótári (fn - patak, vér; ige hozzáér)
+Nyestem - nyelvtani (fn + birtokos személyjel, ige E/1 határozott)
+Állam - vegyes (fn toldalékolatlanul / fn + birtokos személyjel)
