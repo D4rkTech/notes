@@ -9,7 +9,7 @@ Gregor elveszíti a kommunikációs képességét, a szülők azt hiszik, hogy n
 3 részre tagolja Kafka
 1. család reakciója, átváltozás ténye, zárlatban apa visszatereli, berúgja a szobába - első nap
 2. testvérének gondoskodása (titokban), annak leépülése, csökkenése - gesztus - ajtó nyitva hagyása (elfogadás)
-3. Gregor halála, a probléma megoldása (fizikai és lelki sebei miatt)
+3. Gregor halála, a probléma megoldása (fizikai és lelki sebei miatt), nyitásban "egy hónapig beteg" - nem mászkál a plafonon, nyitott ajtó gesztusa (kívülről szemléli a család életét, a megszabadulásról szőtt terveket hallja)
 Reakciók - nem kérdőjelezik meg, természetesnek kezelik
 - Cégvezető - jaj
 - Apa - ellenséges, tehetetlen dühében sír
@@ -33,3 +33,21 @@ Sérülései:
 - Beszűkül a mozgástere fizikailag és lelkileg is
 Erkölcsi üzenet, útmutatás - emberi kapcsolatok hiánya nyomorúsághoz vezet, elidegenedésre világít rá, ember átveszi a viselkedésformát, ahogyan bánnak vele
 Cselédlány (elmenekül) -> szakácsnő -> bejárónő (takarékoskodás, csak miután Gregor nem tud dolgozni)
+Családi ékszerek eladása, elköltözés a lakásból (csak Gregor halála után, ő választotta a lakást, addig albérlet)
+Gregor szobája raktárrá válik
+Gregor emberi mivolta - Grete hegedűjátékára kibújik -> bérlők elvesztése, család válsága, Gregor halálát kívánják
+"Meg kell próbálni megszabadulni tőle" - Grete
+Gregor halála - utolsót lehel
+Villamoson utaznak - toposz - változás, élet, jövőbeli tervek
+Kafka apja - szigorú, hasonló Gregor apjához
+Kafka jogi végzettségű volt, praktizált is
+Zsidó származású, Prágában élt, tüdőbetegségben szenvedett, utolsó kívánsága volt, hogy műveit barátja égesse el
+#### Értelmezési lehetőségek
+1. A főhős azáltal, hogy élete tartalmatlan volt, elvesztette emberi mivoltát, féreggé alacsonyodott, a belső torzulása fejeződött ki
+2. A főhős nem volt elég erős ahhoz, hogy szembenézzen a saját sanyarú, értelmetlen életével, nem tudta megoldani családja gondjait, így átváltozással ítélkezik maga felett és bűnhődik
+3. Idegennek érzi magát a családban és a világban, így teste is idegenné, torzzá vált
+4. Az átváltozás lázadás a sorsa ellen, a féreggé válás felszabadítólag hat rá, ugyanakkor nyomasztja a kiszolgáltatottság, lázadása értelmetlen, meg kell halnia
+5. Szabadulni akar önmagától, álarcot ölt, féreggé válik
+6. Az életre képtelen ember az egészségesek szemszögéből szörnyülködött, Samsa nem is változott féreggé, csak élősködő családja tekinti annak, valójában ők viselkednek szörnyként
+#### Szereplők
+#CLASSROOM 
