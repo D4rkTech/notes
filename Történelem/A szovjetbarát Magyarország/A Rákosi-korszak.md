@@ -33,3 +33,22 @@ A központi akarat végrehajtója
 #### Megfélemlítés
 A kommunisták a megfélemlítésre alapozták a hatalmukat
 <mark class="hltr-orange">1948</mark> ÁVO (Államvédelmi Osztály) → ÁVH (Államvédelmi Hatóság), függetlenítették a Belügyminisztériumtól
+Az ÁVH közvetlenül <mark class="hltr-cyan">Rákosinak</mark> engedelmeskedett
+Senki sem érezhette magát biztonságban (fekete autó)
+Internálótáborok és büntetőtáborok (<mark class="hltr-green">Kistarcsa</mark>, <mark class="hltr-green">Recsk</mark>)
+Kitelepítések (főként a <mark class="hltr-green">Hortobágy</mark> területére)
+A terror és megfélemlítés a párttagokat sem kímélte
+Először az egykori szocdemeket ítélték el (pl. <mark class="hltr-cyan">Marosán György</mark>, <mark class="hltr-cyan">Szakasits Árpád</mark>)
+Utána a "hazai" kommunistákat (pl. <mark class="hltr-cyan">Rajk László</mark> - kommunista belügyminiszter)
+Az ÁVH <mark class="hltr-orange">1949-ben</mark> letartóztatja, kémkedéssel vádolják, nyilvános perben mindent "bevall" (zsarolják)
+Felakasztják, utódja <mark class="hltr-cyan">Kádár János</mark>
+Üzenet: ha <mark class="hltr-cyan">Rajk-ot</mark> fel lehet akasztani, akkor bárkit
+<mark class="hltr-cyan">Rákosi</mark> hatalma totális végtelen
+#### Tervgazdálkodás és kollektivizálás
+Országos Tervhivatal - első öt éves terv (<mark class="hltr-orange">1950</mark>)
+(A tervet kötelező túlteljesíteni, munkaverseny, sztahanovizmus)
+Nehézipar fejlesztése (harmadik világháborúra készülés)
+"A vas és acél országa" - nyersanyagimport a KGST országaiból
+Új iparváros és vasmű épül - Sztálinváros
+Korszerűtlen ipar óriási áldozatok árán
+Belső forrásokból, önellátó módon, az infrastruktúra, az életszínvonal és a mezőgazdaság rovására
