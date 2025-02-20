@@ -7,7 +7,7 @@ Elnök - <mark class="hltr-cyan">Szakasits Árpád</mark> (tényleges befolyása
 Vezetők - <mark class="hltr-cyan">Gerő Ernő</mark>, <mark class="hltr-cyan">Farkas Mihály</mark>, <mark class="hltr-cyan">Révai József</mark>
 Az MDP a szovjet megszálló hatalom <mark class="hltr-green">magyarországi</mark> kiszolgálója lett
 Célja: nyílt kommunista diktatúra bevezetése
-### A Rákosi-korszak
+### A korszak jellemzői
 #### A totális diktatúra
 A gazdaság államosítása 
 - <mark class="hltr-orange">1947</mark> bankok
@@ -52,3 +52,18 @@ Nehézipar fejlesztése (harmadik világháborúra készülés)
 Új iparváros és vasmű épül - Sztálinváros
 Korszerűtlen ipar óriási áldozatok árán
 Belső forrásokból, önellátó módon, az infrastruktúra, az életszínvonal és a mezőgazdaság rovására
+Mezőgazdaság kollektivizálása
+A parasztokat próbálták belekényszeríteni a TSZ-be erőszakos módszerek alkalmazásával
+Gazdasági és politikai manőverek - beszolgáltatás, padlássöprés, kulákká nyilvánítás, tagosítás
+Szovjet ipari növényeket termesztettek: gyapot, gumipitypang
+Jegyrendszert kellett bevezetni <mark class="hltr-orange">1952-ben</mark> az alapélelmiszerekre (kenyér, zsír, cukor)
+Bűncselekmény az illegális disznóvágás
+#### Kultúrpolitika
+Aki nem hajtott fejet a kommunisták előtt, azt kizárták a tudományos, művészeti életből
+Személyi kultusz - <mark class="hltr-cyan">Sztálin</mark>, <mark class="hltr-cyan">Rákos</mark>
+Isteníteni, dicsőíteni kellett őket, a tudományos művekben rájuk kellett hivatkozni
+Sporteredmények (<mark class="hltr-orange">1952</mark> <mark class="hltr-green">Helsink</mark> olimpia, Aranycsapat)
+<mark class="hltr-cyan">Rákosi</mark> személyi kultuszának csúcspontja a 60. születésnapja
+Ünnepségeket rendeztek a tiszteletére
+Kisiskolások írtak hozzá/neki/róla szóló verseket, dalokat
+Az ünnepséget és rendezvényeket több hónapig eltartottak
