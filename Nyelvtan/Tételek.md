@@ -70,3 +70,13 @@ Szerelem - vegyes (fn, ige E/1)
 Ér - szótári (fn - patak, vér; ige hozzáér)
 Nyestem - nyelvtani (fn + birtokos személyjel, ige E/1 határozott)
 Állam - vegyes (fn toldalékolatlanul / fn + birtokos személyjel)
+### 18. tétel
+Csoportosítani a példákat (idézetek), egy-egy mondatos definíciók
+Refrénre nem lesz példa
+Amire nincs példa azt is fel kell sorolni, de példa kell (duh)
+Tétel címében nincs felsorolva(duh)
+### 19. tétel
+Szövegben megkeresni a jellemzőket, példákat
+### 20. tétel
+wild-wild west tétel
+Feladat: nyelvi jelenségek meghatározása
