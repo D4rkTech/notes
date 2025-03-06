@@ -83,3 +83,51 @@ Az MSZMP sztálinista elemeit háttérbe szorították
 Békülékenység
 "Élni és élni hagyni" - a hatalom és a társadalom együttműködése
 Kádári-alku
+#### Gazdasági konszolidáció
+A fennálló politikai, hatalmi rendet a párt igyekezett fenntartani
+Életszínvonal növelése, viszonylagos jólét
+Legalább jólét legyen, ha már szabadságjogok nincsenek - hallgatólagos közmegegyezés
+Az életszínvonal növeléséért cserébe a társadalom elfelejti a '56-ot
+A nehézipar továbbra is prioritást élvez, de a beruházások arányát csökkentik, növelve ezzel az életszínvonal javítására szánt anyagi forrásokat
+A mezőgazdaság kollektivizálásának szándéka továbbra is fennállt
+<mark class="hltr-orange">1959-1961</mark> kollektivizálás
+Nem volt erőszakmentes, de a párt figyelmet fordított a parasztság megnyerésére is
+Pl. kedvezmények, gépek biztosítása, társadalombiztosítás a tsz-be belépésért
+Nem a szovjet modell pontos másolására került sor
+Háztáji gazdaság (1 hold) engedélyezése
+Ezek látták el az országot csirke- és sertéshússal, tejjel, tojással, zöldséggel, gyümölccsel
+A TSZ adott gépeket a háztáji telek megműveléséhez, takarmányt az otthoni állattartáshoz
+A parasztság belátta, hogy a fennálló rendszer ellen nem tehet semmit
+Beléptek a parasztok a TSZ-be
+A kollektivizálás sikeres volt
+Ez az alapja a korszak élelmiszerellátásának, élelmiszerbőségének
+Eltörlik a beszolgáltatást
+#### Új gazdasági mechanizmus
+Mezőgazdaság és ipar fejlesztése
+Termelés fokozása
+Tervgazdálkodás - merev rendszer, intenzív fejlesztésre nincs lehetőség
+<mark class="hltr-orange">1968</mark> új gazdasági mechanizmus
+Piacgazdaság nyomai (tervgazdálkodás + gazdálkodás)
+Önálló vállalat alapításának engedélyezése (magánszektor - maszek)
+Második gazdaság
+Korlátok politikai megfontolásból
+Kötött ár sok terméknél + nagymértékű személyi jövedelmek korlátozása
+Gazdasági fellendülés + életszínvonal emelkedése
+De nem lesz alkalmas a közelgő gazdasági válságok leküzdésére
+#### A gazdasági-társadalmi változások
+A korszak sikerágazata a mezőgazdaság
+Korszerű mezőgazdaság - gépek, műtrágya, növények, iparszerű növénytermesztés
+Háztáji gazdaságok - állattenyésztés, zöldség- és gyümölcstermesztés
+Mezőgazdasági munkások átterelése az iparba
+Szolgáltató ágazatokban dolgozók száma növekedik
+Nőtt a szellemi dolgozók és csökkent a fizikai dolgozók aránya
+Urbanizáció
+Vidéki nagyvárosok
+Középiskolában és felsőoktatásban tanulók aránya nő
+Megszűnt a napi nélkülözés - megfelelő jövedelme
+A társadalom kb. 25%-a minősült szegénynek
+Infrastrukturális lemaradás nemzetközileg
+Hírközlés, telefonszolgálat
+Sok a közlekedési eszköz, de nemzetközi szinten mégis kevés
+A 60-as években megindultak a Volán-buszjáratok
+Sok volt az ingázó
