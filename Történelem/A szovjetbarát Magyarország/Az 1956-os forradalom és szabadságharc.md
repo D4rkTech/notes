@@ -59,3 +59,27 @@ Forgószél-hadművelet
 <mark class="hltr-orange">1956 November 4</mark> megindul a szovjet támadás
 <mark class="hltr-orange">1956 November 12</mark> a fontosabb ellenállási központokat felszámolták a szovjetek
 #TODO #CLASSROOM 
+### Megtorlás
+Kb. 200 ezer magyar emigrált
+<mark class="hltr-orange">1956 December 9</mark> statárium
+Megkezdődtek a letartóztatások, megtorlások
+"Sajnálatos októberi események", majd "ellenforradalom"
+230 halálos ítélet, több ezer bebörtönzés
+Megtorlás végrehajtói: "pufajkások"
+Munkaőrség <mark class="hltr-cyan">Münnich Ferenc</mark> vezetésével
+A forradalom során a magyarok közül körülbelül 2500-an haltak meg és közel 20 ezren sebesültek meg
+Tabu
+### Konszolidáció
+#### Politikai konszolidáció
+Megtorlások hatása - együttélés a helyzettel, elfogadni a fennálló viszonyokat
+<mark class="hltr-orange">1957 Május 1</mark> felvonulás = belegyezés
+<mark class="hltr-cyan">Kádár</mark> a <mark class="hltr-cyan">Rákosihoz</mark> tartozó klikkeket fokozatosan kiszorította a hatalomból
+Nem büntették meg őket, csak "kisebb halakká" váltak
+Személyi kultusz + durva törvénytelenségek elvetése
+<mark class="hltr-orange">1961 December</mark> Hazafias Népfront Országos Tanácsának ülésén - "Aki nincs ellenünk, az velünk van."
+Az ENSZ napirenden tartotta a "magyar kérdést"
+<mark class="hltr-orange">1963</mark> részleges amnesztiát kaptak az '56-osok, ennek hatására levették a napirendről, elismerte <mark class="hltr-cyan">Kádárt</mark>
+Az MSZMP sztálinista elemeit háttérbe szorították
+Békülékenység
+"Élni és élni hagyni" - a hatalom és a társadalom együttműködése
+Kádári-alku
