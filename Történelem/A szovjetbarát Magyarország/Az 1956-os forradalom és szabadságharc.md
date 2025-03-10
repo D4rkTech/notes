@@ -131,3 +131,20 @@ Hírközlés, telefonszolgálat
 Sok a közlekedési eszköz, de nemzetközi szinten mégis kevés
 A 60-as években megindultak a Volán-buszjáratok
 Sok volt az ingázó
+#### A "gulyáskommunizmus"
+<mark class="hltr-cyan">Hruscsov</mark> szóalkotása - keleti blokkon belül 
+A fogyasztás ugrásszerűen megnőtt
+Életszínvonal jelentősen megemelkedett
+Általánossá váltak a különböző szükségleti cikkek
+Javult az élelmiszerellátás
+ABC üzletek
+A korszak jelképe az NDK-s Trabant
+Oktatási és közművelődési hálózat kiépült
+Szabadabb sajtó és könyvkiadás
+<mark class="hltr-cyan">Aczél György</mark> - "Három T" - tiltott, tűrt, támogatott
+Besúgóhálózat (ügynökök - III./III.)
+Jöhetett a nyugati zene - Beatles, Rolling Stones, ..
+Beat- és rockzenekarok alakultak - Illés, Omega, Metro, Edda, LGT, ...
+Táncdalfesztiválok, Ki mit tud? műsorok
+A rendszer élvezői és kiszolgálói - káderek (politikai megbízhatóság, szakértelem)
+Hatalmi elit - 4K elve
