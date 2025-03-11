@@ -38,8 +38,86 @@ Magyar irodalomban
 - Juhász Gyula
 - József Attila - társadalmi, történelmi bemutatás
 Megalapozza József Attila tájverseit
-Szerpentin módszer -> komplex képek - Síkváltások és költői képek halmozása, tájat különböző oldalakról mutatja be
+Szerpentin módszer - körbe-körbe apróbb képek, majd "felülről" egész -> komplex képek - Síkváltások és költői képek halmozása, tájat különböző oldalakról mutatja be
 A tanya körül: tó, tél, erdő, szőlő
 Szegénységet ábrázol - negatív tájfestés
-1-4 kinti táj
-HF vázlat (akár tk-ek)
+1-4 - külső sík 
+- kinti táj
+- Tó, ladik, erdő, mező, szőlő képei
+5-6 tanya
+- 5 vsz - középpont a szerpentinmódszerrel
+- Kívülről befele - Ól malac, takarmány nélkül -> társadalom, társadalmi problémák bemutatása, szegénység jelölője
+7-8 tanya belseje, társadalmi különbségek
+- Haraszt - olcsó dohány - szegénység jelölője
+- Uraság a birtokosa mindennek
+- 8. vsz. összegző szerep, társadalmi problémát, egyenlőtlenséget mutat be - az uraságé, a paraszt csak alárendelt, "bérlő"
+Közeledő technika - távoli táj, majd tanya, majd a tanyán belüli parasztok
+Korra jellemző szegénység
+Táj mozdulatlan <-> emberek mozognak
+Táj távol <-> ember közel
+Nagy gondolati versek előszobája, tájverseit megalapozza (szerpentin módszer, komplex képek) - Classroom feladat - Téli éjszaka - 8 költői képre példa
+Tájversekben állandó motívum a vonat - peremvidéken éltek, vasútállomás
+### Reménytelenül
+Teljes feladás, beletörődés, lemondá
+Csokonai Reményhez elegico óda
+Egész versben hiány
+2 alcím, 2 egység
+Lassan, tűnődve
+- hangulatot jelöl
+- költő állapotára utal
+- versmondás módjára utal
+Táj felhasználása, stílusirányzat - 1-2 impresszionizmus, 3 expresszionizmus
+Ember - homokos, szomorú, vizes sík - vízpart, víz motívum
+biccent, nem remél - teljes lemondás
+Az ember -> én - dedukció
+2 vsz - lírai én
+ezüstös fejszesuhanás/játszik a nyárfa levelén - halál, negatív kép = szépítő körülírás (eufemizmus) + fejszesuhanás -> középkori kivégzés intenzív képe -> expresszionizmus felé
+fejszesuhanás játszik - megszemélyesítés
+A semmi ágán ül szívem - kopár, sivár, érzelemmentes, lelki támasz hiánya
+kis teste hangtalan vacog - minimális, néma életerő
+nézik, nézik a csillagok - perspektívaváltás + kapcsolat a két rész között
+Vas-színű égboltban
+párhuzamba állítható
+- kard éle - fejsze
+- szív motívum
+Dal műfajra utal az, hogy a második alcím a második rész első sora + keresztrím + szabályos szótagszám, de nincs szabályos ritmus
+Semmi ágán ül szívem - szív = fa termése; bajusz, mint telt hernyó, elillant ízű száj - halott
+"Dehát kinek is szólanék" - nincs kinek írnia
+### Óda
+IGE - Írók Gazdasági Egyesülete
+Óda - műfaj megjelölő cím
+- Magasztos, dicsőítő hangvételű
+- Közösséget, elvont fogalmat, személyt szólít meg
+- Rapszódia: csapongó óda
+Zenei tétel szerűen kapcsolódnak a részek
+Részek között csapong -> rapszodikus jelleg
+Óda a szerelemről, szerelemhez rapszodikus módon
+1 - vershelyzet, nézi a tájat, és mindenben a nőt fedezi fel, de a nő nincs ott
+- Fehér kövek - fogak 
+- Fák, erdő, azok lombja - haj
+- Hegyek sima felülete - homlok
+2 - vallomás
+- szóra bírtad a magányt - múzsa, ihletet adó
+3 - hasonlatok
+- szülői szeretet
+- természeti kép, csend, magány
+- fényt a termek, lángot a lélek, test a nyugalmat - összetett
+- nő leírása - rétegzett képek, komplex képek
+- alak - nő külsejéről ír
+- Elmémbe, mint a fémbe a savak - emlékezés
+- megszemélyesítés, ellentét
+- miként - hasonlat
+4 - naturalista leírás - a belső nem a lélek, hanem szó szerint a belső
+- vérkör, méh (evokáció), gyomor, tüdő, belek, vesék
+5 - nyitóképhez tér vissza - zárójelben feleszmélés
+6 - mellékdal - Szántó Judithoz; párbeszéd, 1 - József Attila 2 - Szántó Judit -> gondoskodás
+### Kései sirató
+Életrajzi elemek
+- 1919 - meghalt a mama - "hadak vége volt"
+- Utoljára Szabadszállásra mentem - József Attila visszatértére halt meg anyja
+- Gondoskodó - fújta a levesét, vigasztalta
+A vers hangvétele mégis dühös, utólag bántó - mama bűne, hogy meghalt
+Dacos gyereket jelenít meg
+Egyengesd egy láda fenekén - koporsó
+Cigány vagy! Amit adtál hizelegve,/mind visszaloptad az utolsó órán! - szeretetet megvontad tőlem
+36 fokos lázban égek - paradoxon
