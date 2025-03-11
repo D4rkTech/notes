@@ -147,4 +147,44 @@ Jöhetett a nyugati zene - Beatles, Rolling Stones, ..
 Beat- és rockzenekarok alakultak - Illés, Omega, Metro, Edda, LGT, ...
 Táncdalfesztiválok, Ki mit tud? műsorok
 A rendszer élvezői és kiszolgálói - káderek (politikai megbízhatóság, szakértelem)
-Hatalmi elit - 4K elve
+Hatalmi elit - 4K elve (K-vonalú telefon, korlátlan utazás külföldre, Kútvölgyi Kórház, Kerepesi úti temető)
+Egyre több magyar utazott Nyugatra (kék + piros útlevél)
+Egyre több külföldi nyaralt <mark class="hltr-green">Magyarországon</mark> - <mark class="hltr-green">Balaton</mark>
+Külső és belső népszerűség
+"A legvidámabb barakk"
+A társadalom és a politika eltolodása
+A közelgő válságjeleket (reformviták, belső hatalmi konfliktus) alig érezte a lakosság
+Egyéni vagyonszerzés fontosabb volt, mert az ember a politikában nem vehetett részt
+Sikeres infrastrukturális beruházások
+- <mark class="hltr-orange">1970</mark> <mark class="hltr-green">budapesti</mark> metró
+- <mark class="hltr-orange">1975</mark> <mark class="hltr-green">balatoni</mark> autópálya
+Sikeres külpolitika - jószomszédi viszony (pl. <mark class="hltr-green">Ausztria</mark>) + kapcsolatfelvétel a nyugattal (NSZK, USA)
+### A szocializmus válsága Magyarországon
+#### A reform leállítása
+<mark class="hltr-orange">1968</mark> <mark class="hltr-green">prágai</mark> tavaszból tanultak
+A magyar pártvezetés reformokat csakis a gazdaság területén akart tartani
+A reformfolyamat így lelassult
+Az SZKP és az MSZMP reformellenőrzői <mark class="hltr-orange">1972</mark> után háttérbe szorították a gazdasági változásokért felelős politikusokat
+<mark class="hltr-orange">1974</mark> a reformokat leállították
+(Rájöttek, hogy a túlzott engedékenység és a reformok a hatalmuk felszámolását jelentheti)
+#### A kibontakozó válság
+<mark class="hltr-orange">1973</mark> olajválság
+Romló cserearányok - az energiaárak nőttek, míg a mezőgazdasági termékek ára csökkent
+A magyar vezetés az olcsó szovjet kőolajban és földgázban bízott - vezetékek épültek
+Alkalmazkodni kéne, de nem megy
+Megoldás - nyugati kölcsönök felvétele
+Jó az elképzelés, de a válság nem csak átmeneti és nem csak nyugatot fogja sújtani
+A kölcsönökkel jövedelmező beruházásokat indítunk, amivel simán visszafizetjük a kölcsönöket
+Nem ez történt, a kölcsönök jelentős része az életszínvonal fenntartására költötték
+Eladósodási spirál
+<mark class="hltr-orange">1979</mark> megszorítások, de hiába (adósságcsapda)
+Eladósodás
+<mark class="hltr-orange">1980-as évek</mark> újabb gazdasági reformok (eredménytelen)
+Az életszínvonal fenntarthatatlanná vált
+#TODO 
+Túlmunka, túlóra
+Magánvállalkozások, maszekolás
+Második gazdaság
+Napi 10-14 órányi munka
+Egészségügyi következmények, betegebb társadalom
+#TODO 
