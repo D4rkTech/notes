@@ -121,3 +121,30 @@ Dacos gyereket jelenít meg
 Egyengesd egy láda fenekén - koporsó
 Cigány vagy! Amit adtál hizelegve,/mind visszaloptad az utolsó órán! - szeretetet megvontad tőlem
 36 fokos lázban égek - paradoxon
+Cím - témamegjelölő, jelzős szerkezet, műfajt is jelöl - népköltészeti műfaj
+A mama versek határozzák meg JA szerelmi költészetét - sok kedves nőből próbállak összeállítani téged
+Vádló hangulat - emlékezésen keresztül - 2.vsz-tól
+Jelenbe visszatér - 6. vsz -> első, utolsó vsz jelen
+Mozaiktechnika - egy egy múltbeli eseményt egy egy vsz jelenít meg, implikáló motívumok pl. mama -> evés -> verés
+2 vsz - Szabadszállás, vonattetőn visszatér, anyja meghal
+3 vsz - naturalista, pozitív és vádló képek váltják egymást
+4 vsz - 
+5 vsz - teljesen indulatból (szélhámos, csaló nő, visszalopott mindent)
+### A Dunánál
+Folyómotívum - JA-nál tisztulás
+3 egység (költő) - Ódához hasonlóan
+Különböző hosszúságú egységek
+Gondolati vers, filozofikus vers - saját magát akarja meghatározni, a vers vége fele ars poetica jellegű
+Cím vershelyzetet jelöl
+1 - A víz megjelenése - Duna, eső, megszólal a lírai én, végig jelen van a versben - jelen, Duna összeköti a múlttal
+- Anya megjelenítés - város szennyesét mossa - Duna - világ szennyesét mossa
+2 - paradox felütés - százezer év <-> hirtelen - múltbeli képek, ellentétes szerkezetek végig
+- Enyém a múlt, övék a jelen - csere
+3 - emlékezés, önmeghatározás alapja
+- "Anyám szájából édes volt az étel,/apám szájából szép volt az igaz." - ironikus (mama nem adott enni, apa hazudott)
+- szűkítő-tágító technika
+- 3 vsz történelmi képek - honfoglalás, Dózsa, török, tatár + környező országok - idő kitágítása
+- 4 vsz - "Én dolgozni akarok" - ars poetica + Duna nyitókép
+- Mi munkánk - mindenki munkája, társadalmi megoldások keresése
+Időszembesítés, de értékszembesítés nincs
+HF 1, 2. verstani vizsgálata
