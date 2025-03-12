@@ -187,4 +187,30 @@ Magánvállalkozások, maszekolás
 Második gazdaság
 Napi 10-14 órányi munka
 Egészségügyi következmények, betegebb társadalom
-#TODO 
+Anyagi differenciálódás - vagyoni különbségek
+### A rendszerváltoztatás
+#### Új politikai csoportok
+<mark class="hltr-cyan">Gorbacsov</mark> reformjai engedték (peresztrojka, glasznoszty)
+Zöld út a <mark class="hltr-green">kelet-közép európai</mark> országok társadalmi és politikai reformjai előtt
+Szamizdat kiadványok (saját kiadású) - hatalom engedélye és cenzúra nélkül
+<mark class="hltr-orange">1985</mark> az ellenzék <mark class="hltr-green">monori</mark> találkozása, de egységes ellenzéki mozgalom nem jött létre
+A társadalom nagy része - passzív elégedetlenség
+Az ellenzékkel szemben durva erőszakos fellépésre nem kerül sor, presztízsvesztéssel járt volna (a <mark class="hltr-cyan">grobacsovi</mark> keleti blokkban)
+Ellenzéki szervezetek alakultak
+- Magyar Demokrata Fórum
+- Szabad Demokraták Szövetsége
+- Fiatal Demokraták Szövetsége
+Növekvő népszerűség
+Egyre komolyabb támogatást kaptak nyugati országoktól
+<mark class="hltr-orange">1988</mark> a <mark class="hltr-cyan">Kádár</mark> vezette MSZMP elvesztette a párttagok és a lakosság támogatását is
+MSZMP-n belül is egyre népszerűbbek a reformokra nyitott párttagok
+<mark class="hltr-orange">1988 Május</mark> pártértekezlet - a pártvezetésbe reformerek kerültek + <mark class="hltr-cyan">Kádár</mark> helyett <mark class="hltr-cyan">Grósz Károly</mark> a főtitkár (<mark class="hltr-cyan">Kádár</mark> szimbolikus pozícióba került)
+Csekély reformok
+Mélyülő válság + eladósodás
+<mark class="hltr-orange">1987-88</mark> gazdasági intézményrendszer átalakítása - kereskedelmi bankok létrejötte + új beruházások + privatizáció (magánosítás)
+<mark class="hltr-orange">1988 November</mark> <mark class="hltr-cyan">Németh Miklós</mark> reformer lett a miniszterelnök
+<mark class="hltr-orange">1989 Január</mark> az 1956-os ellenforradalmat népfelkelésnek nevezik
+Az MSZMP széthullásnak indult, a kezdeményezés az újaké lesz
+Gazdaság - privatizáció
+<mark class="hltr-orange">1989 Március 15</mark> az ellenzék 12 pontja
+<mark class="hltr-orange">1989 Március 22</mark> Ellenzéki Kerekasztal (EKA -> NEKA (Nemzeti Kerekasztal))
