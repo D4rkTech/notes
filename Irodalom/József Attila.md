@@ -6,6 +6,7 @@ Avantgárd (bécsi + francia egyetemen + Kassák Lajos)
 - Szürrealizmus
 - Konstruktivizmus
 Újnépiesség - népköltészet, "szegényember" versek (embertípus)
+Múzsái - mama, Vágó Márta, Flóra, Gyömrőiné
 ### Nem én kiáltok
 Astrofikus
 Keret - első, utolsó sor (felütés, berekesztés, zárlat)
@@ -147,4 +148,30 @@ Cím vershelyzetet jelöl
 - 4 vsz - "Én dolgozni akarok" - ars poetica + Duna nyitókép
 - Mi munkánk - mindenki munkája, társadalmi megoldások keresése
 Időszembesítés, de értékszembesítés nincs
-HF 1, 2. verstani vizsgálata
+### Flóra
+#### Hexaméterek
+Hexameter 5. -uu; 6. --/-u
+Cím - hexameterek - formajelölő, elveszi a figyelmet a tartalomról
+Kozmutza Flóra
+Toposzok - télből tavasz
+Víz motívum - olvadó hó
+Impresszionizmus
+Alakzatok - felsorolás, alliteráció, fokozás
+Szerelmi vallomás
+Újra bizsergek - újra él, újra szerelmes
+#### Rejtelmek
+Népdalszerű - ütemhangsúlyos, kétütemű hetes - 4|3, keresztrím - dal műfaj
++szerelmi + hűség téma
+Hűség keret
+Nyitókép - szerelem, hűség
+Mesei motívumok
+2 vsz - természeti képek párhuzamban a szemmel, szívvel - impresszionista jelleg
+3 vsz - önsajnáltatás, költői póz
+#### Már két milliárd
+Érzelmek kifejezésére társadalmi berendezkedést használ
+#### Buzgóság
+Szerelem a fiatalsággal van párhuzamba vonva
+Fiatalság italának keresése - mesei jelleg
+#### Megméressél
+Cím - zárósor keret
+megméressél - tedd próbára magad
