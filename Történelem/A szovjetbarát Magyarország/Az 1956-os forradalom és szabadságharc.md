@@ -214,3 +214,27 @@ Az MSZMP széthullásnak indult, a kezdeményezés az újaké lesz
 Gazdaság - privatizáció
 <mark class="hltr-orange">1989 Március 15</mark> az ellenzék 12 pontja
 <mark class="hltr-orange">1989 Március 22</mark> Ellenzéki Kerekasztal (EKA -> NEKA (Nemzeti Kerekasztal))
+<mark class="hltr-orange">1989 Június 16</mark> <mark class="hltr-cyan">Nagy Imre</mark> és társainak újratemetése
+<mark class="hltr-orange">1989 Július 6</mark> <mark class="hltr-cyan">Nagy Imrét</mark> és társait büntetlennek nyilvánítják, meghalt <mark class="hltr-cyan">Kádár János</mark>
+#### Békés rendszerváltoztatás
+A nép békés átalakulást akart - politikai jogok, szociális biztonság, diktatúra felszámolása
+<mark class="hltr-orange">1989 tavasz</mark> EKA - FIDESZ, MDF
+#TODO 
+<mark class="hltr-orange">1989 Szeptember</mark> megállapodás - alkotmánymódosítás, többpártrendszer, demokratikus választások
+A kommunista vezetés megkezdte a reformok végrehajtását (<mark class="hltr-cyan">Németh Miklós</mark>)
+<mark class="hltr-orange">1989 Augusztus</mark> Páneurópai Piknik
+<mark class="hltr-orange">1989 Szeptember</mark> megnyílt a határ az <mark class="hltr-green">NDK</mark> kivándorlói előtt
+Tárgyalások a szovjet csapatok kivonulásáról
+<mark class="hltr-orange">1991 Június</mark> az utolsó szovjet katona is elhagyja <mark class="hltr-green">Magyarországot</mark>
+<mark class="hltr-orange">1989 Október</mark> MSZMP → MSZP
+<mark class="hltr-orange">1989 Október 23</mark> Alkotmánymódosítás - 3. köztársaság
+(<mark class="hltr-cyan">Szűrös Mátyás</mark> - ideiglenes köztársasági elnök)
+Új, szabad, demokratikus választásokat hirdettek meg
+Választási küzdelem - az új pártok között jóval erőteljesebb
+MDF ↔ SZDSZ
+<mark class="hltr-orange">1989 November</mark> népszavazás a köztársasági elnök megválasztásának módjáról (országgyűlés vagy előtte a nép) ("négyigenes népszavazás")
+(<mark class="hltr-orange">1990 Január</mark> Dunagate-botrány (lehallgatás))
+<mark class="hltr-orange">1990 Március, Április</mark> országgyűlési választás (65%-os részvétel), győztes az MDF
+Koalíciós kormány - MDF, FKgP, KDNP
+Miniszterelnök: <mark class="hltr-cyan">Antal József</mark>
+A legerősebb ellenzéki párt: SZDSZ
