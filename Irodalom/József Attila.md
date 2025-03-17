@@ -1,3 +1,29 @@
+### Élete
+1905 Április 11 Budapest - született
+Apja 3 év múlva elhagyja családját, állandó nélkülözés
+1910-1912 nevelőszülők Öcsödön, iskolakezdés
+1912 visszatér Pestre, nélkülözés
+1919 édesanyja meghal, nővérének férje, Makai Ödön a gyámja
+1920-től makói gimnázium
+1922-25 legtermékenyebb évei
+1924 szegedi egyetem magyar-francia-filozófia szakos hallgatója
+1925 bécsi egyetem hallgatója
+1926 párizsi Sorbonne hallgatója
+1927-28 pesti egyetem
+1928 Vágó Márta-féle szerelem és a csalódás, először kerül szanatóriumba
+1930 illegális kommunista párt tagja, megismerkedik Szántó Judittal és a pszichoanalízissel
+1933 megszakad a kapcsolata a munkásmozgalommal, megromlik kapcsolata Szántó Judittal
+1935 Gyömrői Edithez kerül kezelésre, viszonzatlan szerelme meggyorsítja lelki szétesését
+1936 Szép Szó egyik szerkesztője
+1937 Kozmutza Flóra iránti szerelme is beteljesületlen, decemberben egy tehervonat halálra gázolja Balatonszárszón
+#### Kötetei
+1922 Szépség koldusa
+1925 Nem én kiáltok
+1929 Nincsen apám, se anyám
+1931 Döntsd a tőkét, ne siránkozz
+1932 Külvárosi éj
+1934 Medvetánc
+1936 Nagyon fáj
 ### Hatások
 Nyugat - Ady Endre, Juhász Gyula, Kosztolányi Dezső
 - Formafegyelem - magyaros verselés, egyszerű formák
