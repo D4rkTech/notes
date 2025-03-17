@@ -159,7 +159,7 @@ Sikeres infrastrukturális beruházások
 - <mark class="hltr-orange">1970</mark> <mark class="hltr-green">budapesti</mark> metró
 - <mark class="hltr-orange">1975</mark> <mark class="hltr-green">balatoni</mark> autópálya
 Sikeres külpolitika - jószomszédi viszony (pl. <mark class="hltr-green">Ausztria</mark>) + kapcsolatfelvétel a nyugattal (NSZK, USA)
-### A szocializmus válsága Magyarországon
+### A szocializmus válsága Magyarországon (nem kell dolgozatban)
 #### A reform leállítása
 <mark class="hltr-orange">1968</mark> <mark class="hltr-green">prágai</mark> tavaszból tanultak
 A magyar pártvezetés reformokat csakis a gazdaság területén akart tartani
@@ -236,5 +236,13 @@ MDF ↔ SZDSZ
 (<mark class="hltr-orange">1990 Január</mark> Dunagate-botrány (lehallgatás))
 <mark class="hltr-orange">1990 Március, Április</mark> országgyűlési választás (65%-os részvétel), győztes az MDF
 Koalíciós kormány - MDF, FKgP, KDNP
-Miniszterelnök: <mark class="hltr-cyan">Antal József</mark>
+Miniszterelnök: <mark class="hltr-cyan">Antall József</mark>
 A legerősebb ellenzéki párt: SZDSZ
+A megfelelő működés érdekében <mark class="hltr-orange">1990 Április</mark> MDF SZDSZ paktum (köztársasági elnök: <mark class="hltr-cyan">Göncz Árpád</mark> (SZDSZ) + parlament elnöke: <mark class="hltr-cyan">Szabad György</mark> (MDF))
+<mark class="hltr-orange">1990 Május</mark> megalakult az Antall-kormány (kamikaze-kormány)
+<mark class="hltr-orange">1990 Ősz</mark> önkormányzati választások
+### A piacgazdaság
+<mark class="hltr-orange">1980-as évek</mark> gazdasági átalakítást segítő intézkedések
+- SZJA, ÁFA
+- Bankrendszer reformjai
+- Társasági törvény
