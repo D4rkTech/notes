@@ -201,3 +201,65 @@ Fiatalság italának keresése - mesei jelleg
 #### Megméressél
 Cím - zárósor keret
 megméressél - tedd próbára magad
+
+Verstípusok:
+- Önmegszólító - válsághelyzetben keletkezik, E/2 -> önmaga, magatartásforma váltására szólítja fel magát, mert az eddigi tarthatatlan
+- Időszembesítő - jelen a középpontban, múlt (dicső - nagy ódák, JA: sivár, kilátástalan, reménytelen) - jelen (sivár); jelen (sivár) - jövő (pozitív vagy negatív) összevetés
+- Értékszembesítő - 
+
+- Ars poetica
+- Létösszegző (számvetés, leltárvers)
+
+Új témája: Isten (Balassi, Ady, Tóth Árpád (Isten oltó kése), József Attila)
+### JA kései költészete
+Bűn, bűnhődés, büntetés motívumkörei
+Múlt emlékei + életrajzi információk
+Jövőbe vetett hit, annak megkérdőjelezése
+Betegségtudat - borderline személyiségzavar
+1. Tudod, hogy nincs bocsánat...
+2. Az utolsó vershármas (zárójel - nem kaptak címet a versek)
+	- (Karóval jöttél...) - önmegszólító
+	- (Talán eltünök hirtelen...)
+	- (Ime, hát, megleltem hazámat...)
+3. Nem emel föl
+### Tudod, hogy nincs bocsánat...
+Önmegszólító verstípus
+- "Légy, ami lennél: férfi." - férfias szerepek - családfő, családfenntartó - ezeket a szerepeket nem tudja felvenni, bűnként éli meg; ~szedd már össze magad, önvádló
+- Új magatartásforma - csöndes, visszahúzódó, kiegyensúlyozott ("Maradj fölöslegesnek")
+1-4 jelen idő, felszólító mód
+5-7.5 múlt
+- Emlékképek
+- "Hamis tanúvá lettél / saját igaz pörödnél." - Döntsd a tőkét, ne siránkozz kötet utáni perekben megtagadta saját verseit
+- "Atyát hivtál elesten, / embert, ha nincsen isten." - apakép, apahiány
+- "S romlott kölkökre leltél / pszichoanalizisben." - Gyömrői Edit kezelése - hipnózis, egész gyerekkorának traumatikus eseményei; többesszám - nem akarja tudatosítani, hogy emlékképeinek ő a szereplője
+- "fizetett pártfogóknak" - Hatvany Bertalan - Szép Szó körének támogatója, mecénása
+- "te jó vagy" - jó, mint költő, férfi, szerető, stb. nem kapott pozitív visszajelzést
+8-9  jövő
+8. átmenetet képez a két idősík között
+- Zárlatban két jövőkép (öngyilkosság+üres szív vagy szerelem+normális élet)
+### Karóval jöttél...
+Eredeti kéziratban nem biztos, hogy "karó" - intenzív belépő vagy "koró" - száraz virág
+Önmegszólító + időszembesítő vers
+1-2 - jelen idő, amelyre hatással van a múlt
+- "aranyat igértél nagy zsákkal / anyádnak és most itt csücsülsz, / mint fák tövén a bolondgomba" - negatív, vádló mama kép
+Önmetafora - bolondgomba = parazita, kell valaki, akibe kapaszkodhat
+Hét Torony - török szultán börtöne - bezártság (Babits, Lírikus epilogja) - saját magába van bezárva
+Versszakokon átívelő gondolatok
+3-4 - múlt, kérdő modalitás, önmagának tesz fel kérdéseket
+- Tejfog - gyerekkor, kőbe harapás - megtapasztalt olyan dolgokat, amiket nem kellett volna (árvaság, nevelőszülők, nélkülözés)
+- Magadat mindig kitakartad - nyílt, sebezhető volt
+- Sebedet mindig elvakartad - saját hibái okozzák szenvedését
+- Kés - öngyilkosság, kenyér - tovább élni, lebeg élet és halál között
+6 - kötőszóelhagyás - többféleképpen kiegészíthető (kötőszóhalmozás) - értelmezési lehetőségeket biztosít + Hét Torony motívum visszatérte
+Hajtsd le szépen a fejedet
+- Biztonságban van, aludhat
+- Haljon meg
+- Álom, alvás
+### Nem emel föl
+E/2-ben tegeződő formában fordul Istenhez - közvetlenséget feltételez
+Himnusz műfajjal rokonítható - nem közösség érdekében szól Istenhez, hanem saját maga érdekében, imaszerűen is értelmezhető
+Kapcsolódik az istenes versek hagyományához
+Kérései:
+- Vigyázzon szeretteire - "Intsd meg" - szóljon hozzájuk, hogy kedvesebbek legyenek hozzá
+- Fogadja fiának - Jézussal egyenrangúság helyett apahiány
+HF - Radnóti életrajz tankönyvből 162-163
