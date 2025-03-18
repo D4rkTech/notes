@@ -241,8 +241,32 @@ A legerősebb ellenzéki párt: SZDSZ
 A megfelelő működés érdekében <mark class="hltr-orange">1990 Április</mark> MDF SZDSZ paktum (köztársasági elnök: <mark class="hltr-cyan">Göncz Árpád</mark> (SZDSZ) + parlament elnöke: <mark class="hltr-cyan">Szabad György</mark> (MDF))
 <mark class="hltr-orange">1990 Május</mark> megalakult az Antall-kormány (kamikaze-kormány)
 <mark class="hltr-orange">1990 Ősz</mark> önkormányzati választások
-### A piacgazdaság
+#### A piacgazdaság
 <mark class="hltr-orange">1980-as évek</mark> gazdasági átalakítást segítő intézkedések
 - SZJA, ÁFA
-- Bankrendszer reformjai
+- Bankrendszer reformjai (jegybank mellett kereskedelmi bankok)
 - Társasági törvény
+A rendszerváltoztatással újabb gazdasági problémák jelentkeztek a meglévők mellé
+Megszűnt a KGST, ahol eddig a magyar termékeket el lehetett adni
+Versenyezni kellett a nyugati termékekkel
+Iparágak kerültek válságba (pl. bányászat, kohászat, gépgyártás) - tömeges elbocsátások, gyárbezárások
+Egész régiók (pl. <mark class="hltr-green">Észak-Magyarország</mark>, <mark class="hltr-green">Dél-Dunántúl</mark>) kerültek hosszan elhúzódó társadalmi-gazdasági válságba
+Tőkehiány - alacsony lakossági megtakarítások + óvatosak a külföldi befektetők
+Elterjedt a kényszervállalkozói kör
+A rendszerváltoztatás legnagyobb vesztese a mezőgazdaság
+Nincs sem hazai, sem külföldi tőke a mezőgazdaságban
+Megszűntek a TSZ-ek, privatizálták az állami gazdaságokat
+A volt TSZ tagok kaptak kárpótlási jegyeket, de sokan érték alatt adták el különböző vállalatoknak, akik aztán nagy haszonnal használták fel az értékpapírokat
+A rendszerváltoztatás így gazdasági visszaeséssel járt, de ez a tervgazdaság versenyképtelenségének következménye és 
+#TODO 
+<mark class="hltr-green">Magyarország</mark> gyorsabban és szélesebb körben nyitotta meg piacát, mint bármelyik másik keleti ország
+Az <mark class="hltr-orange">1990-es években</mark> a térség országai közül ide áramlott be a legtöbb külföldi tőke
+Állami támogatás + olcsó munkaerő + nincs hazai vetélytárs - vonzóvá tette az országot
+Az ország elmaradott régióiba nem érkezik külföldi tőke
+A privatizációhoz sok korrupció gyanús jelenség is kapcsolódott
+Legfontosabb kereskedelmi partner <mark class="hltr-green">Németország</mark> (külkereskedelem 31%-a)
+Antall-kormány - szociális piacgazdaság
+<mark class="hltr-orange">1990-1992</mark> megszületett a kapitalista gazdaság kialakításához szükséges törvényi háttér
+<mark class="hltr-orange">1992-1994</mark> romlottak a mutatók - növekedett az adósságállomány a hitelfelvétel miatt
+Horn-kormány (<mark class="hltr-orange">1994-1998</mark>), Bokros csomag (<mark class="hltr-orange">1995-1997</mark>)
+Célja a pénzügyi stabilitás kialakítása volt
