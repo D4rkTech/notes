@@ -270,3 +270,11 @@ Antall-kormány - szociális piacgazdaság
 <mark class="hltr-orange">1992-1994</mark> romlottak a mutatók - növekedett az adósságállomány a hitelfelvétel miatt
 Horn-kormány (<mark class="hltr-orange">1994-1998</mark>), Bokros csomag (<mark class="hltr-orange">1995-1997</mark>)
 Célja a pénzügyi stabilitás kialakítása volt
+Jelentős megszorítások:
+- Csökkentett szociális támogatások
+- Csökkentett bérek az állami szektorban
+- Emelték a nyugdíjkorhatárt
+- Megszüntették az ingyenes felsőoktatást
+<mark class="hltr-orange">1998-tól</mark> a gazdasági növekedés felgyorsult, lezárult a gazdasági rendszerváltoztatás
+Romló közbiztonság - Aranykéz utcai robbantás
+Maffiaháború, olajszőkítés (olcsóbb háztartási tüzelőolajból drágább benzint csináltak)
