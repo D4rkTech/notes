@@ -51,6 +51,7 @@ Sajtószabadság
 Egykori pártok újjáalakultak
 Több egykori elítélt amnesztiával kiszabadult
 <mark class="hltr-orange">1956 November 3</mark> koalíciós kormány indul <mark class="hltr-cyan">Nagy Imre</mark> vezetésével
+Kilépés a Varsói Szerződésből
 ### A forradalom leverése
 Hogyan reagáltak a szovjetek?
 Katonai intervenció (tudván a nyugat semlegességét)
@@ -58,7 +59,8 @@ Forgószél-hadművelet
 <mark class="hltr-orange">1956 November 3</mark> a magyar kormány tárgyalódelegációját a szovjet hadsereg elfogja, letartóztatja
 <mark class="hltr-orange">1956 November 4</mark> megindul a szovjet támadás
 <mark class="hltr-orange">1956 November 12</mark> a fontosabb ellenállási központokat felszámolták a szovjetek
-#TODO #CLASSROOM 
+A forradalom megbukott
+Voltak még ezután békés tüntetések, amiket a karhatalom sortüzekkel oszlatott fel
 ### Megtorlás
 Kb. 200 ezer magyar emigrált
 <mark class="hltr-orange">1956 December 9</mark> statárium
@@ -257,8 +259,11 @@ A rendszerváltoztatás legnagyobb vesztese a mezőgazdaság
 Nincs sem hazai, sem külföldi tőke a mezőgazdaságban
 Megszűntek a TSZ-ek, privatizálták az állami gazdaságokat
 A volt TSZ tagok kaptak kárpótlási jegyeket, de sokan érték alatt adták el különböző vállalatoknak, akik aztán nagy haszonnal használták fel az értékpapírokat
-A rendszerváltoztatás így gazdasági visszaeséssel járt, de ez a tervgazdaság versenyképtelenségének következménye és 
-#TODO 
+A rendszerváltoztatás így gazdasági visszaeséssel járt, de ez a tervgazdaság versenyképtelenségének következménye és nem a rendszerváltoztatásé
+A politikai rendszerváltoztatás végbement (<mark class="hltr-orange">1989-1990</mark>), de a gazdasági rendszerváltoztatáshoz több idő kellett
+<mark class="hltr-orange">1990-es évek végére</mark> zajlott le
+Tervgazdaságból piacgazdaság
+Privatizáció + külföldi tőke térnyerése
 <mark class="hltr-green">Magyarország</mark> gyorsabban és szélesebb körben nyitotta meg piacát, mint bármelyik másik keleti ország
 Az <mark class="hltr-orange">1990-es években</mark> a térség országai közül ide áramlott be a legtöbb külföldi tőke
 Állami támogatás + olcsó munkaerő + nincs hazai vetélytárs - vonzóvá tette az országot
