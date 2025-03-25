@@ -221,7 +221,6 @@ Gazdaság - privatizáció
 #### Békés rendszerváltoztatás
 A nép békés átalakulást akart - politikai jogok, szociális biztonság, diktatúra felszámolása
 <mark class="hltr-orange">1989 tavasz</mark> EKA - FIDESZ, MDF
-#TODO 
 <mark class="hltr-orange">1989 Szeptember</mark> megállapodás - alkotmánymódosítás, többpártrendszer, demokratikus választások
 A kommunista vezetés megkezdte a reformok végrehajtását (<mark class="hltr-cyan">Németh Miklós</mark>)
 <mark class="hltr-orange">1989 Augusztus</mark> Páneurópai Piknik
