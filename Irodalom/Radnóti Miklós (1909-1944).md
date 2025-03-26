@@ -163,3 +163,38 @@ Sor közepén - éles cezúra
 Vers formája tartalmat ad vissza - cezúrák az erőltetett menetet jelentik
 14-13 szótagos sorok (7-7; 7-6 szótagos sordarabokra töri - nibelungizált alexandrin)
 Cím - témamegjelölő jelzős szerkezet, vershelyzetet - Bor - munkaszolgálat - bori notesz
+Otthonra gondoló, borzalmakat megélő kettőssége
+Szerkezeti tagolás - mondatok
+- Első mondat
+	- Felütés
+	- Jelen borzalmai a menetben
+	- Egy boldogabb jövő lehetősége ("várja őt az asszony s egy bölcsebb, szép halál.")
+- Második mondat
+	- Bolond = a menetelők, akik fölkelnek
+	- Jelen borzalmai az otthonban, annak lehetséges pusztulása
+	- Hanyatt feküdt a házfal - megszemélyesítés
+	- "és félelemtől bolyhos a honni éjszaka." - szinesztézia
+	- Otthon bizonytalansága + jelen borzalmai  - Hetedik ekloga
+- Harmadik mondat
+	- Idilli otthon, azt kellemessé tevő dolgok felsorolása
+	- Jövőkép bemutatása
+- Zárlat - visszautal az első sorra
+
+Lírai én - saját érzései mindenkire igazak
+### Razglednicák
+Jelentése - képeslap - Babits Messze... Messze... művében is megjelenik
+Radnótinál az utolsó stáció versei
+A későbbi versek egyre naturalistábban írják le a menetet
+#### 1
+Első versszak - táj, borzalmak
+- Megszemélyesítések
+- Felsorolás
+- Ágyúszótól megriadó állatok képe
+Második versszak - lelke, idill
+- Fanni áll a középpontban, de csak megszólítva van
+- "némán, akár az angyal" - hasonlat
+- Temetkező bogár - életet ad a fának
+#### 2
+Háború sújtotta területről és a háborút még nem tapasztalt terület (idill, nyugodt) képei
+#### 3
+Század = időt vagy az emberek csoportját jelöli
