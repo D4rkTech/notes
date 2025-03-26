@@ -74,7 +74,7 @@ Imitáció, utánzás
 - Ekloga műfaj igazolása
 	- Hexameteres
 		- Látod-e, esteledik s a szögesdróttal beszegett, vad
-		-   u   u| -    u  u|-      u     u|  -      -    |-    u    u | -       -
+		- u    u| -    u  u|-      u     u|  -      -    |-    u    u | -       -
 		- tölgykerités, barak oly lebegő, felszívja az este.
 		-        u u|-      u  u | -     u   u | -    - |  -   u  u | -     u
 	- Monológus, de személyhez szól, megszólítja a kedvesét, de nem kap választ
@@ -107,12 +107,59 @@ Imitáció, utánzás
 		- biztonság - otthon, versírás, de bizonytalan, hogy az otthon megvan-e még
 Szerkezet
 - 1. vsz. - megszólítás
-- 2-5. vsz. - tábor naturalista leírása
-- 6. vsz. - elköszönés, megszólítás
+- 2-5. vsz. - tábor naturalista leírása + otthonnal kapcsolatos remények kifejezése
+- 6. vsz. - elköszönés
+
+Levél műfaj - fiktív "párbeszéd" válasz nélkül, több megszólítás
+
+Témaválasztás - idillikus helyzetet tönkreteszi a háború (munkatábor)
+
+Vershelyzet - 3. vsz - vers írásának körülményei - naturalista leírás
+
+Minden ember egyenlő - 4. vsz. felsorolja a nemzetiségeket - metafora (mind zsidó)
+
+Naturalista leírás - 5. vsz. eleje (légysereg - hullák, embertelen állapot) + dehumanizáció (fogoly állat)
+
+Radnóti minden körülmények között ír, feladata az írás - ars poetica
+
+Ellentétező szerkezet - csapongó, rapszodikus jelleg
+
+Hangulat - nyomasztó (embertelen körülmények + dehumanizáció) + közönyös, lemondó hangvétel - elégikus
+
+Alapgondolat - körülmények bemutatása; elmondani azt, hogy ő még életben van + saját bizonytalanságának kifejezése (ellentétező szerkezet)
+
+Költői alakzatok, képek:
+- "csak az ész, csak az ész" - ismétlés
+- "az álom, a szép szabadító" - alliteráció + metafora (álom = szabadító)
+- 2. vsz. - kérdő mondatok, költői kérdések - feszültség, bizonytalanság
+- "úgy irom itt a homályban a verset, mint ahogy élek, / vaksin, hernyóként araszolgatván a papíron" - hasonlat
+- népek felsorolása + metafora (zsidó mind)
+- "szakadár szerb" - alliteráció
+- "férgek közt fogoly állat" - önmetafora, dehumanizáció
+- "árnya lépdel" - megszemélyesítés
+- "Alszik a tábor" - térbeli metonímia (tábor = benne lévő emberek)
+- "nem jön az álom, az enyhetadó" - halál szépítő körülírása
+
+Zárósor - horatiusi karmenből szó szerint - intertextus
+
+Metonímia: 
+- Térbeli, időbeli, ok-okozati, anyagi fajták
+- Névcserére építő költői kép
+- pl. teret jelöl meg az emberek helyett, anyagot jelöl meg tárgy helyett, "szeméből a bánat eredt"
 
 Műelemzési szempontok:
 - Cím
-- Keletkezés (dátum, helyszín)
 - Műfaji meghatározás
 - Formaiság (strofikus, astrofikus, rímképlet, szótagszám, verstani jellemzők)
+- Vershelyzet
+- Hangulat
+- Alapgondolat
 - Szerkezet
+- Nyelvi kifejezőeszközök
+- Képi világ, költői eszközök
+
+### Erőltetett menet
+Sor közepén - éles cezúra
+Vers formája tartalmat ad vissza - cezúrák az erőltetett menetet jelentik
+14-13 szótagos sorok (7-7; 7-6 szótagos sordarabokra töri - nibelungizált alexandrin)
+Cím - témamegjelölő jelzős szerkezet, vershelyzetet - Bor - munkaszolgálat - bori notesz
