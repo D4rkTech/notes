@@ -197,4 +197,12 @@ Második versszak - lelke, idill
 #### 2
 Háború sújtotta területről és a háborút még nem tapasztalt terület (idill, nyugodt) képei
 #### 3
-Század = időt vagy az emberek csoportját jelöli
+#### 4
+"mint a húr" - hegedűművész mivoltára utal
+Nem képeslap-szerű objektív leírás, hanem E/1-es leírás
+Tényszerű megállapítás - "Tarkólövés" - egyetlen szóval fejezi ki a helyzet brutalitását
+"Így végzed hát te is" - önmegszólítás
+"Halált virágzik most a türelem" - körülírás (ez a sorsa, előbb-utóbb bekövetkezik)
+Német megszólalás - "der" = ez, tárgyiasít, objektivizál; "spring(en)" - ugrás - tarkólövés utáni rándulás
+Zárósor - még egy lövés leírása
+Saját halálát jövendöli meg (Mint a bika; Egy gondolat bánt engemet)
