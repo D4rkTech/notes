@@ -69,3 +69,41 @@ Kezdeményezhet népszavazást
 Aláírásával szentesíti a törvényjavaslatokat
 Javaslatokat egyszer visszaküldhet, vagy továbbíthatja az Alkotmánybíróságnak
 ### A választási rendszer
+A választójog:
+- Általános, vagyis nincsen vagyoni vagy műveltségi cenzus
+- Egyenlő, vagyis mindenkinek azonos értékű választójoggal bír, de nem azonos hatásfokúval (pl. külhoni magyarok csak listára szavazhatnak, egyéni jelöltekre nem)
+- Titkos, vagyis tartalma nem nyilvános
+- Közvetlen, vagyis nincs elektori rendszer, mint az USA-ban
+- Önkéntes, nem kötelező
+A választási folyamat fő szereplői
+- A választók (aktív választójog) - 18 éven felüliek, akik nincsenek eltiltva a közügyektől
+- A "választék" (passzív választójog) - akinek aktív választójoga van, az választható is
+Országgyűlési (4 évente) és önkormányzati választás (5 évente)
+Vegyes választási rendszer
+- Egyéni és listás (mindenkinek két szavazata van)
+- Külön lehet szavazni a pártok listájára és az egyéni jelöltekre
+A legtöbb szavazatot kapott pártkoalíció/párt alakíthat kormányt
+2010 előtt kétfordulós, 2014 után egyfordulós
+Az előző (2012 előtti) parlamenti választási rendszerben 386 mandátum volt összesen (176 egyéni, 152 pártlistás, 58 kompenzációs)
+Az új rendszerben 199 mandátum van összesen (106 egyéni (vesztes egyéni szavazatok a pártlistás szavazatokhoz adódnak), 93 országos listás, egyben kompenzációs lista)
+"itthoni" listás, nemzetiségi listás, "külhoni" listás
+Országos listát az a párt állíthat, amelyik 9 vármegyében és Budapesten, legalább 27 választókörzetben jelöltet tudott állítani
+A listáról csak olyan párt szerezhet mandátumot, amely megszerzi a szavazatok legalább 5%-át (parlamenti küszöb)
+Képviselőjelölt az lehet, aki 500 ajánlást összegyűjtött
+Ezt ajánlási íveken lehet megtenni
+Akár több személyt is lehet ajánlani
+Önkormányzatok: 
+- Vármegyék + főváros és kerületei - területi önkormányzat
+- Városok, falvak - helyi önkormányzat
+Önkormányzati képviselők (képviselőtestület) - megválasztásuk eltér a települések nagysága szerint
+10000-nél kevesebb lakos - egyéni listás jelöltek, legtöbb szavazatot szerzők lesznek az önkormányzati képviselők (annyi szavazatot lehet leadni, ahány tagú a közgyűlés)
+10000-nél több lakos - választókerületek és kerületenként történik az egyéni jelöltek választása
+Mindkét esetben lehet megyei pártlistákra szavazni
+#TODO 
+Budapesten:
+- Főpolgármester jelöltek
+- Kerületi polgármester jelöltek
+- Egyéni kerületenként szavazás a kerületekben
+- Fővárosi pártlistára is szavaznak
+Az önkormányzat feladatai:
+- #TODO 
