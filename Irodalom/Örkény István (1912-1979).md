@@ -52,3 +52,9 @@ Kiindulópontja: nincs idill, ha mégis van, akkor az látszólagos
 - Tót: apa, tűzoltó, elviseli az őrnagy megalázását
 - Őrnagy: el kell viselnie a háború borzalmait
 Tóték cím - általános név, általánosít - példázatos + "kisember" jelleget erősít (hétköznapi munkából élnek, másokat szolgálnak)
+Szóbeli tételben: irodalom határterülete
+- Filmfeldolgozások, dalszövegek, peremrétegek - lektűr, ponyva, sci-fi, detektív, folklór, népdal, népmese
+- Film adatai (színészek, rendező)
+- Címértelmezés összehasonlítása
+- Cselekményen végig a különbségek (kihagyott, extra, módosított jelenetek)
+- Zárlat: filmesítés szükségessége
